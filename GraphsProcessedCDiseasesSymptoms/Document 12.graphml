@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="lung"/>
+<node id="alway"/>
+<node id="pleurisi"/>
+<node id="inflamm"/>
+<node id="sheetlik"/>
+<node id="layer"/>
+<node id="cover"/>
+<node id="pleura"/>
+<node id="common"/>
+<node id="symptom"/>
+<node id="sharp"/>
+<node id="chest"/>
+<node id="pain"/>
+<node id="breath"/>
+<node id="deepli"/>
+<node id="sometim"/>
+<node id="also"/>
+<node id="felt"/>
+<node id="shoulder"/>
+<node id="may"/>
+<node id="wors"/>
+<node id="cough"/>
+<node id="seiz"/>
+<node id="move"/>
+<node id="around"/>
+<node id="reliev"/>
+<node id="take"/>
+<node id="shallow"/>
+<node id="includ"/>
+<node id="short"/>
+<node id="dri"/>
+<node id="visit"/>
+<node id="of"/>
+<node id="experi"/>
+<node id="week"/>
+<node id="immedi"/>
+<node id="medic"/>
+<node id="help"/>
+<node id="sever"/>
+<node id="particularli"/>
+<node id="blood"/>
+<node id="nausea"/>
+<node id="sweat"/>
+<node id="usual"/>
+<node id="diagnos"/>
+<node id="studi"/>
+<node id="listen"/>
+<node id="check"/>
+<node id="distinct"/>
+<node id="crunch"/>
+<node id="sound"/>
+<node id="suggest"/>
+<node id="test"/>
+<node id="need"/>
+<node id="identifi"/>
+<node id="underli"/>
+<node id="caus"/>
+<node id="assess"/>
+<node id="case"/>
+<node id="result"/>
+<node id="vital"/>
+<node id="infect"/>
+<node id="fli"/>
+<node id="bacteri"/>
+<node id="pneumonia"/>
+<node id="rarer"/>
+<node id="clot"/>
+<node id="block"/>
+<node id="flow"/>
+<node id="pulmonari"/>
+<node id="embol"/>
+<node id="cancer"/>
+<node id="affect"/>
+<node id="peopl"/>
+<node id="age"/>
+<node id="65"/>
+<node id="year"/>
+<node id="risk"/>
+<node id="like"/>
+<node id="develop"/>
+<node id="head"/>
+<node id="treatment"/>
+<node id="depend"/>
+<node id="exampl"/>
+<node id="often"/>
+<node id="resolv"/>
+<node id="without"/>
+<node id="howev"/>
+<node id="treat"/>
+<node id="antibiot"/>
+<node id="frail"/>
+<node id="alreadi"/>
+<node id="poor"/>
+<node id="health"/>
+<node id="admit"/>
+<node id="hospit"/>
+<node id="onsteroid"/>
+<node id="antiinflammatori"/>
+<node id="drug"/>
+<node id="nsaid"/>
+<node id="ibuprofen"/>
+<node id="use"/>
+<node id="associ"/>
+<node id="excess"/>
+<node id="fluid"/>
+<node id="build"/>
+<node id="pleural"/>
+<node id="necessari"/>
+<node id="drain"/>
+<node id="prevent"/>
+<node id="difficulti"/>
+<node id="anoth"/>
+<node id="two"/>
+<node id="thin"/>
+<node id="sheet"/>
+<node id="tissu"/>
+<node id="separ"/>
+<node id="ribcag"/>
+<node id="one"/>
+<node id="attach"/>
+<node id="liquid"/>
+<node id="lubric"/>
+<node id="reduc"/>
+<node id="friction"/>
+<node id="surfac"/>
+<node id="becom"/>
+<node id="rough"/>
+<node id="sticki"/>
+<node id="rub"/>
+<node id="togeth"/>
+<node id="discomfort"/>
+<node id="type"/>
+<node id="potenti"/>
+<node id="spread"/>
+<node id="respons"/>
+<node id="sinus"/>
+<node id="known"/>
+<node id="bacteria"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="lung"/>
+<edge source="condit" target="blood"/>
+<edge source="condit" target="infect"/>
+<edge source="lung" target="alway"/>
+<edge source="lung" target="pleura"/>
+<edge source="lung" target="pulmonari"/>
+<edge source="lung" target="cancer"/>
+<edge source="lung" target="ribcag"/>
+<edge source="lung" target="pleural"/>
+<edge source="alway" target="pleurisi"/>
+<edge source="pleurisi" target="pleurisi"/>
+<edge source="pleurisi" target="inflamm"/>
+<edge source="pleurisi" target="sharp"/>
+<edge source="pleurisi" target="usual"/>
+<edge source="pleurisi" target="test"/>
+<edge source="pleurisi" target="assess"/>
+<edge source="pleurisi" target="caus"/>
+<edge source="pleurisi" target="affect"/>
+<edge source="pleurisi" target="treatment"/>
+<edge source="pleurisi" target="depend"/>
+<edge source="pleurisi" target="excess"/>
+<edge source="pleurisi" target="type"/>
+<edge source="pleurisi" target="includ"/>
+<edge source="inflamm" target="sheetlik"/>
+<edge source="inflamm" target="pleura"/>
+<edge source="inflamm" target="surfac"/>
+<edge source="sheetlik" target="layer"/>
+<edge source="layer" target="cover"/>
+<edge source="layer" target="may"/>
+<edge source="layer" target="liquid"/>
+<edge source="layer" target="becom"/>
+<edge source="layer" target="rub"/>
+<edge source="cover" target="lung"/>
+<edge source="pleura" target="common"/>
+<edge source="pleura" target="usual"/>
+<edge source="pleura" target="two"/>
+<edge source="pleura" target="help"/>
+<edge source="pleura" target="vital"/>
+<edge source="common" target="symptom"/>
+<edge source="common" target="caus"/>
+<edge source="symptom" target="pleurisi"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="week"/>
+<edge source="symptom" target="cough"/>
+<edge source="symptom" target="of"/>
+<edge source="sharp" target="chest"/>
+<edge source="chest" target="pain"/>
+<edge source="chest" target="check"/>
+<edge source="chest" target="infect"/>
+<edge source="pain" target="breath"/>
+<edge source="pain" target="also"/>
+<edge source="pain" target="may"/>
+<edge source="pain" target="sever"/>
+<edge source="pain" target="associ"/>
+<edge source="pain" target="discomfort"/>
+<edge source="breath" target="deepli"/>
+<edge source="breath" target="symptom"/>
+<edge source="breath" target="dri"/>
+<edge source="breath" target="difficulti"/>
+<edge source="breath" target="inflamm"/>
+<edge source="deepli" target="sometim"/>
+<edge source="sometim" target="pain"/>
+<edge source="sometim" target="caus"/>
+<edge source="also" target="felt"/>
+<edge source="also" target="symptom"/>
+<edge source="felt" target="shoulder"/>
+<edge source="shoulder" target="pain"/>
+<edge source="may" target="wors"/>
+<edge source="may" target="reliev"/>
+<edge source="may" target="pleurisi"/>
+<edge source="may" target="need"/>
+<edge source="may" target="admit"/>
+<edge source="may" target="necessari"/>
+<edge source="wors" target="cough"/>
+<edge source="cough" target="seiz"/>
+<edge source="cough" target="visit"/>
+<edge source="cough" target="blood"/>
+<edge source="seiz" target="move"/>
+<edge source="move" target="around"/>
+<edge source="around" target="may"/>
+<edge source="reliev" target="take"/>
+<edge source="reliev" target="chest"/>
+<edge source="take" target="shallow"/>
+<edge source="shallow" target="breath"/>
+<edge source="includ" target="short"/>
+<edge source="includ" target="case"/>
+<edge source="short" target="breath"/>
+<edge source="dri" target="cough"/>
+<edge source="dri" target="crunch"/>
+<edge source="visit" target="of"/>
+<edge source="of" target="experi"/>
+<edge source="of" target="listen"/>
+<edge source="experi" target="symptom"/>
+<edge source="week" target="immedi"/>
+<edge source="immedi" target="medic"/>
+<edge source="medic" target="help"/>
+<edge source="help" target="chest"/>
+<edge source="help" target="reduc"/>
+<edge source="sever" target="particularli"/>
+<edge source="sever" target="includ"/>
+<edge source="particularli" target="also"/>
+<edge source="blood" target="nausea"/>
+<edge source="blood" target="clot"/>
+<edge source="blood" target="lung"/>
+<edge source="nausea" target="sweat"/>
+<edge source="sweat" target="pleurisi"/>
+<edge source="usual" target="diagnos"/>
+<edge source="usual" target="treat"/>
+<edge source="usual" target="caus"/>
+<edge source="usual" target="respons"/>
+<edge source="diagnos" target="studi"/>
+<edge source="studi" target="symptom"/>
+<edge source="listen" target="chest"/>
+<edge source="check" target="distinct"/>
+<edge source="distinct" target="dri"/>
+<edge source="crunch" target="sound"/>
+<edge source="sound" target="suggest"/>
+<edge source="suggest" target="may"/>
+<edge source="test" target="may"/>
+<edge source="need" target="identifi"/>
+<edge source="identifi" target="underli"/>
+<edge source="identifi" target="pleura"/>
+<edge source="underli" target="caus"/>
+<edge source="caus" target="pleurisi"/>
+<edge source="caus" target="condit"/>
+<edge source="caus" target="exampl"/>
+<edge source="caus" target="vital"/>
+<edge source="caus" target="bacteri"/>
+<edge source="caus" target="anoth"/>
+<edge source="caus" target="identifi"/>
+<edge source="caus" target="layer"/>
+<edge source="caus" target="bacteria"/>
+<edge source="assess" target="sever"/>
+<edge source="case" target="result"/>
+<edge source="case" target="pleurisi"/>
+<edge source="result" target="vital"/>
+<edge source="result" target="pain"/>
+<edge source="vital" target="infect"/>
+<edge source="infect" target="fli"/>
+<edge source="infect" target="pneumonia"/>
+<edge source="infect" target="head"/>
+<edge source="infect" target="often"/>
+<edge source="infect" target="usual"/>
+<edge source="infect" target="sometim"/>
+<edge source="infect" target="common"/>
+<edge source="infect" target="potenti"/>
+<edge source="fli" target="bacteri"/>
+<edge source="bacteri" target="infect"/>
+<edge source="pneumonia" target="rarer"/>
+<edge source="rarer" target="case"/>
+<edge source="clot" target="block"/>
+<edge source="block" target="flow"/>
+<edge source="flow" target="blood"/>
+<edge source="pulmonari" target="embol"/>
+<edge source="embol" target="lung"/>
+<edge source="cancer" target="pleurisi"/>
+<edge source="affect" target="peopl"/>
+<edge source="peopl" target="age"/>
+<edge source="peopl" target="65"/>
+<edge source="peopl" target="frail"/>
+<edge source="age" target="peopl"/>
+<edge source="65" target="year"/>
+<edge source="year" target="risk"/>
+<edge source="risk" target="like"/>
+<edge source="like" target="develop"/>
+<edge source="develop" target="chest"/>
+<edge source="head" target="caus"/>
+<edge source="head" target="treat"/>
+<edge source="treatment" target="pleurisi"/>
+<edge source="treatment" target="howev"/>
+<edge source="depend" target="underli"/>
+<edge source="exampl" target="pleurisi"/>
+<edge source="often" target="resolv"/>
+<edge source="often" target="use"/>
+<edge source="resolv" target="without"/>
+<edge source="without" target="treatment"/>
+<edge source="howev" target="pleurisi"/>
+<edge source="treat" target="antibiot"/>
+<edge source="treat" target="pleurisi"/>
+<edge source="antibiot" target="peopl"/>
+<edge source="frail" target="alreadi"/>
+<edge source="alreadi" target="poor"/>
+<edge source="poor" target="health"/>
+<edge source="health" target="may"/>
+<edge source="admit" target="hospit"/>
+<edge source="hospit" target="onsteroid"/>
+<edge source="onsteroid" target="antiinflammatori"/>
+<edge source="antiinflammatori" target="drug"/>
+<edge source="drug" target="nsaid"/>
+<edge source="nsaid" target="ibuprofen"/>
+<edge source="ibuprofen" target="often"/>
+<edge source="use" target="reliev"/>
+<edge source="associ" target="pleurisi"/>
+<edge source="excess" target="fluid"/>
+<edge source="fluid" target="build"/>
+<edge source="fluid" target="prevent"/>
+<edge source="fluid" target="becom"/>
+<edge source="build" target="pleural"/>
+<edge source="pleural" target="layer"/>
+<edge source="pleural" target="sheet"/>
+<edge source="necessari" target="drain"/>
+<edge source="drain" target="fluid"/>
+<edge source="prevent" target="breath"/>
+<edge source="difficulti" target="head"/>
+<edge source="anoth" target="condit"/>
+<edge source="two" target="thin"/>
+<edge source="two" target="layer"/>
+<edge source="thin" target="sheet"/>
+<edge source="thin" target="layer"/>
+<edge source="sheet" target="tissu"/>
+<edge source="sheet" target="thin"/>
+<edge source="tissu" target="separ"/>
+<edge source="separ" target="lung"/>
+<edge source="ribcag" target="one"/>
+<edge source="ribcag" target="attach"/>
+<edge source="one" target="attach"/>
+<edge source="attach" target="ribcag"/>
+<edge source="attach" target="lung"/>
+<edge source="liquid" target="lubric"/>
+<edge source="lubric" target="pleura"/>
+<edge source="reduc" target="friction"/>
+<edge source="friction" target="breath"/>
+<edge source="surfac" target="two"/>
+<edge source="becom" target="rough"/>
+<edge source="becom" target="sticki"/>
+<edge source="rough" target="fluid"/>
+<edge source="sticki" target="caus"/>
+<edge source="rub" target="togeth"/>
+<edge source="togeth" target="result"/>
+<edge source="discomfort" target="infect"/>
+<edge source="type" target="infect"/>
+<edge source="potenti" target="spread"/>
+<edge source="spread" target="pleura"/>
+<edge source="respons" target="sinus"/>
+<edge source="sinus" target="known"/>
+<edge source="known" target="caus"/>
+</graph></graphml>

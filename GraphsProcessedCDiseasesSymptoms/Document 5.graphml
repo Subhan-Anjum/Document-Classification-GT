@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="brain"/>
+<node id="nerv"/>
+<node id="spinal"/>
+<node id="cord"/>
+<node id="atkinson"/>
+<node id="diseas"/>
+<node id="part"/>
+<node id="becom"/>
+<node id="progress"/>
+<node id="damag"/>
+<node id="mani"/>
+<node id="year"/>
+<node id="three"/>
+<node id="main"/>
+<node id="symptom"/>
+<node id="person"/>
+<node id="also"/>
+<node id="experi"/>
+<node id="wide"/>
+<node id="rang"/>
+<node id="physic"/>
+<node id="psycholog"/>
+<node id="includ"/>
+<node id="head"/>
+<node id="see"/>
+<node id="of"/>
+<node id="concern"/>
+<node id="may"/>
+<node id="ask"/>
+<node id="problem"/>
+<node id="experienc"/>
+<node id="refer"/>
+<node id="specialist"/>
+<node id="test"/>
+<node id="diagnos"/>
+<node id="caus"/>
+<node id="loss"/>
+<node id="cell"/>
+<node id="call"/>
+<node id="substanti"/>
+<node id="night"/>
+<node id="lead"/>
+<node id="reduct"/>
+<node id="chemic"/>
+<node id="dopamin"/>
+<node id="play"/>
+<node id="vital"/>
+<node id="role"/>
+<node id="regul"/>
+<node id="movement"/>
+<node id="bodi"/>
+<node id="respons"/>
+<node id="exactli"/>
+<node id="unclear"/>
+<node id="expert"/>
+<node id="think"/>
+<node id="combin"/>
+<node id="genet"/>
+<node id="environment"/>
+<node id="factor"/>
+<node id="thought"/>
+<node id="around"/>
+<node id="1"/>
+<node id="500"/>
+<node id="peopl"/>
+<node id="affect"/>
+<node id="mean"/>
+<node id="estim"/>
+<node id="127000"/>
+<node id="start"/>
+<node id="develop"/>
+<node id="50"/>
+<node id="although"/>
+<node id="20"/>
+<node id="first"/>
+<node id="40"/>
+<node id="men"/>
+<node id="slightli"/>
+<node id="like"/>
+<node id="get"/>
+<node id="women"/>
+<node id="current"/>
+<node id="cure"/>
+<node id="treatment"/>
+<node id="avail"/>
+<node id="help"/>
+<node id="reduc"/>
+<node id="maintain"/>
+<node id="qualiti"/>
+<node id="life"/>
+<node id="long"/>
+<node id="possibl"/>
+<node id="need"/>
+<node id="earli"/>
+<node id="stage"/>
+<node id="usual"/>
+<node id="mild"/>
+<node id="howev"/>
+<node id="regular"/>
+<node id="appoint"/>
+<node id="monitor"/>
+<node id="treat"/>
+<node id="wors"/>
+<node id="increasingli"/>
+<node id="difficult"/>
+<node id="carri"/>
+<node id="everyday"/>
+<node id="activ"/>
+<node id="without"/>
+<node id="assist"/>
+<node id="ani"/>
+<node id="respond"/>
+<node id="well"/>
+<node id="moder"/>
+<node id="disabl"/>
+<node id="wherea"/>
+<node id="minor"/>
+<node id="time"/>
+<node id="sever"/>
+<node id="directli"/>
+<node id="die"/>
+<node id="place"/>
+<node id="great"/>
+<node id="strain"/>
+<node id="make"/>
+<node id="vulner"/>
+<node id="seriou"/>
+<node id="lifethreaten"/>
+<node id="infect"/>
+<node id="advanc"/>
+<node id="normal"/>
+<node id="nearnorm"/>
+<node id="expect"/>
+<node id="live"/>
+<node id="use"/>
+<node id="read"/>
+<node id="guid"/>
+<node id="care"/>
+<node id="support"/>
+<node id="written"/>
+<node id="rel"/>
+<node id="gradual"/>
+<node id="differ"/>
+<node id="associ"/>
+<node id="common"/>
+<node id="describ"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="brain"/>
+<edge source="condit" target="part"/>
+<edge source="condit" target="peopl"/>
+<edge source="condit" target="first"/>
+<edge source="condit" target="monitor"/>
+<edge source="condit" target="progress"/>
+<edge source="condit" target="place"/>
+<edge source="brain" target="nerv"/>
+<edge source="brain" target="becom"/>
+<edge source="brain" target="call"/>
+<edge source="brain" target="dopamin"/>
+<edge source="nerv" target="spinal"/>
+<edge source="nerv" target="cell"/>
+<edge source="spinal" target="cord"/>
+<edge source="cord" target="atkinson"/>
+<edge source="atkinson" target="diseas"/>
+<edge source="atkinson" target="start"/>
+<edge source="diseas" target="atkinson"/>
+<edge source="diseas" target="condit"/>
+<edge source="diseas" target="person"/>
+<edge source="diseas" target="also"/>
+<edge source="diseas" target="see"/>
+<edge source="diseas" target="of"/>
+<edge source="diseas" target="caus"/>
+<edge source="diseas" target="exactli"/>
+<edge source="diseas" target="thought"/>
+<edge source="diseas" target="mean"/>
+<edge source="diseas" target="women"/>
+<edge source="diseas" target="treatment"/>
+<edge source="diseas" target="symptom"/>
+<edge source="diseas" target="get"/>
+<edge source="diseas" target="directli"/>
+<edge source="diseas" target="normal"/>
+<edge source="diseas" target="may"/>
+<edge source="diseas" target="usual"/>
+<edge source="diseas" target="common"/>
+<edge source="part" target="brain"/>
+<edge source="becom" target="progress"/>
+<edge source="becom" target="increasingli"/>
+<edge source="becom" target="sever"/>
+<edge source="progress" target="damag"/>
+<edge source="progress" target="symptom"/>
+<edge source="damag" target="mani"/>
+<edge source="mani" target="year"/>
+<edge source="mani" target="symptom"/>
+<edge source="mani" target="differ"/>
+<edge source="year" target="three"/>
+<edge source="three" target="main"/>
+<edge source="main" target="symptom"/>
+<edge source="symptom" target="atkinson"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="50"/>
+<edge source="symptom" target="40"/>
+<edge source="symptom" target="maintain"/>
+<edge source="symptom" target="usual"/>
+<edge source="symptom" target="associ"/>
+<edge source="symptom" target="describ"/>
+<edge source="person" target="atkinson"/>
+<edge source="also" target="experi"/>
+<edge source="also" target="use"/>
+<edge source="experi" target="wide"/>
+<edge source="experi" target="symptom"/>
+<edge source="experi" target="mild"/>
+<edge source="wide" target="rang"/>
+<edge source="rang" target="physic"/>
+<edge source="physic" target="psycholog"/>
+<edge source="psycholog" target="symptom"/>
+<edge source="includ" target="head"/>
+<edge source="includ" target="may"/>
+<edge source="head" target="symptom"/>
+<edge source="head" target="diagnos"/>
+<edge source="head" target="caus"/>
+<edge source="head" target="treat"/>
+<edge source="head" target="live"/>
+<edge source="see" target="of"/>
+<edge source="of" target="concern"/>
+<edge source="of" target="ask"/>
+<edge source="of" target="condit"/>
+<edge source="concern" target="may"/>
+<edge source="may" target="symptom"/>
+<edge source="may" target="refer"/>
+<edge source="may" target="need"/>
+<edge source="may" target="respond"/>
+<edge source="may" target="also"/>
+<edge source="ask" target="problem"/>
+<edge source="problem" target="experienc"/>
+<edge source="experienc" target="may"/>
+<edge source="refer" target="specialist"/>
+<edge source="specialist" target="test"/>
+<edge source="specialist" target="condit"/>
+<edge source="test" target="head"/>
+<edge source="diagnos" target="atkinson"/>
+<edge source="caus" target="loss"/>
+<edge source="caus" target="atkinson"/>
+<edge source="caus" target="peopl"/>
+<edge source="loss" target="nerv"/>
+<edge source="cell" target="part"/>
+<edge source="cell" target="unclear"/>
+<edge source="call" target="substanti"/>
+<edge source="call" target="dopamin"/>
+<edge source="substanti" target="night"/>
+<edge source="night" target="lead"/>
+<edge source="lead" target="reduct"/>
+<edge source="reduct" target="chemic"/>
+<edge source="reduct" target="dopamin"/>
+<edge source="chemic" target="call"/>
+<edge source="dopamin" target="brain"/>
+<edge source="dopamin" target="play"/>
+<edge source="dopamin" target="respons"/>
+<edge source="play" target="vital"/>
+<edge source="vital" target="role"/>
+<edge source="role" target="regul"/>
+<edge source="regul" target="movement"/>
+<edge source="movement" target="bodi"/>
+<edge source="bodi" target="reduct"/>
+<edge source="bodi" target="make"/>
+<edge source="respons" target="mani"/>
+<edge source="respons" target="head"/>
+<edge source="exactli" target="caus"/>
+<edge source="unclear" target="expert"/>
+<edge source="expert" target="think"/>
+<edge source="think" target="combin"/>
+<edge source="combin" target="genet"/>
+<edge source="genet" target="environment"/>
+<edge source="environment" target="factor"/>
+<edge source="factor" target="respons"/>
+<edge source="thought" target="around"/>
+<edge source="around" target="1"/>
+<edge source="1" target="500"/>
+<edge source="1" target="20"/>
+<edge source="500" target="peopl"/>
+<edge source="peopl" target="affect"/>
+<edge source="peopl" target="of"/>
+<edge source="peopl" target="atkinson"/>
+<edge source="peopl" target="condit"/>
+<edge source="peopl" target="respond"/>
+<edge source="peopl" target="die"/>
+<edge source="peopl" target="vulner"/>
+<edge source="peopl" target="care"/>
+<edge source="affect" target="atkinson"/>
+<edge source="mean" target="estim"/>
+<edge source="estim" target="127000"/>
+<edge source="127000" target="peopl"/>
+<edge source="start" target="develop"/>
+<edge source="develop" target="symptom"/>
+<edge source="develop" target="gradual"/>
+<edge source="50" target="although"/>
+<edge source="although" target="around"/>
+<edge source="although" target="current"/>
+<edge source="20" target="peopl"/>
+<edge source="first" target="experi"/>
+<edge source="first" target="mani"/>
+<edge source="40" target="men"/>
+<edge source="men" target="slightli"/>
+<edge source="slightli" target="like"/>
+<edge source="like" target="get"/>
+<edge source="get" target="atkinson"/>
+<edge source="get" target="wors"/>
+<edge source="women" target="although"/>
+<edge source="current" target="cure"/>
+<edge source="cure" target="atkinson"/>
+<edge source="treatment" target="avail"/>
+<edge source="treatment" target="earli"/>
+<edge source="treatment" target="experi"/>
+<edge source="treatment" target="peopl"/>
+<edge source="avail" target="help"/>
+<edge source="help" target="reduc"/>
+<edge source="reduc" target="main"/>
+<edge source="maintain" target="qualiti"/>
+<edge source="qualiti" target="life"/>
+<edge source="life" target="long"/>
+<edge source="life" target="expect"/>
+<edge source="long" target="possibl"/>
+<edge source="possibl" target="includ"/>
+<edge source="need" target="treatment"/>
+<edge source="need" target="regular"/>
+<edge source="need" target="well"/>
+<edge source="earli" target="stage"/>
+<edge source="stage" target="atkinson"/>
+<edge source="usual" target="mild"/>
+<edge source="usual" target="develop"/>
+<edge source="mild" target="howev"/>
+<edge source="mild" target="moder"/>
+<edge source="mild" target="first"/>
+<edge source="howev" target="may"/>
+<edge source="howev" target="advanc"/>
+<edge source="regular" target="appoint"/>
+<edge source="appoint" target="specialist"/>
+<edge source="monitor" target="head"/>
+<edge source="treat" target="atkinson"/>
+<edge source="wors" target="becom"/>
+<edge source="increasingli" target="difficult"/>
+<edge source="difficult" target="carri"/>
+<edge source="carri" target="everyday"/>
+<edge source="everyday" target="activ"/>
+<edge source="activ" target="without"/>
+<edge source="without" target="assist"/>
+<edge source="assist" target="ani"/>
+<edge source="ani" target="peopl"/>
+<edge source="respond" target="well"/>
+<edge source="well" target="treatment"/>
+<edge source="well" target="time"/>
+<edge source="well" target="care"/>
+<edge source="moder" target="disabl"/>
+<edge source="disabl" target="wherea"/>
+<edge source="disabl" target="atkinson"/>
+<edge source="wherea" target="minor"/>
+<edge source="minor" target="may"/>
+<edge source="time" target="becom"/>
+<edge source="sever" target="disabl"/>
+<edge source="directli" target="caus"/>
+<edge source="die" target="condit"/>
+<edge source="place" target="great"/>
+<edge source="great" target="strain"/>
+<edge source="strain" target="bodi"/>
+<edge source="make" target="peopl"/>
+<edge source="vulner" target="seriou"/>
+<edge source="seriou" target="lifethreaten"/>
+<edge source="lifethreaten" target="infect"/>
+<edge source="infect" target="howev"/>
+<edge source="advanc" target="treatment"/>
+<edge source="normal" target="nearnorm"/>
+<edge source="nearnorm" target="life"/>
+<edge source="expect" target="head"/>
+<edge source="live" target="atkinson"/>
+<edge source="use" target="read"/>
+<edge source="read" target="guid"/>
+<edge source="guid" target="care"/>
+<edge source="care" target="support"/>
+<edge source="care" target="rel"/>
+<edge source="support" target="written"/>
+<edge source="support" target="need"/>
+<edge source="written" target="peopl"/>
+<edge source="rel" target="symptom"/>
+<edge source="gradual" target="mild"/>
+<edge source="differ" target="symptom"/>
+<edge source="associ" target="atkinson"/>
+<edge source="common" target="symptom"/>
+</graph></graphml>

@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="mental"/>
+<node id="health"/>
+<node id="panic"/>
+<node id="disord"/>
+<node id="recur"/>
+<node id="regular"/>
+<node id="attack"/>
+<node id="often"/>
+<node id="appar"/>
+<node id="reason"/>
+<node id="everyon"/>
+<node id="experi"/>
+<node id="feel"/>
+<node id="anxieti"/>
+<node id="certain"/>
+<node id="time"/>
+<node id="lifetim"/>
+<node id="natur"/>
+<node id="respons"/>
+<node id="distress"/>
+<node id="danger"/>
+<node id="situat"/>
+<node id="howev"/>
+<node id="someon"/>
+<node id="stress"/>
+<node id="occur"/>
+<node id="regularli"/>
+<node id="uneasi"/>
+<node id="rang"/>
+<node id="mild"/>
+<node id="sever"/>
+<node id="includ"/>
+<node id="worri"/>
+<node id="fear"/>
+<node id="caus"/>
+<node id="bodi"/>
+<node id="rush"/>
+<node id="intens"/>
+<node id="psycholog"/>
+<node id="physic"/>
+<node id="symptom"/>
+<node id="may"/>
+<node id="overwhelm"/>
+<node id="sens"/>
+<node id="apprehens"/>
+<node id="well"/>
+<node id="also"/>
+<node id="number"/>
+<node id="depend"/>
+<node id="peopl"/>
+<node id="one"/>
+<node id="two"/>
+<node id="month"/>
+<node id="other"/>
+<node id="week"/>
+<node id="head"/>
+<node id="frighten"/>
+<node id="harm"/>
+<node id="unlik"/>
+<node id="admit"/>
+<node id="hospit"/>
+<node id="mani"/>
+<node id="exact"/>
+<node id="fulli"/>
+<node id="understood"/>
+<node id="thought"/>
+<node id="probabl"/>
+<node id="link"/>
+<node id="combin"/>
+<node id="factor"/>
+<node id="possibl"/>
+<node id="import"/>
+<node id="awar"/>
+<node id="similar"/>
+<node id="exampl"/>
+<node id="see"/>
+<node id="of"/>
+<node id="diagnos"/>
+<node id="recurr"/>
+<node id="unexpect"/>
+<node id="follow"/>
+<node id="least"/>
+<node id="continu"/>
+<node id="concern"/>
+<node id="aim"/>
+<node id="treat"/>
+<node id="reduc"/>
+<node id="eas"/>
+<node id="therapi"/>
+<node id="medit"/>
+<node id="main"/>
+<node id="type"/>
+<node id="treatment"/>
+<node id="thing"/>
+<node id="help"/>
+<node id="affect"/>
+<node id="abil"/>
+<node id="drive"/>
+<node id="legal"/>
+<node id="oblig"/>
+<node id="inform"/>
+<node id="river"/>
+<node id="vehicl"/>
+<node id="licens"/>
+<node id="agenc"/>
+<node id="dvla"/>
+<node id="medic"/>
+<node id="could"/>
+<node id="impact"/>
+<node id="govof"/>
+<node id="advic"/>
+<node id="disabl"/>
+<node id="readabl"/>
+<node id="make"/>
+<node id="full"/>
+<node id="recoveri"/>
+<node id="seek"/>
+<node id="soon"/>
+<node id="much"/>
+<node id="effect"/>
+<node id="given"/>
+<node id="earli"/>
+<node id="stage"/>
+<node id="left"/>
+<node id="untreat"/>
+<node id="becom"/>
+<node id="debilit"/>
+<node id="isol"/>
+<node id="increas"/>
+<node id="risk"/>
+<node id="develop"/>
+<node id="agoraphobia"/>
+<node id="photiu"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="ill" target="also"/>
+<edge source="condit" target="mental"/>
+<edge source="condit" target="caus"/>
+<edge source="condit" target="peopl"/>
+<edge source="condit" target="exact"/>
+<edge source="condit" target="probabl"/>
+<edge source="condit" target="disord"/>
+<edge source="condit" target="could"/>
+<edge source="condit" target="panic"/>
+<edge source="condit" target="agoraphobia"/>
+<edge source="mental" target="health"/>
+<edge source="mental" target="physic"/>
+<edge source="health" target="panic"/>
+<edge source="health" target="condit"/>
+<edge source="panic" target="disord"/>
+<edge source="panic" target="attack"/>
+<edge source="panic" target="certain"/>
+<edge source="panic" target="occur"/>
+<edge source="disord" target="panic"/>
+<edge source="disord" target="recur"/>
+<edge source="disord" target="feel"/>
+<edge source="disord" target="fulli"/>
+<edge source="disord" target="import"/>
+<edge source="disord" target="similar"/>
+<edge source="disord" target="see"/>
+<edge source="disord" target="experi"/>
+<edge source="disord" target="diagnos"/>
+<edge source="disord" target="reduc"/>
+<edge source="disord" target="head"/>
+<edge source="disord" target="thing"/>
+<edge source="disord" target="may"/>
+<edge source="disord" target="readabl"/>
+<edge source="disord" target="much"/>
+<edge source="disord" target="becom"/>
+<edge source="recur" target="regular"/>
+<edge source="regular" target="panic"/>
+<edge source="attack" target="often"/>
+<edge source="attack" target="occur"/>
+<edge source="attack" target="depend"/>
+<edge source="attack" target="month"/>
+<edge source="attack" target="week"/>
+<edge source="attack" target="frighten"/>
+<edge source="attack" target="caus"/>
+<edge source="attack" target="mani"/>
+<edge source="attack" target="follow"/>
+<edge source="attack" target="head"/>
+<edge source="attack" target="eas"/>
+<edge source="attack" target="panic"/>
+<edge source="often" target="appar"/>
+<edge source="appar" target="reason"/>
+<edge source="reason" target="everyon"/>
+<edge source="everyon" target="experi"/>
+<edge source="experi" target="feel"/>
+<edge source="experi" target="rush"/>
+<edge source="experi" target="overwhelm"/>
+<edge source="experi" target="recurr"/>
+<edge source="feel" target="anxieti"/>
+<edge source="feel" target="uneasi"/>
+<edge source="feel" target="worri"/>
+<edge source="feel" target="may"/>
+<edge source="anxieti" target="panic"/>
+<edge source="anxieti" target="stress"/>
+<edge source="anxieti" target="feel"/>
+<edge source="anxieti" target="includ"/>
+<edge source="anxieti" target="well"/>
+<edge source="anxieti" target="exampl"/>
+<edge source="certain" target="time"/>
+<edge source="time" target="lifetim"/>
+<edge source="time" target="anxieti"/>
+<edge source="lifetim" target="natur"/>
+<edge source="natur" target="respons"/>
+<edge source="respons" target="distress"/>
+<edge source="distress" target="danger"/>
+<edge source="danger" target="situat"/>
+<edge source="danger" target="attack"/>
+<edge source="situat" target="howev"/>
+<edge source="howev" target="someon"/>
+<edge source="howev" target="thought"/>
+<edge source="someon" target="panic"/>
+<edge source="stress" target="panic"/>
+<edge source="occur" target="regularli"/>
+<edge source="occur" target="bodi"/>
+<edge source="regularli" target="time"/>
+<edge source="uneasi" target="rang"/>
+<edge source="rang" target="mild"/>
+<edge source="mild" target="sever"/>
+<edge source="sever" target="includ"/>
+<edge source="sever" target="condit"/>
+<edge source="sever" target="anxieti"/>
+<edge source="sever" target="attack"/>
+<edge source="sever" target="symptom"/>
+<edge source="includ" target="feel"/>
+<edge source="includ" target="panic"/>
+<edge source="worri" target="fear"/>
+<edge source="worri" target="concern"/>
+<edge source="fear" target="sever"/>
+<edge source="fear" target="apprehens"/>
+<edge source="caus" target="sever"/>
+<edge source="caus" target="physic"/>
+<edge source="caus" target="panic"/>
+<edge source="bodi" target="experi"/>
+<edge source="rush" target="intens"/>
+<edge source="intens" target="psycholog"/>
+<edge source="intens" target="danger"/>
+<edge source="psycholog" target="mental"/>
+<edge source="psycholog" target="factor"/>
+<edge source="psycholog" target="therapi"/>
+<edge source="physic" target="symptom"/>
+<edge source="physic" target="harm"/>
+<edge source="physic" target="psycholog"/>
+<edge source="physic" target="condit"/>
+<edge source="symptom" target="may"/>
+<edge source="symptom" target="number"/>
+<edge source="symptom" target="panic"/>
+<edge source="symptom" target="anxieti"/>
+<edge source="symptom" target="psycholog"/>
+<edge source="may" target="experi"/>
+<edge source="may" target="also"/>
+<edge source="may" target="one"/>
+<edge source="may" target="sever"/>
+<edge source="may" target="diagnos"/>
+<edge source="may" target="affect"/>
+<edge source="overwhelm" target="sens"/>
+<edge source="sens" target="fear"/>
+<edge source="apprehens" target="anxieti"/>
+<edge source="well" target="feel"/>
+<edge source="also" target="physic"/>
+<edge source="also" target="increas"/>
+<edge source="number" target="panic"/>
+<edge source="depend" target="sever"/>
+<edge source="peopl" target="may"/>
+<edge source="one" target="two"/>
+<edge source="one" target="month"/>
+<edge source="two" target="attack"/>
+<edge source="two" target="main"/>
+<edge source="month" target="other"/>
+<edge source="month" target="continu"/>
+<edge source="other" target="may"/>
+<edge source="week" target="head"/>
+<edge source="head" target="symptom"/>
+<edge source="head" target="possibl"/>
+<edge source="head" target="panic"/>
+<edge source="head" target="treat"/>
+<edge source="frighten" target="intens"/>
+<edge source="harm" target="unlik"/>
+<edge source="unlik" target="admit"/>
+<edge source="admit" target="hospit"/>
+<edge source="hospit" target="panic"/>
+<edge source="mani" target="mental"/>
+<edge source="exact" target="caus"/>
+<edge source="fulli" target="understood"/>
+<edge source="understood" target="howev"/>
+<edge source="thought" target="condit"/>
+<edge source="probabl" target="link"/>
+<edge source="link" target="combin"/>
+<edge source="combin" target="physic"/>
+<edge source="factor" target="head"/>
+<edge source="possibl" target="caus"/>
+<edge source="possibl" target="treatment"/>
+<edge source="import" target="awar"/>
+<edge source="import" target="seek"/>
+<edge source="awar" target="physic"/>
+<edge source="similar" target="symptom"/>
+<edge source="exampl" target="see"/>
+<edge source="see" target="of"/>
+<edge source="see" target="may"/>
+<edge source="of" target="symptom"/>
+<edge source="diagnos" target="panic"/>
+<edge source="diagnos" target="aim"/>
+<edge source="recurr" target="unexpect"/>
+<edge source="unexpect" target="panic"/>
+<edge source="follow" target="least"/>
+<edge source="least" target="one"/>
+<edge source="continu" target="worri"/>
+<edge source="concern" target="attack"/>
+<edge source="aim" target="treat"/>
+<edge source="treat" target="panic"/>
+<edge source="reduc" target="number"/>
+<edge source="eas" target="sever"/>
+<edge source="therapi" target="medit"/>
+<edge source="medit" target="two"/>
+<edge source="main" target="type"/>
+<edge source="type" target="treatment"/>
+<edge source="treatment" target="panic"/>
+<edge source="thing" target="help"/>
+<edge source="help" target="panic"/>
+<edge source="help" target="soon"/>
+<edge source="affect" target="abil"/>
+<edge source="abil" target="drive"/>
+<edge source="abil" target="govof"/>
+<edge source="drive" target="legal"/>
+<edge source="drive" target="abil"/>
+<edge source="drive" target="disabl"/>
+<edge source="legal" target="oblig"/>
+<edge source="oblig" target="inform"/>
+<edge source="inform" target="river"/>
+<edge source="inform" target="advic"/>
+<edge source="river" target="vehicl"/>
+<edge source="vehicl" target="licens"/>
+<edge source="licens" target="agenc"/>
+<edge source="agenc" target="dvla"/>
+<edge source="dvla" target="medic"/>
+<edge source="medic" target="condit"/>
+<edge source="medic" target="help"/>
+<edge source="could" target="impact"/>
+<edge source="impact" target="drive"/>
+<edge source="govof" target="inform"/>
+<edge source="advic" target="drive"/>
+<edge source="disabl" target="health"/>
+<edge source="readabl" target="make"/>
+<edge source="make" target="full"/>
+<edge source="full" target="recoveri"/>
+<edge source="recoveri" target="import"/>
+<edge source="seek" target="medic"/>
+<edge source="soon" target="possibl"/>
+<edge source="much" target="effect"/>
+<edge source="effect" target="given"/>
+<edge source="given" target="earli"/>
+<edge source="earli" target="stage"/>
+<edge source="stage" target="left"/>
+<edge source="left" target="untreat"/>
+<edge source="untreat" target="panic"/>
+<edge source="becom" target="debilit"/>
+<edge source="debilit" target="isol"/>
+<edge source="isol" target="ill"/>
+<edge source="increas" target="risk"/>
+<edge source="risk" target="develop"/>
+<edge source="develop" target="mental"/>
+<edge source="agoraphobia" target="photiu"/>
+</graph></graphml>

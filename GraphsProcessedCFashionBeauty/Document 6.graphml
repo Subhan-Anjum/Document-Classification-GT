@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="makeup"/>
+<node id="beauti"/>
+<node id="log"/>
+<node id="review"/>
+<node id="watch"/>
+<node id="nowto"/>
+<node id="blow"/>
+<node id="bloom"/>
+<node id="fresh"/>
+<node id="make"/>
+<node id="snatch"/>
+<node id="tip"/>
+<node id="friendli"/>
+<node id="neighborhood"/>
+<node id="adduct"/>
+<node id="march"/>
+<node id="with"/>
+<node id="2024"/>
+<node id="aren"/>
+<node id="1"/>
+<node id="comment"/>
+<node id="i"/>
+<node id="friend"/>
+<node id="keep"/>
+<node id="tell"/>
+<node id="sometim"/>
+<node id="near"/>
+<node id="futur"/>
+<node id="tire"/>
+<node id="hope"/>
+<node id="happen"/>
+<node id="sooner"/>
+<node id="later"/>
+<node id="though"/>
+<node id="mother"/>
+<node id="truce"/>
+<node id="month"/>
+<node id="love"/>
+<node id="much"/>
+<node id="am"/>
+<node id="want"/>
+<node id="someon"/>
+<node id="pleas"/>
+<node id="treat"/>
+<node id="kind"/>
+<node id="compass"/>
+<node id="today"/>
+<node id="need"/>
+<node id="rest"/>
+<node id="take"/>
+<node id="saturday"/>
+<node id="dure"/>
+<node id="30"/>
+<node id="origin"/>
+<node id="publish"/>
+<node id="categori"/>
+<node id="run"/>
+<node id="of"/>
+<node id="say"/>
+<node id="must"/>
+<node id="335"/>
+<node id="pm"/>
+<node id="know"/>
+<node id="fatigu"/>
+<node id="workrel"/>
+<node id="themtreat"/>
+<node id="includ"/>
+<node id="anaemia"/>
+<node id="caretak"/>
+<node id="elderli"/>
+<node id="appar"/>
+<node id="agerel"/>
+<node id="tri"/>
+<node id="get"/>
+<node id="good"/>
+<node id="sleep"/>
+<node id="easier"/>
+<node id="said"/>
+<node id="done"/>
+<node id="especi"/>
+<node id="one"/>
+<node id="older"/>
+<node id="diet"/>
+<node id="right"/>
+<node id="miner"/>
+<node id="vitamin"/>
+<node id="b12"/>
+<node id="seem"/>
+<node id="help"/>
+<node id="littl"/>
+<node id="current"/>
+<node id="regiment"/>
+<node id="1000"/>
+<node id="mug"/>
+<node id="2000"/>
+<node id="magnesium"/>
+<node id="glycin"/>
+<node id="200"/>
+<node id="my"/>
+<node id="also"/>
+<node id="c"/>
+<node id="either"/>
+<node id="orang"/>
+<node id="juic"/>
+<node id="citi"/>
+<node id="fruit"/>
+<node id="tablet"/>
+<node id="peopl"/>
+<node id="swear"/>
+<node id="problem"/>
+<node id="sure"/>
+<node id="state"/>
+<node id="muscl"/>
+<node id="cramp"/>
+<node id="medium"/>
+<node id="routin"/>
+<node id="delet"/>
+<node id="caus"/>
+<node id="heart"/>
+<node id="weekend"/>
+<node id="email"/>
+<node id="address"/>
+<node id="requir"/>
+<node id="field"/>
+<node id="mark"/>
+<node id="same"/>
+<node id="websit"/>
+<node id="nt"/>
+<node id="subscrib"/>
+<node id="new"/>
+<node id="repli"/>
+<node id="click"/>
+<node id="notifi"/>
+<node id="follow"/>
+<node id="via"/>
+<node id="may"/>
+<node id="without"/>
+<node id="δ"/>
+<node id="site"/>
+<node id="use"/>
+<node id="akismet"/>
+<node id="reduc"/>
+<node id="spasm"/>
+<node id="learn"/>
+<node id="data"/>
+<node id="process"/>
+<node id="welcom"/>
+<node id="name"/>
+<node id="freelanc"/>
+<node id="writer"/>
+<node id="obsess"/>
+<node id="featur"/>
+<node id="daili"/>
+<node id="product"/>
+<node id="news"/>
+<node id="like"/>
+<node id="interact"/>
+<node id="version"/>
+<node id="monthli"/>
+<node id="print"/>
+<node id="magazin"/>
+<node id="except"/>
+<node id="occasion"/>
+<node id="pictur"/>
+<node id="cat"/>
+<node id="copyright"/>
+<node id="2022"/>
+<node id="met"/>
+<node id="touch"/>
+<edge source="makeup" target="beauti"/>
+<edge source="makeup" target="review"/>
+<edge source="beauti" target="log"/>
+<edge source="beauti" target="blow"/>
+<edge source="beauti" target="tip"/>
+<edge source="beauti" target="adduct"/>
+<edge source="beauti" target="news"/>
+<edge source="log" target="makeup"/>
+<edge source="log" target="name"/>
+<edge source="log" target="featur"/>
+<edge source="log" target="met"/>
+<edge source="review" target="watch"/>
+<edge source="review" target="snatch"/>
+<edge source="review" target="make"/>
+<edge source="watch" target="nowto"/>
+<edge source="nowto" target="makeup"/>
+<edge source="blow" target="bloom"/>
+<edge source="bloom" target="fresh"/>
+<edge source="fresh" target="make"/>
+<edge source="make" target="review"/>
+<edge source="make" target="hope"/>
+<edge source="make" target="makeup"/>
+<edge source="make" target="tip"/>
+<edge source="snatch" target="beauti"/>
+<edge source="tip" target="friendli"/>
+<edge source="tip" target="beauti"/>
+<edge source="friendli" target="neighborhood"/>
+<edge source="neighborhood" target="beauti"/>
+<edge source="adduct" target="march"/>
+<edge source="adduct" target="aren"/>
+<edge source="march" target="with"/>
+<edge source="march" target="mother"/>
+<edge source="march" target="30"/>
+<edge source="march" target="must"/>
+<edge source="with" target="2024"/>
+<edge source="2024" target="aren"/>
+<edge source="2024" target="origin"/>
+<edge source="2024" target="categori"/>
+<edge source="2024" target="335"/>
+<edge source="aren" target="1"/>
+<edge source="aren" target="saturday"/>
+<edge source="aren" target="freelanc"/>
+<edge source="1" target="comment"/>
+<edge source="comment" target="i"/>
+<edge source="comment" target="same"/>
+<edge source="comment" target="repli"/>
+<edge source="comment" target="click"/>
+<edge source="comment" target="via"/>
+<edge source="comment" target="δ"/>
+<edge source="comment" target="data"/>
+<edge source="i" target="friend"/>
+<edge source="friend" target="keep"/>
+<edge source="keep" target="tell"/>
+<edge source="tell" target="sometim"/>
+<edge source="sometim" target="near"/>
+<edge source="near" target="futur"/>
+<edge source="futur" target="tire"/>
+<edge source="tire" target="hope"/>
+<edge source="hope" target="happen"/>
+<edge source="hope" target="treat"/>
+<edge source="happen" target="sooner"/>
+<edge source="sooner" target="later"/>
+<edge source="later" target="though"/>
+<edge source="though" target="march"/>
+<edge source="mother" target="truce"/>
+<edge source="truce" target="month"/>
+<edge source="month" target="love"/>
+<edge source="love" target="much"/>
+<edge source="much" target="am"/>
+<edge source="am" target="want"/>
+<edge source="want" target="someon"/>
+<edge source="someon" target="pleas"/>
+<edge source="pleas" target="make"/>
+<edge source="pleas" target="take"/>
+<edge source="treat" target="kind"/>
+<edge source="kind" target="compass"/>
+<edge source="compass" target="today"/>
+<edge source="today" target="need"/>
+<edge source="need" target="rest"/>
+<edge source="rest" target="pleas"/>
+<edge source="rest" target="weekend"/>
+<edge source="take" target="friendli"/>
+<edge source="take" target="b12"/>
+<edge source="take" target="state"/>
+<edge source="take" target="medium"/>
+<edge source="saturday" target="dure"/>
+<edge source="dure" target="march"/>
+<edge source="30" target="2024"/>
+<edge source="origin" target="publish"/>
+<edge source="publish" target="march"/>
+<edge source="publish" target="requir"/>
+<edge source="categori" target="run"/>
+<edge source="run" target="of"/>
+<edge source="of" target="say"/>
+<edge source="of" target="2000"/>
+<edge source="of" target="magnesium"/>
+<edge source="say" target="march"/>
+<edge source="say" target="sure"/>
+<edge source="must" target="2024"/>
+<edge source="335" target="pm"/>
+<edge source="pm" target="know"/>
+<edge source="know" target="fatigu"/>
+<edge source="fatigu" target="workrel"/>
+<edge source="fatigu" target="themtreat"/>
+<edge source="fatigu" target="includ"/>
+<edge source="fatigu" target="appar"/>
+<edge source="fatigu" target="tri"/>
+<edge source="workrel" target="fatigu"/>
+<edge source="themtreat" target="fatigu"/>
+<edge source="includ" target="anaemia"/>
+<edge source="anaemia" target="caretak"/>
+<edge source="caretak" target="elderli"/>
+<edge source="elderli" target="fatigu"/>
+<edge source="appar" target="agerel"/>
+<edge source="agerel" target="fatigu"/>
+<edge source="tri" target="get"/>
+<edge source="get" target="good"/>
+<edge source="get" target="older"/>
+<edge source="good" target="sleep"/>
+<edge source="good" target="diet"/>
+<edge source="good" target="rest"/>
+<edge source="sleep" target="easier"/>
+<edge source="sleep" target="problem"/>
+<edge source="easier" target="said"/>
+<edge source="said" target="done"/>
+<edge source="done" target="especi"/>
+<edge source="especi" target="one"/>
+<edge source="one" target="get"/>
+<edge source="older" target="good"/>
+<edge source="diet" target="right"/>
+<edge source="right" target="miner"/>
+<edge source="miner" target="vitamin"/>
+<edge source="vitamin" target="take"/>
+<edge source="vitamin" target="c"/>
+<edge source="b12" target="seem"/>
+<edge source="b12" target="1000"/>
+<edge source="seem" target="help"/>
+<edge source="help" target="littl"/>
+<edge source="help" target="sleep"/>
+<edge source="littl" target="current"/>
+<edge source="current" target="regiment"/>
+<edge source="regiment" target="b12"/>
+<edge source="1000" target="mug"/>
+<edge source="mug" target="of"/>
+<edge source="2000" target="of"/>
+<edge source="magnesium" target="glycin"/>
+<edge source="magnesium" target="help"/>
+<edge source="magnesium" target="caus"/>
+<edge source="glycin" target="200"/>
+<edge source="200" target="my"/>
+<edge source="my" target="also"/>
+<edge source="also" target="vitamin"/>
+<edge source="also" target="subscrib"/>
+<edge source="c" target="either"/>
+<edge source="either" target="orang"/>
+<edge source="orang" target="juic"/>
+<edge source="juic" target="citi"/>
+<edge source="citi" target="fruit"/>
+<edge source="fruit" target="tablet"/>
+<edge source="tablet" target="peopl"/>
+<edge source="peopl" target="swear"/>
+<edge source="swear" target="magnesium"/>
+<edge source="problem" target="say"/>
+<edge source="problem" target="good"/>
+<edge source="sure" target="take"/>
+<edge source="state" target="muscl"/>
+<edge source="muscl" target="cramp"/>
+<edge source="cramp" target="take"/>
+<edge source="medium" target="routin"/>
+<edge source="medium" target="delet"/>
+<edge source="routin" target="medium"/>
+<edge source="delet" target="magnesium"/>
+<edge source="caus" target="heart"/>
+<edge source="heart" target="problem"/>
+<edge source="weekend" target="email"/>
+<edge source="email" target="address"/>
+<edge source="email" target="websit"/>
+<edge source="email" target="may"/>
+<edge source="address" target="publish"/>
+<edge source="requir" target="field"/>
+<edge source="field" target="mark"/>
+<edge source="mark" target="comment"/>
+<edge source="same" target="email"/>
+<edge source="websit" target="nt"/>
+<edge source="nt" target="subscrib"/>
+<edge source="subscrib" target="new"/>
+<edge source="subscrib" target="without"/>
+<edge source="new" target="comment"/>
+<edge source="repli" target="comment"/>
+<edge source="click" target="notifi"/>
+<edge source="notifi" target="follow"/>
+<edge source="follow" target="comment"/>
+<edge source="via" target="email"/>
+<edge source="may" target="also"/>
+<edge source="without" target="comment"/>
+<edge source="δ" target="site"/>
+<edge source="site" target="use"/>
+<edge source="use" target="akismet"/>
+<edge source="akismet" target="reduc"/>
+<edge source="reduc" target="spasm"/>
+<edge source="spasm" target="learn"/>
+<edge source="learn" target="comment"/>
+<edge source="data" target="process"/>
+<edge source="process" target="welcom"/>
+<edge source="welcom" target="makeup"/>
+<edge source="name" target="aren"/>
+<edge source="freelanc" target="writer"/>
+<edge source="writer" target="obsess"/>
+<edge source="obsess" target="make"/>
+<edge source="featur" target="daili"/>
+<edge source="daili" target="product"/>
+<edge source="product" target="review"/>
+<edge source="news" target="like"/>
+<edge source="like" target="interact"/>
+<edge source="interact" target="version"/>
+<edge source="version" target="monthli"/>
+<edge source="monthli" target="print"/>
+<edge source="print" target="magazin"/>
+<edge source="magazin" target="except"/>
+<edge source="except" target="occasion"/>
+<edge source="occasion" target="pictur"/>
+<edge source="pictur" target="cat"/>
+<edge source="cat" target="copyright"/>
+<edge source="copyright" target="2022"/>
+<edge source="2022" target="makeup"/>
+<edge source="met" target="touch"/>
+</graph></graphml>

@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="florida"/>
+<node id="treasur"/>
+<node id="coast"/>
+<node id="adventur"/>
+<node id="less"/>
+<node id="find"/>
+<node id="chest"/>
+<node id="gold"/>
+<node id="natur"/>
+<node id="beauti"/>
+<node id="to"/>
+<node id="world"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="escap"/>
+<node id="tourist"/>
+<node id="frenzi"/>
+<node id="sprawl"/>
+<node id="diamit"/>
+<node id="lauderdalewest"/>
+<node id="calm"/>
+<node id="metroplex"/>
+<node id="discov"/>
+<node id="untouch"/>
+<node id="jewel"/>
+<node id="30"/>
+<node id="minut"/>
+<node id="north"/>
+<node id="each"/>
+<node id="atlant"/>
+<node id="ocean"/>
+<node id="truli"/>
+<node id="reward"/>
+<node id="print"/>
+<node id="reach"/>
+<node id="deep"/>
+<node id="sea"/>
+<node id="fish"/>
+<node id="key"/>
+<node id="weststyl"/>
+<node id="restaur"/>
+<node id="stuart"/>
+<node id="fun"/>
+<node id="downtown"/>
+<node id="eat"/>
+<node id="shop"/>
+<node id="enjoy"/>
+<node id="subtrop"/>
+<node id="climat"/>
+<node id="area"/>
+<node id="arab"/>
+<node id="sun"/>
+<node id="hat"/>
+<node id="get"/>
+<node id="readi"/>
+<node id="earth"/>
+<node id="gem"/>
+<node id="coastal"/>
+<node id="playground"/>
+<node id="highlight"/>
+<node id="tour"/>
+<node id="begin"/>
+<node id="robe"/>
+<node id="round"/>
+<node id="continu"/>
+<node id="sort"/>
+<node id="salerno"/>
+<node id="face"/>
+<node id="shoe"/>
+<node id="explor"/>
+<node id="25"/>
+<node id="mile"/>
+<node id="trail"/>
+<node id="wind"/>
+<node id="pine"/>
+<node id="flatwood"/>
+<node id="express"/>
+<node id="swamp"/>
+<node id="handbil"/>
+<node id="includ"/>
+<node id="879mile"/>
+<node id="take"/>
+<node id="multius"/>
+<node id="embark"/>
+<node id="seren"/>
+<node id="karay"/>
+<node id="cano"/>
+<node id="journey"/>
+<node id="along"/>
+<node id="loxahatche"/>
+<node id="river"/>
+<node id="slide"/>
+<node id="mangrov"/>
+<node id="tunnel"/>
+<node id="spot"/>
+<node id="other"/>
+<node id="run"/>
+<node id="bank"/>
+<node id="listen"/>
+<node id="bird"/>
+<node id="sing"/>
+<node id="spend"/>
+<node id="peac"/>
+<node id="afternoon"/>
+<node id="one"/>
+<node id="park"/>
+<node id="freshwat"/>
+<node id="lake"/>
+<node id="catch"/>
+<node id="bass"/>
+<node id="catfish"/>
+<node id="crippl"/>
+<node id="10minut"/>
+<node id="like"/>
+<node id="lookout"/>
+<node id="tower"/>
+<node id="summit"/>
+<node id="mountain"/>
+<node id="breathtak"/>
+<node id="panorama"/>
+<node id="view"/>
+<node id="jupit"/>
+<node id="let"/>
+<node id="86"/>
+<node id="feet"/>
+<node id="level"/>
+<node id="make"/>
+<node id="highest"/>
+<node id="point"/>
+<node id="makeshift"/>
+<node id="landfil"/>
+<node id="exclud"/>
+<node id="south"/>
+<node id="winter"/>
+<node id="spring"/>
+<node id="ideal"/>
+<node id="time"/>
+<node id="visit"/>
+<node id="long"/>
+<node id="bike"/>
+<node id="ride"/>
+<node id="excel"/>
+<node id="pave"/>
+<node id="path"/>
+<node id="often"/>
+<node id="lack"/>
+<node id="signific"/>
+<node id="shade"/>
+<node id="plenti"/>
+<node id="sunscreen"/>
+<node id="wear"/>
+<node id="summer"/>
+<node id="kimbel"/>
+<node id="environment"/>
+<node id="educ"/>
+<node id="research"/>
+<node id="enter"/>
+<node id="learn"/>
+<node id="mild"/>
+<node id="an"/>
+<node id="real"/>
+<node id="person"/>
+<node id="known"/>
+<node id="wrap"/>
+<node id="elson"/>
+<node id="arriv"/>
+<node id="1930"/>
+<node id="becam"/>
+<node id="well"/>
+<node id="wrest"/>
+<node id="allig"/>
+<node id="befriend"/>
+<node id="snake"/>
+<node id="navig"/>
+<node id="charm"/>
+<node id="showmanship"/>
+<node id="drew"/>
+<node id="crowd"/>
+<node id="too"/>
+<node id="built"/>
+<node id="exot"/>
+<node id="anim"/>
+<node id="civil"/>
+<node id="encroach"/>
+<node id="retreat"/>
+<node id="shadow"/>
+<node id="stori"/>
+<node id="becom"/>
+<node id="shroud"/>
+<node id="mysteri"/>
+<node id="death"/>
+<node id="1968"/>
+<node id="whisper"/>
+<node id="enigma"/>
+<node id="eye"/>
+<node id="ghost"/>
+<node id="queen"/>
+<node id="pontoon"/>
+<node id="boat"/>
+<node id="visitor"/>
+<node id="90minut"/>
+<node id="stop"/>
+<node id="restor"/>
+<node id="camp"/>
+<node id="clamp"/>
+<node id="newest"/>
+<node id="experi"/>
+<node id="offer"/>
+<node id="jonathan"/>
+<node id="dickinson"/>
+<node id="state"/>
+<node id="dark"/>
+<node id="delug"/>
+<node id="salari"/>
+<node id="tent"/>
+<node id="400"/>
+<node id="squar"/>
+<node id="kingsiz"/>
+<node id="queensiz"/>
+<node id="bed"/>
+<node id="least"/>
+<node id="set"/>
+<node id="famili"/>
+<edge source="florida" target="treasur"/>
+<edge source="florida" target="natur"/>
+<edge source="florida" target="winter"/>
+<edge source="treasur" target="coast"/>
+<edge source="treasur" target="florida"/>
+<edge source="treasur" target="truli"/>
+<edge source="coast" target="adventur"/>
+<edge source="coast" target="30"/>
+<edge source="adventur" target="less"/>
+<edge source="less" target="find"/>
+<edge source="find" target="chest"/>
+<edge source="chest" target="gold"/>
+<edge source="gold" target="treasur"/>
+<edge source="natur" target="beauti"/>
+<edge source="natur" target="point"/>
+<edge source="beauti" target="to"/>
+<edge source="to" target="world"/>
+<edge source="world" target="travel"/>
+<edge source="travel" target="readersupport"/>
+<edge source="travel" target="park"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="escap"/>
+<edge source="escap" target="tourist"/>
+<edge source="tourist" target="frenzi"/>
+<edge source="frenzi" target="sprawl"/>
+<edge source="sprawl" target="diamit"/>
+<edge source="diamit" target="lauderdalewest"/>
+<edge source="lauderdalewest" target="calm"/>
+<edge source="calm" target="metroplex"/>
+<edge source="calm" target="each"/>
+<edge source="metroplex" target="discov"/>
+<edge source="discov" target="untouch"/>
+<edge source="untouch" target="jewel"/>
+<edge source="jewel" target="florida"/>
+<edge source="jewel" target="reward"/>
+<edge source="30" target="minut"/>
+<edge source="minut" target="north"/>
+<edge source="north" target="calm"/>
+<edge source="north" target="sort"/>
+<edge source="north" target="educ"/>
+<edge source="each" target="atlant"/>
+<edge source="atlant" target="ocean"/>
+<edge source="ocean" target="treasur"/>
+<edge source="ocean" target="take"/>
+<edge source="ocean" target="jupit"/>
+<edge source="truli" target="jewel"/>
+<edge source="reward" target="print"/>
+<edge source="reward" target="breathtak"/>
+<edge source="print" target="reach"/>
+<edge source="reach" target="deep"/>
+<edge source="reach" target="lookout"/>
+<edge source="deep" target="sea"/>
+<edge source="deep" target="eye"/>
+<edge source="sea" target="fish"/>
+<edge source="sea" target="level"/>
+<edge source="fish" target="key"/>
+<edge source="fish" target="one"/>
+<edge source="key" target="weststyl"/>
+<edge source="weststyl" target="restaur"/>
+<edge source="restaur" target="stuart"/>
+<edge source="stuart" target="fun"/>
+<edge source="stuart" target="face"/>
+<edge source="fun" target="downtown"/>
+<edge source="downtown" target="eat"/>
+<edge source="eat" target="shop"/>
+<edge source="shop" target="enjoy"/>
+<edge source="enjoy" target="subtrop"/>
+<edge source="subtrop" target="climat"/>
+<edge source="climat" target="area"/>
+<edge source="area" target="arab"/>
+<edge source="arab" target="sun"/>
+<edge source="sun" target="hat"/>
+<edge source="hat" target="get"/>
+<edge source="hat" target="summer"/>
+<edge source="get" target="readi"/>
+<edge source="readi" target="earth"/>
+<edge source="earth" target="gem"/>
+<edge source="gem" target="coastal"/>
+<edge source="coastal" target="playground"/>
+<edge source="coastal" target="handbil"/>
+<edge source="playground" target="highlight"/>
+<edge source="highlight" target="tour"/>
+<edge source="tour" target="begin"/>
+<edge source="tour" target="river"/>
+<edge source="begin" target="robe"/>
+<edge source="robe" target="round"/>
+<edge source="robe" target="mountain"/>
+<edge source="round" target="continu"/>
+<edge source="continu" target="north"/>
+<edge source="sort" target="salerno"/>
+<edge source="salerno" target="stuart"/>
+<edge source="face" target="shoe"/>
+<edge source="shoe" target="explor"/>
+<edge source="explor" target="25"/>
+<edge source="25" target="mile"/>
+<edge source="mile" target="trail"/>
+<edge source="trail" target="wind"/>
+<edge source="trail" target="embark"/>
+<edge source="wind" target="pine"/>
+<edge source="pine" target="flatwood"/>
+<edge source="flatwood" target="express"/>
+<edge source="express" target="swamp"/>
+<edge source="swamp" target="coastal"/>
+<edge source="swamp" target="charm"/>
+<edge source="handbil" target="includ"/>
+<edge source="includ" target="879mile"/>
+<edge source="includ" target="kingsiz"/>
+<edge source="879mile" target="ocean"/>
+<edge source="take" target="multius"/>
+<edge source="take" target="plenti"/>
+<edge source="take" target="visitor"/>
+<edge source="multius" target="trail"/>
+<edge source="embark" target="seren"/>
+<edge source="seren" target="karay"/>
+<edge source="karay" target="cano"/>
+<edge source="cano" target="journey"/>
+<edge source="journey" target="along"/>
+<edge source="along" target="loxahatche"/>
+<edge source="along" target="river"/>
+<edge source="loxahatche" target="river"/>
+<edge source="loxahatche" target="real"/>
+<edge source="loxahatche" target="queen"/>
+<edge source="river" target="slide"/>
+<edge source="river" target="catch"/>
+<edge source="river" target="stop"/>
+<edge source="river" target="clamp"/>
+<edge source="slide" target="mangrov"/>
+<edge source="mangrov" target="tunnel"/>
+<edge source="tunnel" target="spot"/>
+<edge source="spot" target="other"/>
+<edge source="other" target="run"/>
+<edge source="run" target="bank"/>
+<edge source="bank" target="listen"/>
+<edge source="bank" target="bed"/>
+<edge source="listen" target="bird"/>
+<edge source="bird" target="sing"/>
+<edge source="sing" target="spend"/>
+<edge source="spend" target="peac"/>
+<edge source="peac" target="afternoon"/>
+<edge source="afternoon" target="fish"/>
+<edge source="one" target="park"/>
+<edge source="one" target="set"/>
+<edge source="park" target="freshwat"/>
+<edge source="park" target="long"/>
+<edge source="park" target="loxahatche"/>
+<edge source="freshwat" target="lake"/>
+<edge source="lake" target="along"/>
+<edge source="catch" target="bass"/>
+<edge source="bass" target="catfish"/>
+<edge source="catfish" target="crippl"/>
+<edge source="crippl" target="10minut"/>
+<edge source="10minut" target="like"/>
+<edge source="like" target="reach"/>
+<edge source="like" target="excel"/>
+<edge source="lookout" target="tower"/>
+<edge source="tower" target="summit"/>
+<edge source="summit" target="robe"/>
+<edge source="mountain" target="reward"/>
+<edge source="mountain" target="exclud"/>
+<edge source="breathtak" target="panorama"/>
+<edge source="panorama" target="view"/>
+<edge source="view" target="atlant"/>
+<edge source="jupit" target="let"/>
+<edge source="let" target="86"/>
+<edge source="86" target="feet"/>
+<edge source="feet" target="sea"/>
+<edge source="feet" target="includ"/>
+<edge source="level" target="make"/>
+<edge source="make" target="highest"/>
+<edge source="make" target="famili"/>
+<edge source="highest" target="natur"/>
+<edge source="point" target="makeshift"/>
+<edge source="makeshift" target="landfil"/>
+<edge source="landfil" target="mountain"/>
+<edge source="exclud" target="south"/>
+<edge source="south" target="florida"/>
+<edge source="winter" target="spring"/>
+<edge source="spring" target="ideal"/>
+<edge source="ideal" target="time"/>
+<edge source="time" target="visit"/>
+<edge source="visit" target="park"/>
+<edge source="long" target="bike"/>
+<edge source="bike" target="ride"/>
+<edge source="ride" target="like"/>
+<edge source="excel" target="pave"/>
+<edge source="pave" target="path"/>
+<edge source="path" target="often"/>
+<edge source="often" target="lack"/>
+<edge source="lack" target="signific"/>
+<edge source="signific" target="shade"/>
+<edge source="shade" target="take"/>
+<edge source="plenti" target="sunscreen"/>
+<edge source="sunscreen" target="wear"/>
+<edge source="wear" target="hat"/>
+<edge source="summer" target="kimbel"/>
+<edge source="kimbel" target="environment"/>
+<edge source="environment" target="educ"/>
+<edge source="educ" target="research"/>
+<edge source="educ" target="enter"/>
+<edge source="research" target="enter"/>
+<edge source="enter" target="learn"/>
+<edge source="enter" target="along"/>
+<edge source="learn" target="mild"/>
+<edge source="mild" target="an"/>
+<edge source="an" target="loxahatche"/>
+<edge source="real" target="person"/>
+<edge source="person" target="known"/>
+<edge source="known" target="wrap"/>
+<edge source="known" target="wrest"/>
+<edge source="wrap" target="elson"/>
+<edge source="elson" target="arriv"/>
+<edge source="elson" target="becam"/>
+<edge source="elson" target="retreat"/>
+<edge source="elson" target="north"/>
+<edge source="arriv" target="1930"/>
+<edge source="1930" target="elson"/>
+<edge source="1930" target="camp"/>
+<edge source="becam" target="well"/>
+<edge source="well" target="known"/>
+<edge source="wrest" target="allig"/>
+<edge source="allig" target="befriend"/>
+<edge source="befriend" target="snake"/>
+<edge source="snake" target="navig"/>
+<edge source="navig" target="swamp"/>
+<edge source="charm" target="showmanship"/>
+<edge source="showmanship" target="drew"/>
+<edge source="drew" target="crowd"/>
+<edge source="crowd" target="too"/>
+<edge source="too" target="built"/>
+<edge source="built" target="exot"/>
+<edge source="exot" target="anim"/>
+<edge source="anim" target="civil"/>
+<edge source="civil" target="encroach"/>
+<edge source="encroach" target="elson"/>
+<edge source="retreat" target="shadow"/>
+<edge source="shadow" target="stori"/>
+<edge source="stori" target="becom"/>
+<edge source="becom" target="shroud"/>
+<edge source="shroud" target="mysteri"/>
+<edge source="mysteri" target="death"/>
+<edge source="death" target="1968"/>
+<edge source="1968" target="whisper"/>
+<edge source="whisper" target="enigma"/>
+<edge source="enigma" target="deep"/>
+<edge source="eye" target="ghost"/>
+<edge source="ghost" target="travel"/>
+<edge source="queen" target="pontoon"/>
+<edge source="pontoon" target="boat"/>
+<edge source="boat" target="take"/>
+<edge source="visitor" target="90minut"/>
+<edge source="visitor" target="jonathan"/>
+<edge source="90minut" target="tour"/>
+<edge source="stop" target="restor"/>
+<edge source="restor" target="1930"/>
+<edge source="camp" target="wrap"/>
+<edge source="clamp" target="newest"/>
+<edge source="newest" target="experi"/>
+<edge source="experi" target="offer"/>
+<edge source="offer" target="visitor"/>
+<edge source="jonathan" target="dickinson"/>
+<edge source="dickinson" target="state"/>
+<edge source="state" target="dark"/>
+<edge source="dark" target="delug"/>
+<edge source="delug" target="salari"/>
+<edge source="salari" target="tent"/>
+<edge source="tent" target="400"/>
+<edge source="400" target="squar"/>
+<edge source="squar" target="feet"/>
+<edge source="kingsiz" target="queensiz"/>
+<edge source="queensiz" target="bed"/>
+<edge source="bed" target="least"/>
+<edge source="bed" target="make"/>
+<edge source="least" target="one"/>
+<edge source="set" target="bank"/>
+<edge source="famili" target="adventur"/>
+</graph></graphml>

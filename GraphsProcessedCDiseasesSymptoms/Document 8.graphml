@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="sexual"/>
+<node id="reproduct"/>
+<node id="pelvic"/>
+<node id="organ"/>
+<node id="relaps"/>
+<node id="one"/>
+<node id="womb"/>
+<node id="bladder"/>
+<node id="bowel"/>
+<node id="slip"/>
+<node id="usual"/>
+<node id="posit"/>
+<node id="caus"/>
+<node id="vagin"/>
+<node id="wall"/>
+<node id="bulg"/>
+<node id="vagina"/>
+<node id="lifethreaten"/>
+<node id="case"/>
+<node id="littl"/>
+<node id="problem"/>
+<node id="howev"/>
+<node id="sever"/>
+<node id="may"/>
+<node id="feel"/>
+<node id="uncomfort"/>
+<node id="might"/>
+<node id="stop"/>
+<node id="thing"/>
+<node id="enjoy"/>
+<node id="affect"/>
+<node id="qualiti"/>
+<node id="life"/>
+<node id="like"/>
+<node id="incontin"/>
+<node id="inevit"/>
+<node id="part"/>
+<node id="be"/>
+<node id="speak"/>
+<node id="doctor"/>
+<node id="think"/>
+<node id="need"/>
+<node id="suffer"/>
+<node id="embarrass"/>
+<node id="ani"/>
+<node id="women"/>
+<node id="experi"/>
+<node id="treat"/>
+<node id="symptom"/>
+<node id="discov"/>
+<node id="intern"/>
+<node id="examin"/>
+<node id="anoth"/>
+<node id="reason"/>
+<node id="exampl"/>
+<node id="cervic"/>
+<node id="screen"/>
+<node id="test"/>
+<node id="smear"/>
+<node id="normal"/>
+<node id="less"/>
+<node id="differ"/>
+<node id="time"/>
+<node id="day"/>
+<node id="common"/>
+<node id="see"/>
+<node id="earlier"/>
+<node id="help"/>
+<node id="manag"/>
+<node id="easili"/>
+<node id="carri"/>
+<node id="includ"/>
+<node id="discuss"/>
+<node id="ask"/>
+<node id="question"/>
+<node id="intim"/>
+<node id="person"/>
+<node id="chaperon"/>
+<node id="present"/>
+<node id="femal"/>
+<node id="health"/>
+<node id="profession"/>
+<node id="prefer"/>
+<node id="similar"/>
+<node id="take"/>
+<node id="minut"/>
+<node id="front"/>
+<node id="top"/>
+<node id="back"/>
+<node id="main"/>
+<node id="type"/>
+<node id="number"/>
+<node id="system"/>
+<node id="1"/>
+<node id="4"/>
+<node id="use"/>
+<node id="describ"/>
+<node id="mean"/>
+<node id="healthcar"/>
+<node id="risk"/>
+<node id="develop"/>
+<node id="increas"/>
+<node id="reduc"/>
+<node id="treatment"/>
+<node id="depend"/>
+<node id="much"/>
+<node id="issu"/>
+<node id="activ"/>
+<node id="mild"/>
+<node id="recommend"/>
+<node id="lifestyl"/>
+<node id="chang"/>
+<node id="regular"/>
+<node id="floor"/>
+<node id="exercis"/>
+<node id="maintain"/>
+<node id="healthi"/>
+<node id="weight"/>
+<node id="essay"/>
+<node id="devic"/>
+<node id="insert"/>
+<node id="hold"/>
+<node id="place"/>
+<node id="push"/>
+<node id="pessari"/>
+<node id="made"/>
+<node id="later"/>
+<node id="rubber"/>
+<node id="silicon"/>
+<node id="come"/>
+<node id="shape"/>
+<node id="size"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="sexual"/>
+<edge source="condit" target="may"/>
+<edge source="condit" target="see"/>
+<edge source="sexual" target="reproduct"/>
+<edge source="reproduct" target="pelvic"/>
+<edge source="pelvic" target="organ"/>
+<edge source="pelvic" target="examin"/>
+<edge source="pelvic" target="floor"/>
+<edge source="organ" target="relaps"/>
+<edge source="organ" target="womb"/>
+<edge source="relaps" target="pelvic"/>
+<edge source="relaps" target="one"/>
+<edge source="relaps" target="lifethreaten"/>
+<edge source="relaps" target="inevit"/>
+<edge source="relaps" target="need"/>
+<edge source="relaps" target="treat"/>
+<edge source="relaps" target="symptom"/>
+<edge source="relaps" target="relaps"/>
+<edge source="relaps" target="common"/>
+<edge source="relaps" target="affect"/>
+<edge source="relaps" target="time"/>
+<edge source="relaps" target="exampl"/>
+<edge source="relaps" target="ask"/>
+<edge source="relaps" target="increas"/>
+<edge source="relaps" target="treatment"/>
+<edge source="relaps" target="doctor"/>
+<edge source="relaps" target="back"/>
+<edge source="one" target="pelvic"/>
+<edge source="one" target="type"/>
+<edge source="one" target="caus"/>
+<edge source="womb" target="bladder"/>
+<edge source="bladder" target="bowel"/>
+<edge source="bowel" target="slip"/>
+<edge source="slip" target="usual"/>
+<edge source="usual" target="posit"/>
+<edge source="usual" target="use"/>
+<edge source="usual" target="one"/>
+<edge source="usual" target="made"/>
+<edge source="posit" target="caus"/>
+<edge source="caus" target="vagin"/>
+<edge source="caus" target="littl"/>
+<edge source="caus" target="risk"/>
+<edge source="vagin" target="wall"/>
+<edge source="vagin" target="essay"/>
+<edge source="wall" target="bulg"/>
+<edge source="wall" target="place"/>
+<edge source="bulg" target="vagina"/>
+<edge source="vagina" target="pelvic"/>
+<edge source="vagina" target="doctor"/>
+<edge source="vagina" target="main"/>
+<edge source="vagina" target="hold"/>
+<edge source="lifethreaten" target="case"/>
+<edge source="case" target="caus"/>
+<edge source="case" target="may"/>
+<edge source="case" target="relaps"/>
+<edge source="littl" target="problem"/>
+<edge source="problem" target="howev"/>
+<edge source="howev" target="sever"/>
+<edge source="sever" target="case"/>
+<edge source="sever" target="differ"/>
+<edge source="sever" target="pelvic"/>
+<edge source="sever" target="relaps"/>
+<edge source="may" target="feel"/>
+<edge source="may" target="discov"/>
+<edge source="may" target="help"/>
+<edge source="may" target="anoth"/>
+<edge source="may" target="usual"/>
+<edge source="may" target="recommend"/>
+<edge source="feel" target="uncomfort"/>
+<edge source="feel" target="embarrass"/>
+<edge source="feel" target="less"/>
+<edge source="uncomfort" target="might"/>
+<edge source="might" target="stop"/>
+<edge source="might" target="relaps"/>
+<edge source="might" target="intim"/>
+<edge source="stop" target="thing"/>
+<edge source="thing" target="enjoy"/>
+<edge source="thing" target="reduc"/>
+<edge source="enjoy" target="affect"/>
+<edge source="affect" target="qualiti"/>
+<edge source="affect" target="front"/>
+<edge source="affect" target="normal"/>
+<edge source="qualiti" target="life"/>
+<edge source="life" target="like"/>
+<edge source="like" target="incontin"/>
+<edge source="incontin" target="relaps"/>
+<edge source="inevit" target="part"/>
+<edge source="part" target="be"/>
+<edge source="be" target="speak"/>
+<edge source="speak" target="doctor"/>
+<edge source="doctor" target="think"/>
+<edge source="doctor" target="earlier"/>
+<edge source="doctor" target="need"/>
+<edge source="doctor" target="discuss"/>
+<edge source="doctor" target="may"/>
+<edge source="doctor" target="health"/>
+<edge source="think" target="might"/>
+<edge source="think" target="test"/>
+<edge source="need" target="suffer"/>
+<edge source="need" target="carri"/>
+<edge source="need" target="pelvic"/>
+<edge source="suffer" target="feel"/>
+<edge source="embarrass" target="ani"/>
+<edge source="ani" target="women"/>
+<edge source="women" target="experi"/>
+<edge source="women" target="pelvic"/>
+<edge source="experi" target="relaps"/>
+<edge source="experi" target="symptom"/>
+<edge source="treat" target="women"/>
+<edge source="symptom" target="condit"/>
+<edge source="symptom" target="normal"/>
+<edge source="symptom" target="feel"/>
+<edge source="symptom" target="relaps"/>
+<edge source="discov" target="intern"/>
+<edge source="intern" target="examin"/>
+<edge source="examin" target="anoth"/>
+<edge source="examin" target="includ"/>
+<edge source="examin" target="vagina"/>
+<edge source="examin" target="doctor"/>
+<edge source="examin" target="similar"/>
+<edge source="anoth" target="reason"/>
+<edge source="anoth" target="person"/>
+<edge source="reason" target="exampl"/>
+<edge source="exampl" target="cervic"/>
+<edge source="exampl" target="4"/>
+<edge source="exampl" target="regular"/>
+<edge source="cervic" target="screen"/>
+<edge source="screen" target="test"/>
+<edge source="test" target="smear"/>
+<edge source="test" target="women"/>
+<edge source="test" target="take"/>
+<edge source="test" target="need"/>
+<edge source="smear" target="test"/>
+<edge source="normal" target="symptom"/>
+<edge source="normal" target="day"/>
+<edge source="less" target="sever"/>
+<edge source="differ" target="time"/>
+<edge source="differ" target="shape"/>
+<edge source="time" target="day"/>
+<edge source="time" target="number"/>
+<edge source="day" target="think"/>
+<edge source="day" target="day"/>
+<edge source="day" target="activ"/>
+<edge source="common" target="condit"/>
+<edge source="see" target="doctor"/>
+<edge source="earlier" target="may"/>
+<edge source="help" target="manag"/>
+<edge source="manag" target="easili"/>
+<edge source="easili" target="doctor"/>
+<edge source="carri" target="pelvic"/>
+<edge source="includ" target="intern"/>
+<edge source="discuss" target="ask"/>
+<edge source="discuss" target="think"/>
+<edge source="ask" target="question"/>
+<edge source="ask" target="femal"/>
+<edge source="ask" target="healthcar"/>
+<edge source="question" target="might"/>
+<edge source="question" target="may"/>
+<edge source="intim" target="examin"/>
+<edge source="person" target="chaperon"/>
+<edge source="chaperon" target="present"/>
+<edge source="present" target="ask"/>
+<edge source="femal" target="doctor"/>
+<edge source="health" target="profession"/>
+<edge source="profession" target="prefer"/>
+<edge source="profession" target="mean"/>
+<edge source="prefer" target="intern"/>
+<edge source="similar" target="smear"/>
+<edge source="take" target="minut"/>
+<edge source="minut" target="doctor"/>
+<edge source="front" target="top"/>
+<edge source="top" target="back"/>
+<edge source="back" target="vagina"/>
+<edge source="back" target="pessari"/>
+<edge source="main" target="type"/>
+<edge source="type" target="relaps"/>
+<edge source="number" target="system"/>
+<edge source="system" target="1"/>
+<edge source="1" target="4"/>
+<edge source="4" target="usual"/>
+<edge source="4" target="mean"/>
+<edge source="use" target="describ"/>
+<edge source="describ" target="sever"/>
+<edge source="mean" target="sever"/>
+<edge source="mean" target="question"/>
+<edge source="healthcar" target="profession"/>
+<edge source="risk" target="develop"/>
+<edge source="risk" target="pelvic"/>
+<edge source="develop" target="pelvic"/>
+<edge source="increas" target="thing"/>
+<edge source="reduc" target="risk"/>
+<edge source="treatment" target="depend"/>
+<edge source="depend" target="much"/>
+<edge source="much" target="issu"/>
+<edge source="issu" target="affect"/>
+<edge source="activ" target="mild"/>
+<edge source="mild" target="case"/>
+<edge source="recommend" target="lifestyl"/>
+<edge source="lifestyl" target="chang"/>
+<edge source="chang" target="exampl"/>
+<edge source="regular" target="pelvic"/>
+<edge source="floor" target="exercis"/>
+<edge source="exercis" target="maintain"/>
+<edge source="maintain" target="healthi"/>
+<edge source="healthi" target="weight"/>
+<edge source="weight" target="vagin"/>
+<edge source="essay" target="devic"/>
+<edge source="devic" target="insert"/>
+<edge source="insert" target="vagina"/>
+<edge source="hold" target="vagin"/>
+<edge source="place" target="push"/>
+<edge source="push" target="relaps"/>
+<edge source="pessari" target="usual"/>
+<edge source="made" target="later"/>
+<edge source="later" target="rubber"/>
+<edge source="rubber" target="silicon"/>
+<edge source="silicon" target="come"/>
+<edge source="come" target="differ"/>
+<edge source="shape" target="size"/>
+</graph></graphml>

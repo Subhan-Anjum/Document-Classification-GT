@@ -1,0 +1,466 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="immens"/>
+<node id="work"/>
+<node id="father"/>
+<node id="modern"/>
+<node id="sculptor"/>
+<node id="use"/>
+<node id="join"/>
+<node id="pari"/>
+<node id="to"/>
+<node id="world"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="oh"/>
+<node id="time"/>
+<node id="visit"/>
+<node id="citi"/>
+<node id="right"/>
+<node id="marvel"/>
+<node id="offer"/>
+<node id="capit"/>
+<node id="largest"/>
+<node id="franc"/>
+<node id="two"/>
+<node id="million"/>
+<node id="peopl"/>
+<node id="cultur"/>
+<node id="merci"/>
+<node id="countless"/>
+<node id="museum"/>
+<node id="galleri"/>
+<node id="architectur"/>
+<node id="fashion"/>
+<node id="hous"/>
+<node id="class"/>
+<node id="food"/>
+<node id="wine"/>
+<node id="much"/>
+<node id="visitor"/>
+<node id="get"/>
+<node id="enough"/>
+<node id="renown"/>
+<node id="destin"/>
+<node id="ooh"/>
+<node id="aah"/>
+<node id="romant"/>
+<node id="bridg"/>
+<node id="river"/>
+<node id="sein"/>
+<node id="centuri"/>
+<node id="old"/>
+<node id="church"/>
+<node id="cobbleston"/>
+<node id="street"/>
+<node id="monument"/>
+<node id="squar"/>
+<node id="though"/>
+<node id="spent"/>
+<node id="consider"/>
+<node id="never"/>
+<node id="gotten"/>
+<node id="around"/>
+<node id="recent"/>
+<node id="past"/>
+<node id="spring"/>
+<node id="one"/>
+<node id="eleg"/>
+<node id="photogen"/>
+<node id="institut"/>
+<node id="locat"/>
+<node id="handsom"/>
+<node id="hotel"/>
+<node id="iron"/>
+<node id="surround"/>
+<node id="lush"/>
+<node id="garden"/>
+<node id="dedic"/>
+<node id="art"/>
+<node id="prolif"/>
+<node id="french"/>
+<node id="august"/>
+<node id="consid"/>
+<node id="mani"/>
+<node id="inspir"/>
+<node id="tradit"/>
+<node id="yet"/>
+<node id="took"/>
+<node id="stanc"/>
+<node id="realiz"/>
+<node id="form"/>
+<node id="cours"/>
+<node id="career"/>
+<node id="span"/>
+<node id="late"/>
+<node id="1800"/>
+<node id="earli"/>
+<node id="1900"/>
+<node id="introduc"/>
+<node id="innov"/>
+<node id="practic"/>
+<node id="chang"/>
+<node id="way"/>
+<node id="sculptur"/>
+<node id="creat"/>
+<node id="perceiv"/>
+<node id="echo"/>
+<node id="belief"/>
+<node id="true"/>
+<node id="natur"/>
+<node id="focus"/>
+<node id="human"/>
+<node id="sought"/>
+<node id="express"/>
+<node id="essenc"/>
+<node id="psychic"/>
+<node id="delv"/>
+<node id="lay"/>
+<node id="surfac"/>
+<node id="manner"/>
+<node id="develop"/>
+<node id="techniqu"/>
+<node id="render"/>
+<node id="power"/>
+<node id="emot"/>
+<node id="turmoil"/>
+<node id="tragedi"/>
+<node id="joy"/>
+<node id="passion"/>
+<node id="primarili"/>
+<node id="bronz"/>
+<node id="marbl"/>
+<node id="known"/>
+<node id="retain"/>
+<node id="tool"/>
+<node id="mark"/>
+<node id="leav"/>
+<node id="part"/>
+<node id="somewhat"/>
+<node id="rough"/>
+<node id="decid"/>
+<node id="hide"/>
+<node id="sign"/>
+<node id="process"/>
+<node id="revolutionari"/>
+<node id="artist"/>
+<node id="live"/>
+<node id="later"/>
+<node id="life"/>
+<node id="1911"/>
+<node id="govern"/>
+<node id="bought"/>
+<node id="properti"/>
+<node id="exchang"/>
+<node id="abl"/>
+<node id="stay"/>
+<node id="agre"/>
+<node id="donat"/>
+<node id="subsequ"/>
+<node id="open"/>
+<node id="public"/>
+<node id="1919"/>
+<node id="collect"/>
+<node id="vast"/>
+<node id="includ"/>
+<node id="thousand"/>
+<node id="draw"/>
+<node id="photo"/>
+<node id="iniqu"/>
+<node id="incred"/>
+<node id="oeuvr"/>
+<node id="display"/>
+<node id="within"/>
+<node id="seri"/>
+<node id="design"/>
+<node id="circular"/>
+<node id="format"/>
+<node id="layout"/>
+<node id="high"/>
+<node id="ceil"/>
+<node id="lot"/>
+<node id="window"/>
+<node id="mirror"/>
+<node id="augment"/>
+<node id="showcas"/>
+<node id="remind"/>
+<node id="environ"/>
+<node id="logic"/>
+<node id="chronolog"/>
+<node id="placement"/>
+<node id="demonstr"/>
+<node id="theme"/>
+<node id="subject"/>
+<node id="materi"/>
+<node id="interest"/>
+<node id="present"/>
+<node id="success"/>
+<node id="state"/>
+<node id="allow"/>
+<node id="viewer"/>
+<node id="understand"/>
+<node id="differ"/>
+<node id="stage"/>
+<node id="creativ"/>
+<edge source="immens" target="work"/>
+<edge source="work" target="father"/>
+<edge source="work" target="echo"/>
+<edge source="work" target="primarili"/>
+<edge source="work" target="hous"/>
+<edge source="work" target="environ"/>
+<edge source="father" target="modern"/>
+<edge source="modern" target="sculptor"/>
+<edge source="sculptor" target="use"/>
+<edge source="sculptor" target="august"/>
+<edge source="sculptor" target="join"/>
+<edge source="use" target="join"/>
+<edge source="join" target="pari"/>
+<edge source="join" target="recent"/>
+<edge source="join" target="museum"/>
+<edge source="join" target="consid"/>
+<edge source="join" target="inspir"/>
+<edge source="join" target="work"/>
+<edge source="join" target="known"/>
+<edge source="join" target="agre"/>
+<edge source="join" target="creativ"/>
+<edge source="pari" target="to"/>
+<edge source="pari" target="time"/>
+<edge source="pari" target="cultur"/>
+<edge source="pari" target="never"/>
+<edge source="to" target="world"/>
+<edge source="world" target="travel"/>
+<edge source="world" target="class"/>
+<edge source="travel" target="readersupport"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="oh"/>
+<edge source="piec" target="showcas"/>
+<edge source="oh" target="pari"/>
+<edge source="time" target="visit"/>
+<edge source="time" target="pari"/>
+<edge source="time" target="artist"/>
+<edge source="visit" target="citi"/>
+<edge source="visit" target="use"/>
+<edge source="visit" target="past"/>
+<edge source="citi" target="right"/>
+<edge source="citi" target="franc"/>
+<edge source="citi" target="join"/>
+<edge source="right" target="marvel"/>
+<edge source="marvel" target="offer"/>
+<edge source="marvel" target="fashion"/>
+<edge source="offer" target="capit"/>
+<edge source="capit" target="largest"/>
+<edge source="largest" target="citi"/>
+<edge source="franc" target="two"/>
+<edge source="two" target="million"/>
+<edge source="million" target="peopl"/>
+<edge source="peopl" target="pari"/>
+<edge source="cultur" target="merci"/>
+<edge source="merci" target="countless"/>
+<edge source="countless" target="museum"/>
+<edge source="museum" target="galleri"/>
+<edge source="museum" target="locat"/>
+<edge source="museum" target="subsequ"/>
+<edge source="galleri" target="architectur"/>
+<edge source="galleri" target="design"/>
+<edge source="architectur" target="marvel"/>
+<edge source="fashion" target="hous"/>
+<edge source="hous" target="world"/>
+<edge source="hous" target="museum"/>
+<edge source="class" target="food"/>
+<edge source="food" target="wine"/>
+<edge source="wine" target="much"/>
+<edge source="much" target="visitor"/>
+<edge source="visitor" target="get"/>
+<edge source="visitor" target="join"/>
+<edge source="get" target="enough"/>
+<edge source="enough" target="renown"/>
+<edge source="renown" target="destin"/>
+<edge source="renown" target="prolif"/>
+<edge source="destin" target="ooh"/>
+<edge source="ooh" target="aah"/>
+<edge source="aah" target="romant"/>
+<edge source="romant" target="bridg"/>
+<edge source="bridg" target="river"/>
+<edge source="river" target="sein"/>
+<edge source="sein" target="centuri"/>
+<edge source="centuri" target="old"/>
+<edge source="old" target="church"/>
+<edge source="old" target="photo"/>
+<edge source="church" target="cobbleston"/>
+<edge source="cobbleston" target="street"/>
+<edge source="street" target="monument"/>
+<edge source="monument" target="squar"/>
+<edge source="squar" target="though"/>
+<edge source="though" target="spent"/>
+<edge source="spent" target="consider"/>
+<edge source="consider" target="time"/>
+<edge source="never" target="gotten"/>
+<edge source="gotten" target="around"/>
+<edge source="around" target="visit"/>
+<edge source="recent" target="visit"/>
+<edge source="past" target="spring"/>
+<edge source="spring" target="one"/>
+<edge source="one" target="eleg"/>
+<edge source="eleg" target="photogen"/>
+<edge source="photogen" target="institut"/>
+<edge source="institut" target="citi"/>
+<edge source="locat" target="handsom"/>
+<edge source="handsom" target="hotel"/>
+<edge source="hotel" target="iron"/>
+<edge source="hotel" target="join"/>
+<edge source="iron" target="surround"/>
+<edge source="iron" target="later"/>
+<edge source="surround" target="lush"/>
+<edge source="lush" target="garden"/>
+<edge source="garden" target="dedic"/>
+<edge source="dedic" target="art"/>
+<edge source="art" target="renown"/>
+<edge source="art" target="true"/>
+<edge source="art" target="remind"/>
+<edge source="prolif" target="french"/>
+<edge source="french" target="sculptor"/>
+<edge source="august" target="join"/>
+<edge source="consid" target="mani"/>
+<edge source="mani" target="father"/>
+<edge source="mani" target="work"/>
+<edge source="inspir" target="tradit"/>
+<edge source="tradit" target="yet"/>
+<edge source="yet" target="took"/>
+<edge source="took" target="stanc"/>
+<edge source="stanc" target="realiz"/>
+<edge source="realiz" target="form"/>
+<edge source="form" target="cours"/>
+<edge source="form" target="sought"/>
+<edge source="cours" target="career"/>
+<edge source="career" target="span"/>
+<edge source="span" target="late"/>
+<edge source="late" target="1800"/>
+<edge source="1800" target="earli"/>
+<edge source="earli" target="1900"/>
+<edge source="1900" target="introduc"/>
+<edge source="introduc" target="innov"/>
+<edge source="innov" target="practic"/>
+<edge source="practic" target="chang"/>
+<edge source="chang" target="way"/>
+<edge source="way" target="sculptur"/>
+<edge source="sculptur" target="creat"/>
+<edge source="sculptur" target="somewhat"/>
+<edge source="sculptur" target="draw"/>
+<edge source="sculptur" target="present"/>
+<edge source="creat" target="perceiv"/>
+<edge source="perceiv" target="join"/>
+<edge source="echo" target="belief"/>
+<edge source="belief" target="art"/>
+<edge source="true" target="natur"/>
+<edge source="natur" target="focus"/>
+<edge source="focus" target="human"/>
+<edge source="human" target="form"/>
+<edge source="human" target="psychic"/>
+<edge source="sought" target="express"/>
+<edge source="express" target="essenc"/>
+<edge source="essenc" target="human"/>
+<edge source="psychic" target="delv"/>
+<edge source="delv" target="lay"/>
+<edge source="lay" target="surfac"/>
+<edge source="surfac" target="manner"/>
+<edge source="manner" target="develop"/>
+<edge source="manner" target="placement"/>
+<edge source="develop" target="techniqu"/>
+<edge source="techniqu" target="render"/>
+<edge source="render" target="power"/>
+<edge source="power" target="emot"/>
+<edge source="emot" target="turmoil"/>
+<edge source="turmoil" target="tragedi"/>
+<edge source="tragedi" target="joy"/>
+<edge source="joy" target="passion"/>
+<edge source="passion" target="work"/>
+<edge source="primarili" target="bronz"/>
+<edge source="bronz" target="marbl"/>
+<edge source="marbl" target="join"/>
+<edge source="known" target="retain"/>
+<edge source="retain" target="tool"/>
+<edge source="tool" target="mark"/>
+<edge source="mark" target="leav"/>
+<edge source="leav" target="part"/>
+<edge source="part" target="sculptur"/>
+<edge source="somewhat" target="rough"/>
+<edge source="rough" target="decid"/>
+<edge source="decid" target="hide"/>
+<edge source="hide" target="sign"/>
+<edge source="sign" target="process"/>
+<edge source="process" target="revolutionari"/>
+<edge source="revolutionari" target="time"/>
+<edge source="artist" target="live"/>
+<edge source="artist" target="sculptur"/>
+<edge source="live" target="hotel"/>
+<edge source="later" target="life"/>
+<edge source="life" target="1911"/>
+<edge source="1911" target="govern"/>
+<edge source="govern" target="bought"/>
+<edge source="bought" target="properti"/>
+<edge source="properti" target="exchang"/>
+<edge source="exchang" target="abl"/>
+<edge source="abl" target="stay"/>
+<edge source="stay" target="hotel"/>
+<edge source="agre" target="donat"/>
+<edge source="donat" target="mani"/>
+<edge source="subsequ" target="open"/>
+<edge source="open" target="public"/>
+<edge source="open" target="layout"/>
+<edge source="public" target="1919"/>
+<edge source="1919" target="collect"/>
+<edge source="collect" target="vast"/>
+<edge source="vast" target="includ"/>
+<edge source="includ" target="thousand"/>
+<edge source="thousand" target="sculptur"/>
+<edge source="draw" target="old"/>
+<edge source="photo" target="iniqu"/>
+<edge source="iniqu" target="incred"/>
+<edge source="incred" target="oeuvr"/>
+<edge source="oeuvr" target="display"/>
+<edge source="display" target="within"/>
+<edge source="within" target="seri"/>
+<edge source="seri" target="galleri"/>
+<edge source="design" target="circular"/>
+<edge source="circular" target="format"/>
+<edge source="format" target="open"/>
+<edge source="layout" target="high"/>
+<edge source="high" target="ceil"/>
+<edge source="ceil" target="lot"/>
+<edge source="lot" target="window"/>
+<edge source="window" target="mirror"/>
+<edge source="mirror" target="augment"/>
+<edge source="augment" target="piec"/>
+<edge source="showcas" target="art"/>
+<edge source="remind" target="visitor"/>
+<edge source="environ" target="logic"/>
+<edge source="logic" target="chronolog"/>
+<edge source="chronolog" target="manner"/>
+<edge source="placement" target="demonstr"/>
+<edge source="demonstr" target="theme"/>
+<edge source="theme" target="subject"/>
+<edge source="subject" target="materi"/>
+<edge source="materi" target="interest"/>
+<edge source="interest" target="artist"/>
+<edge source="present" target="success"/>
+<edge source="success" target="state"/>
+<edge source="state" target="allow"/>
+<edge source="allow" target="viewer"/>
+<edge source="viewer" target="understand"/>
+<edge source="understand" target="differ"/>
+<edge source="differ" target="stage"/>
+<edge source="stage" target="join"/>
+<edge source="creativ" target="process"/>
+</graph></graphml>

@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="explor"/>
+<node id="breathtak"/>
+<node id="beauti"/>
+<node id="switzerland"/>
+<node id="train"/>
+<node id="marvel"/>
+<node id="stun"/>
+<node id="landscap"/>
+<node id="histor"/>
+<node id="sight"/>
+<node id="iron"/>
+<node id="architectur"/>
+<node id="to"/>
+<node id="world"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="would"/>
+<node id="complain"/>
+<node id="one"/>
+<node id="settler"/>
+<node id="woman"/>
+<node id="empir"/>
+<node id="grumbl"/>
+<node id="unconquer"/>
+<node id="territori"/>
+<node id="noth"/>
+<node id="narrow"/>
+<node id="valley"/>
+<node id="cold"/>
+<node id="forgiv"/>
+<node id="mountain"/>
+<node id="alp"/>
+<node id="averag"/>
+<node id="attitud"/>
+<node id="5576"/>
+<node id="feet"/>
+<node id="cover"/>
+<node id="23"/>
+<node id="howev"/>
+<node id="fierc"/>
+<node id="fighter"/>
+<node id="roman"/>
+<node id="took"/>
+<node id="stride"/>
+<node id="use"/>
+<node id="fortress"/>
+<node id="need"/>
+<node id="settl"/>
+<node id="area"/>
+<node id="inspir"/>
+<node id="cultiv"/>
+<node id="graze"/>
+<node id="cow"/>
+<node id="work"/>
+<node id="countri"/>
+<node id="½"/>
+<node id="size"/>
+<node id="new"/>
+<node id="jersey"/>
+<node id="of"/>
+<node id="peopl"/>
+<node id="60"/>
+<node id="differ"/>
+<node id="type"/>
+<node id="forag"/>
+<node id="maykept"/>
+<node id="high"/>
+<node id="move"/>
+<node id="lower"/>
+<node id="elev"/>
+<node id="snow"/>
+<node id="fli"/>
+<node id="multimilliondollar"/>
+<node id="product"/>
+<node id="chees"/>
+<node id="chocol"/>
+<node id="alreadi"/>
+<node id="underway"/>
+<node id="perfect"/>
+<node id="solut"/>
+<node id="still"/>
+<node id="navigableor"/>
+<node id="clever"/>
+<node id="swiss"/>
+<node id="devis"/>
+<node id="plan"/>
+<node id="travers"/>
+<node id="laid"/>
+<node id="multitudin"/>
+<node id="mile"/>
+<node id="track"/>
+<node id="dog"/>
+<node id="wheel"/>
+<node id="steep"/>
+<node id="bore"/>
+<node id="hole"/>
+<node id="pass"/>
+<node id="inaccess"/>
+<node id="result"/>
+<node id="effici"/>
+<node id="system"/>
+<node id="penetr"/>
+<node id="deliv"/>
+<node id="inhabit"/>
+<node id="remot"/>
+<node id="built"/>
+<node id="longest"/>
+<node id="tunnel"/>
+<node id="gotthard"/>
+<node id="35"/>
+<node id="long"/>
+<node id="establish"/>
+<node id="tourism"/>
+<node id="hide"/>
+<node id="trail"/>
+<node id="cabl"/>
+<node id="car"/>
+<node id="sky"/>
+<node id="her"/>
+<node id="slope"/>
+<node id="gondola"/>
+<node id="titl"/>
+<node id="glacier"/>
+<node id="stair"/>
+<node id="near"/>
+<node id="lucern"/>
+<node id="rotat"/>
+<node id="360"/>
+<node id="degre"/>
+<node id="figur"/>
+<node id="fine"/>
+<node id="style"/>
+<node id="undul"/>
+<node id="emerald"/>
+<node id="hillsid"/>
+<node id="glisten"/>
+<node id="sunshin"/>
+<node id="glander"/>
+<node id="feed"/>
+<node id="dusti"/>
+<node id="turquois"/>
+<node id="river"/>
+<node id="flower"/>
+<node id="burst"/>
+<node id="rubi"/>
+<node id="red"/>
+<node id="daisi"/>
+<node id="white"/>
+<node id="beau"/>
+<node id="summer"/>
+<node id="weather"/>
+<node id="wa"/>
+<node id="low"/>
+<node id="could"/>
+<node id="ask"/>
+<node id="wind"/>
+<node id="way"/>
+<node id="arriv"/>
+<node id="rich"/>
+<node id="circl"/>
+<node id="boat"/>
+<node id="bu"/>
+<node id="coordin"/>
+<node id="bush"/>
+<node id="short"/>
+<node id="walk"/>
+<node id="away"/>
+<node id="part"/>
+<node id="charm"/>
+<node id="enjoy"/>
+<node id="mani"/>
+<node id="cultur"/>
+<node id="prevail"/>
+<node id="languag"/>
+<node id="german"/>
+<node id="sinc"/>
+<node id="germani"/>
+<node id="border"/>
+<node id="persh"/>
+<node id="austria"/>
+<node id="franc"/>
+<node id="itali"/>
+<node id="mean"/>
+<node id="adjoin"/>
+<node id="citi"/>
+<node id="chang"/>
+<node id="immens"/>
+<node id="ethnic"/>
+<node id="head"/>
+<node id="delight"/>
+<node id="top"/>
+<node id="10"/>
+<node id="thing"/>
+<edge source="explor" target="breathtak"/>
+<edge source="breathtak" target="beauti"/>
+<edge source="beauti" target="switzerland"/>
+<edge source="switzerland" target="train"/>
+<edge source="switzerland" target="woman"/>
+<edge source="switzerland" target="howev"/>
+<edge source="switzerland" target="fine"/>
+<edge source="switzerland" target="charm"/>
+<edge source="switzerland" target="persh"/>
+<edge source="switzerland" target="adjoin"/>
+<edge source="train" target="marvel"/>
+<edge source="train" target="track"/>
+<edge source="train" target="bore"/>
+<edge source="train" target="system"/>
+<edge source="train" target="arriv"/>
+<edge source="train" target="boat"/>
+<edge source="train" target="bush"/>
+<edge source="marvel" target="stun"/>
+<edge source="stun" target="landscap"/>
+<edge source="stun" target="slope"/>
+<edge source="landscap" target="histor"/>
+<edge source="histor" target="sight"/>
+<edge source="sight" target="iron"/>
+<edge source="iron" target="architectur"/>
+<edge source="architectur" target="to"/>
+<edge source="to" target="world"/>
+<edge source="world" target="travel"/>
+<edge source="world" target="gotthard"/>
+<edge source="travel" target="readersupport"/>
+<edge source="travel" target="summer"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="would"/>
+<edge source="would" target="complain"/>
+<edge source="would" target="grumbl"/>
+<edge source="would" target="clever"/>
+<edge source="complain" target="one"/>
+<edge source="one" target="settler"/>
+<edge source="one" target="gondola"/>
+<edge source="one" target="countri"/>
+<edge source="settler" target="switzerland"/>
+<edge source="woman" target="empir"/>
+<edge source="empir" target="would"/>
+<edge source="grumbl" target="unconquer"/>
+<edge source="unconquer" target="territori"/>
+<edge source="territori" target="noth"/>
+<edge source="noth" target="narrow"/>
+<edge source="narrow" target="valley"/>
+<edge source="valley" target="cold"/>
+<edge source="valley" target="graze"/>
+<edge source="cold" target="forgiv"/>
+<edge source="forgiv" target="mountain"/>
+<edge source="mountain" target="alp"/>
+<edge source="mountain" target="fortress"/>
+<edge source="mountain" target="work"/>
+<edge source="mountain" target="still"/>
+<edge source="mountain" target="steep"/>
+<edge source="mountain" target="deliv"/>
+<edge source="mountain" target="stair"/>
+<edge source="mountain" target="flower"/>
+<edge source="alp" target="averag"/>
+<edge source="averag" target="attitud"/>
+<edge source="attitud" target="5576"/>
+<edge source="attitud" target="cow"/>
+<edge source="5576" target="feet"/>
+<edge source="feet" target="cover"/>
+<edge source="cover" target="23"/>
+<edge source="23" target="switzerland"/>
+<edge source="howev" target="fierc"/>
+<edge source="fierc" target="fighter"/>
+<edge source="fighter" target="roman"/>
+<edge source="roman" target="took"/>
+<edge source="took" target="stride"/>
+<edge source="stride" target="use"/>
+<edge source="use" target="mountain"/>
+<edge source="fortress" target="need"/>
+<edge source="need" target="settl"/>
+<edge source="settl" target="area"/>
+<edge source="area" target="inspir"/>
+<edge source="area" target="swiss"/>
+<edge source="inspir" target="cultiv"/>
+<edge source="cultiv" target="valley"/>
+<edge source="graze" target="cow"/>
+<edge source="cow" target="mountain"/>
+<edge source="cow" target="forag"/>
+<edge source="cow" target="move"/>
+<edge source="work" target="countri"/>
+<edge source="countri" target="½"/>
+<edge source="countri" target="prevail"/>
+<edge source="countri" target="ethnic"/>
+<edge source="½" target="size"/>
+<edge source="size" target="new"/>
+<edge source="new" target="jersey"/>
+<edge source="jersey" target="of"/>
+<edge source="of" target="peopl"/>
+<edge source="peopl" target="60"/>
+<edge source="60" target="differ"/>
+<edge source="differ" target="type"/>
+<edge source="type" target="cow"/>
+<edge source="forag" target="maykept"/>
+<edge source="maykept" target="high"/>
+<edge source="high" target="attitud"/>
+<edge source="high" target="wa"/>
+<edge source="move" target="lower"/>
+<edge source="lower" target="elev"/>
+<edge source="elev" target="snow"/>
+<edge source="snow" target="fli"/>
+<edge source="fli" target="multimilliondollar"/>
+<edge source="multimilliondollar" target="product"/>
+<edge source="product" target="chees"/>
+<edge source="chees" target="chocol"/>
+<edge source="chocol" target="alreadi"/>
+<edge source="alreadi" target="underway"/>
+<edge source="underway" target="perfect"/>
+<edge source="perfect" target="solut"/>
+<edge source="solut" target="mountain"/>
+<edge source="still" target="navigableor"/>
+<edge source="navigableor" target="would"/>
+<edge source="clever" target="swiss"/>
+<edge source="swiss" target="devis"/>
+<edge source="swiss" target="built"/>
+<edge source="swiss" target="figur"/>
+<edge source="swiss" target="way"/>
+<edge source="swiss" target="border"/>
+<edge source="swiss" target="delight"/>
+<edge source="devis" target="plan"/>
+<edge source="plan" target="travers"/>
+<edge source="travers" target="laid"/>
+<edge source="laid" target="multitudin"/>
+<edge source="laid" target="dog"/>
+<edge source="multitudin" target="mile"/>
+<edge source="mile" target="train"/>
+<edge source="mile" target="long"/>
+<edge source="track" target="laid"/>
+<edge source="track" target="mountain"/>
+<edge source="dog" target="wheel"/>
+<edge source="wheel" target="track"/>
+<edge source="steep" target="train"/>
+<edge source="bore" target="hole"/>
+<edge source="hole" target="pass"/>
+<edge source="pass" target="inaccess"/>
+<edge source="inaccess" target="result"/>
+<edge source="result" target="effici"/>
+<edge source="effici" target="train"/>
+<edge source="system" target="penetr"/>
+<edge source="system" target="deliv"/>
+<edge source="penetr" target="mountain"/>
+<edge source="deliv" target="inhabit"/>
+<edge source="deliv" target="sky"/>
+<edge source="inhabit" target="remot"/>
+<edge source="remot" target="area"/>
+<edge source="built" target="longest"/>
+<edge source="longest" target="tunnel"/>
+<edge source="tunnel" target="world"/>
+<edge source="tunnel" target="35"/>
+<edge source="gotthard" target="tunnel"/>
+<edge source="35" target="mile"/>
+<edge source="long" target="establish"/>
+<edge source="establish" target="tourism"/>
+<edge source="tourism" target="hide"/>
+<edge source="hide" target="trail"/>
+<edge source="trail" target="cabl"/>
+<edge source="cabl" target="car"/>
+<edge source="car" target="system"/>
+<edge source="sky" target="her"/>
+<edge source="her" target="stun"/>
+<edge source="slope" target="one"/>
+<edge source="gondola" target="titl"/>
+<edge source="titl" target="glacier"/>
+<edge source="glacier" target="mountain"/>
+<edge source="stair" target="near"/>
+<edge source="near" target="lucern"/>
+<edge source="lucern" target="rotat"/>
+<edge source="rotat" target="360"/>
+<edge source="360" target="degre"/>
+<edge source="degre" target="swiss"/>
+<edge source="figur" target="switzerland"/>
+<edge source="fine" target="style"/>
+<edge source="style" target="undul"/>
+<edge source="undul" target="emerald"/>
+<edge source="emerald" target="hillsid"/>
+<edge source="hillsid" target="glisten"/>
+<edge source="glisten" target="sunshin"/>
+<edge source="sunshin" target="glander"/>
+<edge source="glander" target="feed"/>
+<edge source="feed" target="dusti"/>
+<edge source="dusti" target="turquois"/>
+<edge source="turquois" target="river"/>
+<edge source="river" target="mountain"/>
+<edge source="flower" target="burst"/>
+<edge source="burst" target="rubi"/>
+<edge source="rubi" target="red"/>
+<edge source="red" target="daisi"/>
+<edge source="daisi" target="white"/>
+<edge source="white" target="beau"/>
+<edge source="beau" target="travel"/>
+<edge source="summer" target="weather"/>
+<edge source="weather" target="high"/>
+<edge source="wa" target="low"/>
+<edge source="wa" target="could"/>
+<edge source="low" target="wa"/>
+<edge source="could" target="ask"/>
+<edge source="ask" target="wind"/>
+<edge source="wind" target="way"/>
+<edge source="way" target="switzerland"/>
+<edge source="way" target="coordin"/>
+<edge source="arriv" target="rich"/>
+<edge source="arriv" target="train"/>
+<edge source="rich" target="circl"/>
+<edge source="circl" target="switzerland"/>
+<edge source="boat" target="bu"/>
+<edge source="boat" target="short"/>
+<edge source="bu" target="swiss"/>
+<edge source="coordin" target="arriv"/>
+<edge source="bush" target="boat"/>
+<edge source="short" target="walk"/>
+<edge source="walk" target="away"/>
+<edge source="away" target="part"/>
+<edge source="part" target="switzerland"/>
+<edge source="charm" target="enjoy"/>
+<edge source="enjoy" target="mani"/>
+<edge source="mani" target="cultur"/>
+<edge source="cultur" target="one"/>
+<edge source="prevail" target="languag"/>
+<edge source="languag" target="german"/>
+<edge source="languag" target="chang"/>
+<edge source="german" target="sinc"/>
+<edge source="sinc" target="germani"/>
+<edge source="germani" target="border"/>
+<edge source="border" target="switzerland"/>
+<edge source="border" target="austria"/>
+<edge source="persh" target="swiss"/>
+<edge source="austria" target="franc"/>
+<edge source="franc" target="itali"/>
+<edge source="itali" target="mean"/>
+<edge source="mean" target="switzerland"/>
+<edge source="adjoin" target="citi"/>
+<edge source="citi" target="prevail"/>
+<edge source="chang" target="immens"/>
+<edge source="immens" target="countri"/>
+<edge source="ethnic" target="head"/>
+<edge source="head" target="swiss"/>
+<edge source="delight" target="top"/>
+<edge source="top" target="10"/>
+<edge source="10" target="thing"/>
+<edge source="thing" target="switzerland"/>
+</graph></graphml>

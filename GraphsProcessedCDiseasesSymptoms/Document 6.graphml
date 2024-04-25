@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="chromosom"/>
+<node id="fatal"/>
+<node id="syndrom"/>
+<node id="also"/>
+<node id="known"/>
+<node id="trisomi"/>
+<node id="13"/>
+<node id="rare"/>
+<node id="seriou"/>
+<node id="genet"/>
+<node id="begin"/>
+<node id="affect"/>
+<node id="babi"/>
+<node id="womb"/>
+<node id="continu"/>
+<node id="caus"/>
+<node id="health"/>
+<node id="problem"/>
+<node id="throughout"/>
+<node id="life"/>
+<node id="of"/>
+<node id="around"/>
+<node id="2"/>
+<node id="everi"/>
+<node id="10000"/>
+<node id="birth"/>
+<node id="conceiv"/>
+<node id="made"/>
+<node id="inherit"/>
+<node id="materi"/>
+<node id="parent"/>
+<node id="call"/>
+<node id="human"/>
+<node id="normal"/>
+<node id="23"/>
+<node id="pair"/>
+<node id="1"/>
+<node id="mother"/>
+<node id="father"/>
+<node id="extra"/>
+<node id="copi"/>
+<node id="present"/>
+<node id="cell"/>
+<node id="lead"/>
+<node id="3"/>
+<node id="differ"/>
+<node id="form"/>
+<node id="full"/>
+<node id="complet"/>
+<node id="round"/>
+<node id="80"/>
+<node id="born"/>
+<node id="mosaic"/>
+<node id="partial"/>
+<node id="part"/>
+<node id="case"/>
+<node id="result"/>
+<node id="random"/>
+<node id="chang"/>
+<node id="egg"/>
+<node id="speak"/>
+<node id="healthi"/>
+<node id="anyth"/>
+<node id="pregnanc"/>
+<node id="offer"/>
+<node id="screen"/>
+<node id="11"/>
+<node id="14"/>
+<node id="week"/>
+<node id="pregnant"/>
+<node id="test"/>
+<node id="show"/>
+<node id="high"/>
+<node id="low"/>
+<node id="chanc"/>
+<node id="choos"/>
+<node id="diagnost"/>
+<node id="wish"/>
+<node id="tell"/>
+<node id="7"/>
+<node id="10"/>
+<node id="70"/>
+<node id="diagnos"/>
+<node id="end"/>
+<node id="miscarriag"/>
+<node id="stillbirth"/>
+<node id="risk"/>
+<node id="decreas"/>
+<node id="progress"/>
+<node id="still"/>
+<node id="like"/>
+<node id="exactli"/>
+<node id="depend"/>
+<node id="consid"/>
+<node id="lifelimit"/>
+<node id="mean"/>
+<node id="long"/>
+<node id="live"/>
+<node id="4"/>
+<node id="431"/>
+<node id="longer"/>
+<node id="97"/>
+<node id="5"/>
+<node id="year"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="chromosom"/>
+<edge source="condit" target="fatal"/>
+<edge source="condit" target="begin"/>
+<edge source="condit" target="exactli"/>
+<edge source="condit" target="mean"/>
+<edge source="chromosom" target="condit"/>
+<edge source="chromosom" target="human"/>
+<edge source="chromosom" target="pair"/>
+<edge source="chromosom" target="inherit"/>
+<edge source="chromosom" target="13"/>
+<edge source="fatal" target="syndrom"/>
+<edge source="syndrom" target="fatal"/>
+<edge source="syndrom" target="also"/>
+<edge source="syndrom" target="babi"/>
+<edge source="syndrom" target="inherit"/>
+<edge source="syndrom" target="full"/>
+<edge source="syndrom" target="mosaic"/>
+<edge source="syndrom" target="case"/>
+<edge source="syndrom" target="11"/>
+<edge source="syndrom" target="screen"/>
+<edge source="syndrom" target="choos"/>
+<edge source="syndrom" target="affect"/>
+<edge source="syndrom" target="like"/>
+<edge source="syndrom" target="consid"/>
+<edge source="syndrom" target="live"/>
+<edge source="also" target="known"/>
+<edge source="known" target="trisomi"/>
+<edge source="trisomi" target="13"/>
+<edge source="13" target="rare"/>
+<edge source="13" target="extra"/>
+<edge source="13" target="copi"/>
+<edge source="rare" target="seriou"/>
+<edge source="rare" target="form"/>
+<edge source="seriou" target="genet"/>
+<edge source="genet" target="condit"/>
+<edge source="genet" target="materi"/>
+<edge source="begin" target="affect"/>
+<edge source="affect" target="babi"/>
+<edge source="affect" target="fatal"/>
+<edge source="affect" target="round"/>
+<edge source="affect" target="depend"/>
+<edge source="affect" target="long"/>
+<edge source="babi" target="womb"/>
+<edge source="babi" target="conceiv"/>
+<edge source="babi" target="fatal"/>
+<edge source="babi" target="cell"/>
+<edge source="babi" target="3"/>
+<edge source="babi" target="inherit"/>
+<edge source="babi" target="born"/>
+<edge source="babi" target="high"/>
+<edge source="babi" target="full"/>
+<edge source="babi" target="affect"/>
+<edge source="babi" target="live"/>
+<edge source="womb" target="continu"/>
+<edge source="continu" target="caus"/>
+<edge source="caus" target="health"/>
+<edge source="caus" target="anyth"/>
+<edge source="health" target="problem"/>
+<edge source="health" target="condit"/>
+<edge source="problem" target="throughout"/>
+<edge source="problem" target="babi"/>
+<edge source="throughout" target="life"/>
+<edge source="life" target="of"/>
+<edge source="of" target="around"/>
+<edge source="around" target="2"/>
+<edge source="2" target="everi"/>
+<edge source="everi" target="10000"/>
+<edge source="10000" target="birth"/>
+<edge source="birth" target="affect"/>
+<edge source="conceiv" target="made"/>
+<edge source="made" target="inherit"/>
+<edge source="inherit" target="genet"/>
+<edge source="inherit" target="mother"/>
+<edge source="inherit" target="father"/>
+<edge source="inherit" target="extra"/>
+<edge source="inherit" target="complet"/>
+<edge source="inherit" target="part"/>
+<edge source="materi" target="parent"/>
+<edge source="materi" target="call"/>
+<edge source="parent" target="genet"/>
+<edge source="parent" target="chang"/>
+<edge source="parent" target="pregnanc"/>
+<edge source="call" target="chromosom"/>
+<edge source="human" target="normal"/>
+<edge source="normal" target="23"/>
+<edge source="23" target="pair"/>
+<edge source="pair" target="chromosom"/>
+<edge source="pair" target="1"/>
+<edge source="1" target="chromosom"/>
+<edge source="1" target="inherit"/>
+<edge source="1" target="week"/>
+<edge source="1" target="10"/>
+<edge source="mother" target="1"/>
+<edge source="father" target="babi"/>
+<edge source="extra" target="copi"/>
+<edge source="copi" target="chromosom"/>
+<edge source="copi" target="present"/>
+<edge source="present" target="babi"/>
+<edge source="cell" target="lead"/>
+<edge source="cell" target="round"/>
+<edge source="cell" target="partial"/>
+<edge source="lead" target="health"/>
+<edge source="3" target="differ"/>
+<edge source="differ" target="form"/>
+<edge source="form" target="fatal"/>
+<edge source="form" target="syndrom"/>
+<edge source="full" target="form"/>
+<edge source="full" target="mosaic"/>
+<edge source="complet" target="extra"/>
+<edge source="round" target="80"/>
+<edge source="round" target="7"/>
+<edge source="round" target="4"/>
+<edge source="round" target="1"/>
+<edge source="80" target="babi"/>
+<edge source="born" target="fatal"/>
+<edge source="mosaic" target="form"/>
+<edge source="mosaic" target="partial"/>
+<edge source="partial" target="form"/>
+<edge source="partial" target="fatal"/>
+<edge source="part" target="extra"/>
+<edge source="case" target="result"/>
+<edge source="result" target="random"/>
+<edge source="random" target="chang"/>
+<edge source="chang" target="egg"/>
+<edge source="chang" target="caus"/>
+<edge source="egg" target="speak"/>
+<edge source="speak" target="healthi"/>
+<edge source="healthi" target="parent"/>
+<edge source="anyth" target="parent"/>
+<edge source="pregnanc" target="offer"/>
+<edge source="pregnanc" target="diagnos"/>
+<edge source="pregnanc" target="progress"/>
+<edge source="offer" target="screen"/>
+<edge source="screen" target="fatal"/>
+<edge source="screen" target="test"/>
+<edge source="screen" target="show"/>
+<edge source="11" target="14"/>
+<edge source="14" target="week"/>
+<edge source="week" target="pregnant"/>
+<edge source="week" target="round"/>
+<edge source="pregnant" target="screen"/>
+<edge source="test" target="show"/>
+<edge source="test" target="wish"/>
+<edge source="test" target="tell"/>
+<edge source="test" target="end"/>
+<edge source="show" target="babi"/>
+<edge source="show" target="high"/>
+<edge source="high" target="low"/>
+<edge source="high" target="chanc"/>
+<edge source="low" target="chanc"/>
+<edge source="chanc" target="fatal"/>
+<edge source="chanc" target="babi"/>
+<edge source="choos" target="diagnost"/>
+<edge source="diagnost" target="test"/>
+<edge source="wish" target="test"/>
+<edge source="tell" target="babi"/>
+<edge source="7" target="10"/>
+<edge source="10" target="70"/>
+<edge source="10" target="431"/>
+<edge source="10" target="97"/>
+<edge source="70" target="pregnanc"/>
+<edge source="diagnos" target="fatal"/>
+<edge source="end" target="miscarriag"/>
+<edge source="miscarriag" target="stillbirth"/>
+<edge source="miscarriag" target="decreas"/>
+<edge source="stillbirth" target="risk"/>
+<edge source="stillbirth" target="babi"/>
+<edge source="risk" target="miscarriag"/>
+<edge source="risk" target="stillbirth"/>
+<edge source="decreas" target="pregnanc"/>
+<edge source="progress" target="still"/>
+<edge source="still" target="risk"/>
+<edge source="like" target="health"/>
+<edge source="exactli" target="babi"/>
+<edge source="depend" target="form"/>
+<edge source="consid" target="lifelimit"/>
+<edge source="lifelimit" target="condit"/>
+<edge source="mean" target="affect"/>
+<edge source="long" target="babi"/>
+<edge source="live" target="round"/>
+<edge source="live" target="longer"/>
+<edge source="4" target="10"/>
+<edge source="431" target="babi"/>
+<edge source="longer" target="1"/>
+<edge source="longer" target="5"/>
+<edge source="97" target="live"/>
+<edge source="5" target="year"/>
+</graph></graphml>

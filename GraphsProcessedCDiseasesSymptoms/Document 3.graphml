@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="cancer"/>
+<node id="type"/>
+<node id="adult"/>
+<node id="pancreat"/>
+<node id="caus"/>
+<node id="abnorm"/>
+<node id="uncontrol"/>
+<node id="growth"/>
+<node id="cell"/>
+<node id="pancrea"/>
+<node id="larg"/>
+<node id="gland"/>
+<node id="part"/>
+<node id="digest"/>
+<node id="system"/>
+<node id="round"/>
+<node id="half"/>
+<node id="new"/>
+<node id="case"/>
+<node id="diagnos"/>
+<node id="peopl"/>
+<node id="age"/>
+<node id="75"/>
+<node id="uncommon"/>
+<node id="40"/>
+<node id="year"/>
+<node id="earli"/>
+<node id="stage"/>
+<node id="tumour"/>
+<node id="usual"/>
+<node id="symptom"/>
+<node id="make"/>
+<node id="difficult"/>
+<node id="import"/>
+<node id="rememb"/>
+<node id="mani"/>
+<node id="differ"/>
+<node id="result"/>
+<node id="contact"/>
+<node id="of"/>
+<node id="concern"/>
+<node id="start"/>
+<node id="suddenli"/>
+<node id="first"/>
+<node id="notic"/>
+<node id="often"/>
+<node id="possibl"/>
+<node id="includ"/>
+<node id="may"/>
+<node id="also"/>
+<node id="develop"/>
+<node id="diabet"/>
+<node id="produc"/>
+<node id="chemic"/>
+<node id="interfer"/>
+<node id="normal"/>
+<node id="effect"/>
+<node id="insult"/>
+<node id="number"/>
+<node id="endocrin"/>
+<node id="depend"/>
+<node id="harmoni"/>
+<node id="fulli"/>
+<node id="understood"/>
+<node id="risk"/>
+<node id="factor"/>
+<node id="identifi"/>
+<node id="1"/>
+<node id="10"/>
+<node id="inherit"/>
+<node id="person"/>
+<node id="parent"/>
+<node id="certain"/>
+<node id="genet"/>
+<node id="increas"/>
+<node id="chanc"/>
+<node id="get"/>
+<node id="turn"/>
+<node id="research"/>
+<node id="inform"/>
+<node id="webster"/>
+<node id="ask"/>
+<node id="gener"/>
+<node id="health"/>
+<node id="carri"/>
+<node id="physic"/>
+<node id="examin"/>
+<node id="mummi"/>
+<node id="abdomen"/>
+<node id="lump"/>
+<node id="see"/>
+<node id="whether"/>
+<node id="liver"/>
+<node id="enlarg"/>
+<node id="check"/>
+<node id="skin"/>
+<node id="eye"/>
+<node id="sign"/>
+<node id="jaundic"/>
+<node id="request"/>
+<node id="urin"/>
+<node id="sampl"/>
+<node id="blood"/>
+<node id="test"/>
+<node id="suspect"/>
+<node id="refer"/>
+<node id="specialist"/>
+<node id="hospit"/>
+<node id="investig"/>
+<node id="either"/>
+<node id="scan"/>
+<node id="tipsi"/>
+<node id="small"/>
+<node id="taken"/>
+<node id="procedur"/>
+<node id="2015"/>
+<node id="nation"/>
+<node id="institut"/>
+<node id="are"/>
+<node id="excel"/>
+<node id="nice"/>
+<node id="publish"/>
+<node id="guidelin"/>
+<node id="help"/>
+<node id="wa"/>
+<node id="recognis"/>
+<node id="right"/>
+<node id="faster"/>
+<node id="find"/>
+<node id="read"/>
+<node id="recognit"/>
+<node id="referr"/>
+<node id="treat"/>
+<node id="rare"/>
+<node id="detect"/>
+<node id="fairli"/>
+<node id="advanc"/>
+<node id="treatment"/>
+<node id="locat"/>
+<node id="far"/>
+<node id="consider"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="cancer"/>
+<edge source="condit" target="usual"/>
+<edge source="condit" target="identifi"/>
+<edge source="cancer" target="cancer"/>
+<edge source="cancer" target="type"/>
+<edge source="cancer" target="pancreat"/>
+<edge source="cancer" target="caus"/>
+<edge source="cancer" target="contact"/>
+<edge source="cancer" target="often"/>
+<edge source="cancer" target="includ"/>
+<edge source="cancer" target="produc"/>
+<edge source="cancer" target="number"/>
+<edge source="cancer" target="inherit"/>
+<edge source="cancer" target="pancrea"/>
+<edge source="cancer" target="research"/>
+<edge source="cancer" target="usual"/>
+<edge source="cancer" target="refer"/>
+<edge source="cancer" target="read"/>
+<edge source="cancer" target="recognit"/>
+<edge source="cancer" target="fairli"/>
+<edge source="cancer" target="difficult"/>
+<edge source="cancer" target="treatment"/>
+<edge source="cancer" target="far"/>
+<edge source="type" target="adult"/>
+<edge source="type" target="locat"/>
+<edge source="adult" target="pancreat"/>
+<edge source="pancreat" target="cancer"/>
+<edge source="pancreat" target="turn"/>
+<edge source="caus" target="abnorm"/>
+<edge source="caus" target="symptom"/>
+<edge source="caus" target="mani"/>
+<edge source="caus" target="differ"/>
+<edge source="caus" target="pancreat"/>
+<edge source="caus" target="webster"/>
+<edge source="abnorm" target="uncontrol"/>
+<edge source="uncontrol" target="growth"/>
+<edge source="growth" target="cell"/>
+<edge source="cell" target="pancrea"/>
+<edge source="pancrea" target="larg"/>
+<edge source="pancrea" target="usual"/>
+<edge source="pancrea" target="cancer"/>
+<edge source="pancrea" target="difficult"/>
+<edge source="larg" target="gland"/>
+<edge source="larg" target="treat"/>
+<edge source="gland" target="part"/>
+<edge source="part" target="digest"/>
+<edge source="digest" target="system"/>
+<edge source="system" target="round"/>
+<edge source="round" target="half"/>
+<edge source="half" target="new"/>
+<edge source="new" target="case"/>
+<edge source="case" target="diagnos"/>
+<edge source="case" target="pancreat"/>
+<edge source="diagnos" target="peopl"/>
+<edge source="diagnos" target="import"/>
+<edge source="diagnos" target="pancreat"/>
+<edge source="peopl" target="age"/>
+<edge source="peopl" target="40"/>
+<edge source="peopl" target="right"/>
+<edge source="age" target="75"/>
+<edge source="age" target="earli"/>
+<edge source="age" target="gener"/>
+<edge source="75" target="uncommon"/>
+<edge source="uncommon" target="peopl"/>
+<edge source="40" target="year"/>
+<edge source="year" target="age"/>
+<edge source="earli" target="stage"/>
+<edge source="stage" target="tumour"/>
+<edge source="stage" target="often"/>
+<edge source="tumour" target="pancrea"/>
+<edge source="tumour" target="caus"/>
+<edge source="tumour" target="produc"/>
+<edge source="tumour" target="may"/>
+<edge source="tumour" target="larg"/>
+<edge source="usual" target="caus"/>
+<edge source="usual" target="result"/>
+<edge source="usual" target="refer"/>
+<edge source="symptom" target="make"/>
+<edge source="symptom" target="caus"/>
+<edge source="symptom" target="start"/>
+<edge source="symptom" target="pancreat"/>
+<edge source="symptom" target="diabet"/>
+<edge source="symptom" target="depend"/>
+<edge source="symptom" target="earli"/>
+<edge source="make" target="difficult"/>
+<edge source="difficult" target="diagnos"/>
+<edge source="difficult" target="treat"/>
+<edge source="import" target="rememb"/>
+<edge source="rememb" target="symptom"/>
+<edge source="mani" target="differ"/>
+<edge source="differ" target="condit"/>
+<edge source="differ" target="endocrin"/>
+<edge source="differ" target="symptom"/>
+<edge source="result" target="cancer"/>
+<edge source="result" target="scan"/>
+<edge source="contact" target="of"/>
+<edge source="of" target="concern"/>
+<edge source="of" target="inform"/>
+<edge source="of" target="first"/>
+<edge source="of" target="suspect"/>
+<edge source="concern" target="symptom"/>
+<edge source="start" target="suddenli"/>
+<edge source="suddenli" target="first"/>
+<edge source="first" target="notic"/>
+<edge source="first" target="ask"/>
+<edge source="notic" target="symptom"/>
+<edge source="often" target="possibl"/>
+<edge source="often" target="detect"/>
+<edge source="possibl" target="symptom"/>
+<edge source="includ" target="may"/>
+<edge source="includ" target="1"/>
+<edge source="includ" target="tipsi"/>
+<edge source="may" target="also"/>
+<edge source="may" target="examin"/>
+<edge source="may" target="request"/>
+<edge source="may" target="either"/>
+<edge source="may" target="includ"/>
+<edge source="also" target="develop"/>
+<edge source="also" target="number"/>
+<edge source="also" target="increas"/>
+<edge source="also" target="check"/>
+<edge source="also" target="carri"/>
+<edge source="also" target="taken"/>
+<edge source="develop" target="symptom"/>
+<edge source="develop" target="condit"/>
+<edge source="develop" target="cancer"/>
+<edge source="diabet" target="pancreat"/>
+<edge source="produc" target="chemic"/>
+<edge source="produc" target="fulli"/>
+<edge source="chemic" target="interfer"/>
+<edge source="interfer" target="normal"/>
+<edge source="normal" target="effect"/>
+<edge source="effect" target="insult"/>
+<edge source="insult" target="also"/>
+<edge source="number" target="differ"/>
+<edge source="number" target="risk"/>
+<edge source="endocrin" target="tumour"/>
+<edge source="depend" target="harmoni"/>
+<edge source="depend" target="result"/>
+<edge source="depend" target="type"/>
+<edge source="harmoni" target="tumour"/>
+<edge source="fulli" target="understood"/>
+<edge source="understood" target="caus"/>
+<edge source="risk" target="factor"/>
+<edge source="risk" target="develop"/>
+<edge source="factor" target="develop"/>
+<edge source="factor" target="pancreat"/>
+<edge source="factor" target="caus"/>
+<edge source="identifi" target="risk"/>
+<edge source="1" target="10"/>
+<edge source="10" target="case"/>
+<edge source="inherit" target="person"/>
+<edge source="person" target="parent"/>
+<edge source="person" target="refer"/>
+<edge source="parent" target="certain"/>
+<edge source="certain" target="genet"/>
+<edge source="genet" target="also"/>
+<edge source="increas" target="chanc"/>
+<edge source="increas" target="risk"/>
+<edge source="chanc" target="get"/>
+<edge source="get" target="pancreat"/>
+<edge source="turn" target="increas"/>
+<edge source="research" target="of"/>
+<edge source="inform" target="risk"/>
+<edge source="webster" target="of"/>
+<edge source="ask" target="gener"/>
+<edge source="gener" target="health"/>
+<edge source="health" target="carri"/>
+<edge source="health" target="are"/>
+<edge source="health" target="person"/>
+<edge source="carri" target="physic"/>
+<edge source="carri" target="procedur"/>
+<edge source="physic" target="examin"/>
+<edge source="examin" target="may"/>
+<edge source="examin" target="mummi"/>
+<edge source="mummi" target="abdomen"/>
+<edge source="abdomen" target="lump"/>
+<edge source="lump" target="see"/>
+<edge source="see" target="whether"/>
+<edge source="whether" target="liver"/>
+<edge source="liver" target="enlarg"/>
+<edge source="enlarg" target="also"/>
+<edge source="check" target="skin"/>
+<edge source="skin" target="eye"/>
+<edge source="eye" target="sign"/>
+<edge source="sign" target="jaundic"/>
+<edge source="sign" target="symptom"/>
+<edge source="jaundic" target="may"/>
+<edge source="request" target="urin"/>
+<edge source="urin" target="sampl"/>
+<edge source="sampl" target="blood"/>
+<edge source="sampl" target="taken"/>
+<edge source="blood" target="test"/>
+<edge source="test" target="of"/>
+<edge source="test" target="may"/>
+<edge source="test" target="faster"/>
+<edge source="test" target="suspect"/>
+<edge source="suspect" target="pancreat"/>
+<edge source="suspect" target="tumour"/>
+<edge source="suspect" target="cancer"/>
+<edge source="refer" target="specialist"/>
+<edge source="refer" target="peopl"/>
+<edge source="refer" target="test"/>
+<edge source="refer" target="also"/>
+<edge source="specialist" target="hospit"/>
+<edge source="hospit" target="investig"/>
+<edge source="investig" target="may"/>
+<edge source="either" target="depend"/>
+<edge source="scan" target="test"/>
+<edge source="tipsi" target="small"/>
+<edge source="small" target="sampl"/>
+<edge source="taken" target="suspect"/>
+<edge source="taken" target="consider"/>
+<edge source="procedur" target="2015"/>
+<edge source="2015" target="nation"/>
+<edge source="2015" target="guidelin"/>
+<edge source="nation" target="institut"/>
+<edge source="institut" target="health"/>
+<edge source="are" target="excel"/>
+<edge source="excel" target="nice"/>
+<edge source="nice" target="publish"/>
+<edge source="nice" target="2015"/>
+<edge source="publish" target="guidelin"/>
+<edge source="guidelin" target="help"/>
+<edge source="guidelin" target="suspect"/>
+<edge source="help" target="wa"/>
+<edge source="wa" target="recognis"/>
+<edge source="recognis" target="sign"/>
+<edge source="right" target="test"/>
+<edge source="faster" target="find"/>
+<edge source="find" target="refer"/>
+<edge source="read" target="nice"/>
+<edge source="recognit" target="referr"/>
+<edge source="referr" target="cancer"/>
+<edge source="treat" target="rare"/>
+<edge source="treat" target="cancer"/>
+<edge source="rare" target="caus"/>
+<edge source="detect" target="cancer"/>
+<edge source="fairli" target="advanc"/>
+<edge source="advanc" target="tumour"/>
+<edge source="advanc" target="age"/>
+<edge source="treatment" target="depend"/>
+<edge source="locat" target="cancer"/>
+<edge source="far" target="advanc"/>
+</graph></graphml>

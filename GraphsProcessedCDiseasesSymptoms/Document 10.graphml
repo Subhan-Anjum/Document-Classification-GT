@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="brain"/>
+<node id="nerv"/>
+<node id="spinal"/>
+<node id="cord"/>
+<node id="peripher"/>
+<node id="neuropath"/>
+<node id="develop"/>
+<node id="bodi"/>
+<node id="extrem"/>
+<node id="hand"/>
+<node id="feet"/>
+<node id="arm"/>
+<node id="damag"/>
+<node id="symptom"/>
+<node id="depend"/>
+<node id="affect"/>
+<node id="of"/>
+<node id="estim"/>
+<node id="almost"/>
+<node id="1"/>
+<node id="10"/>
+<node id="peopl"/>
+<node id="age"/>
+<node id="55"/>
+<node id="degre"/>
+<node id="nervou"/>
+<node id="system"/>
+<node id="network"/>
+<node id="lie"/>
+<node id="outsid"/>
+<node id="central"/>
+<node id="includ"/>
+<node id="differ"/>
+<node id="type"/>
+<node id="specif"/>
+<node id="function"/>
+<node id="main"/>
+<node id="usual"/>
+<node id="constant"/>
+<node id="may"/>
+<node id="come"/>
+<node id="go"/>
+<node id="head"/>
+<node id="recommend"/>
+<node id="highest"/>
+<node id="risk"/>
+<node id="diabet"/>
+<node id="regular"/>
+<node id="checkup"/>
+<node id="ask"/>
+<node id="arrang"/>
+<node id="test"/>
+<node id="help"/>
+<node id="identifi"/>
+<node id="underli"/>
+<node id="caus"/>
+<node id="refer"/>
+<node id="hospit"/>
+<node id="see"/>
+<node id="neurologist"/>
+<node id="specialist"/>
+<node id="gener"/>
+<node id="sooner"/>
+<node id="diagnos"/>
+<node id="better"/>
+<node id="chanc"/>
+<node id="limit"/>
+<node id="prevent"/>
+<node id="complic"/>
+<node id="2"/>
+<node id="common"/>
+<node id="time"/>
+<node id="high"/>
+<node id="blood"/>
+<node id="sugar"/>
+<node id="level"/>
+<node id="associ"/>
+<node id="known"/>
+<node id="polyneuropathi"/>
+<node id="also"/>
+<node id="wide"/>
+<node id="rang"/>
+<node id="exampl"/>
+<node id="increas"/>
+<node id="possess"/>
+<node id="treatment"/>
+<node id="treat"/>
+<node id="gain"/>
+<node id="control"/>
+<node id="stop"/>
+<node id="smoke"/>
+<node id="cut"/>
+<node id="alcohol"/>
+<node id="pain"/>
+<node id="prescrib"/>
+<node id="medit"/>
+<node id="call"/>
+<node id="agent"/>
+<node id="standard"/>
+<node id="painkil"/>
+<node id="often"/>
+<node id="ineffect"/>
+<node id="need"/>
+<node id="individu"/>
+<node id="muscl"/>
+<node id="weak"/>
+<node id="involv"/>
+<node id="physiotherapi"/>
+<node id="use"/>
+<node id="walk"/>
+<node id="aid"/>
+<node id="outlook"/>
+<node id="vari"/>
+<node id="case"/>
+<node id="improv"/>
+<node id="wherea"/>
+<node id="perman"/>
+<node id="get"/>
+<node id="gradual"/>
+<node id="wors"/>
+<node id="potenti"/>
+<node id="seriou"/>
+<node id="foot"/>
+<node id="ulcer"/>
+<node id="becom"/>
+<node id="infect"/>
+<node id="lead"/>
+<node id="gangren"/>
+<node id="tissu"/>
+<node id="death"/>
+<node id="untreat"/>
+<node id="sever"/>
+<node id="mean"/>
+<node id="amput"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="brain"/>
+<edge source="condit" target="affect"/>
+<edge source="brain" target="nerv"/>
+<edge source="brain" target="spinal"/>
+<edge source="nerv" target="spinal"/>
+<edge source="nerv" target="bodi"/>
+<edge source="nerv" target="affect"/>
+<edge source="nerv" target="lie"/>
+<edge source="nerv" target="specif"/>
+<edge source="nerv" target="type"/>
+<edge source="nerv" target="damag"/>
+<edge source="nerv" target="function"/>
+<edge source="nerv" target="pain"/>
+<edge source="spinal" target="cord"/>
+<edge source="cord" target="peripher"/>
+<edge source="cord" target="includ"/>
+<edge source="peripher" target="neuropath"/>
+<edge source="peripher" target="nervou"/>
+<edge source="neuropath" target="peripher"/>
+<edge source="neuropath" target="develop"/>
+<edge source="neuropath" target="recommend"/>
+<edge source="neuropath" target="peopl"/>
+<edge source="neuropath" target="diagnos"/>
+<edge source="neuropath" target="of"/>
+<edge source="neuropath" target="time"/>
+<edge source="neuropath" target="also"/>
+<edge source="neuropath" target="may"/>
+<edge source="neuropath" target="treatment"/>
+<edge source="neuropath" target="depend"/>
+<edge source="neuropath" target="treat"/>
+<edge source="neuropath" target="pain"/>
+<edge source="neuropath" target="outlook"/>
+<edge source="neuropath" target="vari"/>
+<edge source="develop" target="nerv"/>
+<edge source="develop" target="potenti"/>
+<edge source="bodi" target="extrem"/>
+<edge source="extrem" target="hand"/>
+<edge source="hand" target="feet"/>
+<edge source="feet" target="arm"/>
+<edge source="arm" target="damag"/>
+<edge source="damag" target="symptom"/>
+<edge source="damag" target="prevent"/>
+<edge source="damag" target="nerv"/>
+<edge source="damag" target="known"/>
+<edge source="damag" target="case"/>
+<edge source="damag" target="may"/>
+<edge source="symptom" target="depend"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="usual"/>
+<edge source="symptom" target="peripher"/>
+<edge source="symptom" target="may"/>
+<edge source="symptom" target="underli"/>
+<edge source="depend" target="nerv"/>
+<edge source="depend" target="symptom"/>
+<edge source="depend" target="underli"/>
+<edge source="affect" target="of"/>
+<edge source="affect" target="degre"/>
+<edge source="affect" target="nervou"/>
+<edge source="affect" target="foot"/>
+<edge source="of" target="estim"/>
+<edge source="of" target="ask"/>
+<edge source="of" target="diabet"/>
+<edge source="estim" target="almost"/>
+<edge source="almost" target="1"/>
+<edge source="1" target="10"/>
+<edge source="1" target="type"/>
+<edge source="10" target="peopl"/>
+<edge source="peopl" target="age"/>
+<edge source="peopl" target="highest"/>
+<edge source="peopl" target="diabet"/>
+<edge source="peopl" target="known"/>
+<edge source="peopl" target="damag"/>
+<edge source="age" target="55"/>
+<edge source="55" target="affect"/>
+<edge source="degre" target="peripher"/>
+<edge source="nervou" target="system"/>
+<edge source="system" target="network"/>
+<edge source="system" target="brain"/>
+<edge source="system" target="gener"/>
+<edge source="network" target="nerv"/>
+<edge source="lie" target="outsid"/>
+<edge source="outsid" target="central"/>
+<edge source="central" target="nervou"/>
+<edge source="includ" target="differ"/>
+<edge source="includ" target="main"/>
+<edge source="includ" target="symptom"/>
+<edge source="differ" target="type"/>
+<edge source="type" target="nerv"/>
+<edge source="type" target="1"/>
+<edge source="type" target="2"/>
+<edge source="specif" target="function"/>
+<edge source="function" target="includ"/>
+<edge source="function" target="possess"/>
+<edge source="main" target="symptom"/>
+<edge source="usual" target="constant"/>
+<edge source="constant" target="may"/>
+<edge source="may" target="come"/>
+<edge source="may" target="arrang"/>
+<edge source="may" target="refer"/>
+<edge source="may" target="regular"/>
+<edge source="may" target="help"/>
+<edge source="may" target="treat"/>
+<edge source="may" target="need"/>
+<edge source="may" target="involv"/>
+<edge source="may" target="improv"/>
+<edge source="may" target="perman"/>
+<edge source="may" target="get"/>
+<edge source="may" target="risk"/>
+<edge source="may" target="mean"/>
+<edge source="come" target="go"/>
+<edge source="go" target="head"/>
+<edge source="head" target="symptom"/>
+<edge source="head" target="diagnos"/>
+<edge source="head" target="caus"/>
+<edge source="head" target="treat"/>
+<edge source="recommend" target="peopl"/>
+<edge source="highest" target="risk"/>
+<edge source="risk" target="peripher"/>
+<edge source="risk" target="develop"/>
+<edge source="diabet" target="regular"/>
+<edge source="diabet" target="type"/>
+<edge source="diabet" target="damag"/>
+<edge source="diabet" target="polyneuropathi"/>
+<edge source="diabet" target="may"/>
+<edge source="regular" target="checkup"/>
+<edge source="checkup" target="of"/>
+<edge source="checkup" target="nerv"/>
+<edge source="ask" target="symptom"/>
+<edge source="arrang" target="test"/>
+<edge source="test" target="help"/>
+<edge source="help" target="identifi"/>
+<edge source="help" target="gain"/>
+<edge source="identifi" target="underli"/>
+<edge source="underli" target="caus"/>
+<edge source="caus" target="may"/>
+<edge source="caus" target="peripher"/>
+<edge source="caus" target="exampl"/>
+<edge source="caus" target="peopl"/>
+<edge source="caus" target="underli"/>
+<edge source="caus" target="neuropath"/>
+<edge source="caus" target="nerv"/>
+<edge source="caus" target="treat"/>
+<edge source="refer" target="hospit"/>
+<edge source="hospit" target="see"/>
+<edge source="see" target="neurologist"/>
+<edge source="neurologist" target="specialist"/>
+<edge source="specialist" target="condit"/>
+<edge source="gener" target="sooner"/>
+<edge source="sooner" target="peripher"/>
+<edge source="diagnos" target="better"/>
+<edge source="diagnos" target="peripher"/>
+<edge source="better" target="chanc"/>
+<edge source="better" target="control"/>
+<edge source="chanc" target="limit"/>
+<edge source="limit" target="damag"/>
+<edge source="prevent" target="complic"/>
+<edge source="complic" target="head"/>
+<edge source="complic" target="foot"/>
+<edge source="2" target="common"/>
+<edge source="common" target="caus"/>
+<edge source="time" target="high"/>
+<edge source="time" target="underli"/>
+<edge source="high" target="blood"/>
+<edge source="blood" target="sugar"/>
+<edge source="sugar" target="level"/>
+<edge source="level" target="associ"/>
+<edge source="level" target="stop"/>
+<edge source="associ" target="diabet"/>
+<edge source="known" target="diabet"/>
+<edge source="known" target="increas"/>
+<edge source="polyneuropathi" target="peripher"/>
+<edge source="also" target="wide"/>
+<edge source="wide" target="rang"/>
+<edge source="rang" target="caus"/>
+<edge source="exampl" target="caus"/>
+<edge source="exampl" target="diabet"/>
+<edge source="exampl" target="treatment"/>
+<edge source="increas" target="risk"/>
+<edge source="possess" target="head"/>
+<edge source="treatment" target="peripher"/>
+<edge source="treatment" target="muscl"/>
+<edge source="treat" target="exampl"/>
+<edge source="treat" target="prescrib"/>
+<edge source="treat" target="individu"/>
+<edge source="treat" target="peripher"/>
+<edge source="treat" target="wherea"/>
+<edge source="treat" target="may"/>
+<edge source="gain" target="better"/>
+<edge source="control" target="blood"/>
+<edge source="stop" target="smoke"/>
+<edge source="smoke" target="cut"/>
+<edge source="cut" target="alcohol"/>
+<edge source="alcohol" target="nerv"/>
+<edge source="pain" target="may"/>
+<edge source="pain" target="agent"/>
+<edge source="prescrib" target="medit"/>
+<edge source="medit" target="call"/>
+<edge source="call" target="neuropath"/>
+<edge source="agent" target="standard"/>
+<edge source="standard" target="painkil"/>
+<edge source="painkil" target="often"/>
+<edge source="often" target="ineffect"/>
+<edge source="ineffect" target="symptom"/>
+<edge source="need" target="treat"/>
+<edge source="individu" target="exampl"/>
+<edge source="muscl" target="weak"/>
+<edge source="weak" target="may"/>
+<edge source="involv" target="physiotherapi"/>
+<edge source="physiotherapi" target="use"/>
+<edge source="use" target="walk"/>
+<edge source="walk" target="aid"/>
+<edge source="aid" target="head"/>
+<edge source="outlook" target="peripher"/>
+<edge source="vari" target="depend"/>
+<edge source="case" target="may"/>
+<edge source="improv" target="time"/>
+<edge source="wherea" target="peopl"/>
+<edge source="perman" target="may"/>
+<edge source="get" target="gradual"/>
+<edge source="gradual" target="wors"/>
+<edge source="wors" target="time"/>
+<edge source="potenti" target="seriou"/>
+<edge source="seriou" target="complic"/>
+<edge source="foot" target="ulcer"/>
+<edge source="foot" target="amput"/>
+<edge source="ulcer" target="becom"/>
+<edge source="becom" target="infect"/>
+<edge source="infect" target="lead"/>
+<edge source="lead" target="gangren"/>
+<edge source="gangren" target="tissu"/>
+<edge source="tissu" target="death"/>
+<edge source="death" target="untreat"/>
+<edge source="untreat" target="sever"/>
+<edge source="sever" target="case"/>
+<edge source="mean" target="affect"/>
+</graph></graphml>

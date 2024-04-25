@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="cancer"/>
+<node id="type"/>
+<node id="adult"/>
+<node id="senil"/>
+<node id="rare"/>
+<node id="occur"/>
+<node id="skin"/>
+<node id="peni"/>
+<node id="within"/>
+<node id="last"/>
+<node id="30"/>
+<node id="year"/>
+<node id="number"/>
+<node id="case"/>
+<node id="increas"/>
+<node id="20"/>
+<node id="possibl"/>
+<node id="due"/>
+<node id="chang"/>
+<node id="sexual"/>
+<node id="practic"/>
+<node id="howev"/>
+<node id="improv"/>
+<node id="diagnosi"/>
+<node id="stay"/>
+<node id="treatment"/>
+<node id="led"/>
+<node id="similar"/>
+<node id="reduct"/>
+<node id="death"/>
+<node id="result"/>
+<node id="awar"/>
+<node id="abnorm"/>
+<node id="sign"/>
+<node id="includ"/>
+<node id="experi"/>
+<node id="symptom"/>
+<node id="import"/>
+<node id="check"/>
+<node id="of"/>
+<node id="soon"/>
+<node id="unlik"/>
+<node id="caus"/>
+<node id="need"/>
+<node id="investig"/>
+<node id="delay"/>
+<node id="diagnos"/>
+<node id="could"/>
+<node id="reduc"/>
+<node id="chanc"/>
+<node id="success"/>
+<node id="made"/>
+<node id="mani"/>
+<node id="differ"/>
+<node id="tissu"/>
+<node id="depend"/>
+<node id="cell"/>
+<node id="develop"/>
+<node id="common"/>
+<node id="research"/>
+<node id="webster"/>
+<node id="inform"/>
+<node id="known"/>
+<node id="certain"/>
+<node id="risk"/>
+<node id="factor"/>
+<node id="get"/>
+<node id="men"/>
+<node id="carri"/>
+<node id="human"/>
+<node id="papilloma"/>
+<node id="viru"/>
+<node id="hpv"/>
+<node id="genit"/>
+<node id="wart"/>
+<node id="age"/>
+<node id="also"/>
+<node id="affect"/>
+<node id="anyon"/>
+<node id="40"/>
+<node id="commonli"/>
+<node id="60"/>
+<node id="smoke"/>
+<node id="signific"/>
+<node id="lifestyl"/>
+<node id="associ"/>
+<node id="chemic"/>
+<node id="found"/>
+<node id="cigarett"/>
+<node id="damag"/>
+<node id="phimosi"/>
+<node id="make"/>
+<node id="foreseen"/>
+<node id="difficult"/>
+<node id="retract"/>
+<node id="infect"/>
+<node id="balan"/>
+<node id="repeat"/>
+<node id="link"/>
+<node id="higher"/>
+<node id="weaken"/>
+<node id="immun"/>
+<node id="system"/>
+<node id="ask"/>
+<node id="examin"/>
+<node id="2015"/>
+<node id="nation"/>
+<node id="institut"/>
+<node id="health"/>
+<node id="are"/>
+<node id="excel"/>
+<node id="nice"/>
+<node id="publish"/>
+<node id="guidelin"/>
+<node id="help"/>
+<node id="wa"/>
+<node id="recognis"/>
+<node id="refer"/>
+<node id="peopl"/>
+<node id="right"/>
+<node id="test"/>
+<node id="faster"/>
+<node id="find"/>
+<node id="suspect"/>
+<node id="read"/>
+<node id="recognit"/>
+<node id="referr"/>
+<node id="may"/>
+<node id="specialist"/>
+<node id="usual"/>
+<node id="urologist"/>
+<node id="doctor"/>
+<node id="specialis"/>
+<node id="urinari"/>
+<node id="medic"/>
+<node id="histori"/>
+<node id="physic"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="cancer"/>
+<edge source="condit" target="awar"/>
+<edge source="condit" target="rare"/>
+<edge source="condit" target="condit"/>
+<edge source="condit" target="affect"/>
+<edge source="cancer" target="cancer"/>
+<edge source="cancer" target="type"/>
+<edge source="cancer" target="senil"/>
+<edge source="cancer" target="rare"/>
+<edge source="cancer" target="occur"/>
+<edge source="cancer" target="case"/>
+<edge source="cancer" target="includ"/>
+<edge source="cancer" target="peni"/>
+<edge source="cancer" target="could"/>
+<edge source="cancer" target="depend"/>
+<edge source="cancer" target="develop"/>
+<edge source="cancer" target="research"/>
+<edge source="cancer" target="caus"/>
+<edge source="cancer" target="known"/>
+<edge source="cancer" target="viru"/>
+<edge source="cancer" target="chemic"/>
+<edge source="cancer" target="weaken"/>
+<edge source="cancer" target="of"/>
+<edge source="cancer" target="2015"/>
+<edge source="cancer" target="refer"/>
+<edge source="cancer" target="read"/>
+<edge source="cancer" target="recognit"/>
+<edge source="cancer" target="may"/>
+<edge source="type" target="adult"/>
+<edge source="type" target="cancer"/>
+<edge source="type" target="tissu"/>
+<edge source="type" target="senil"/>
+<edge source="type" target="cell"/>
+<edge source="adult" target="senil"/>
+<edge source="senil" target="cancer"/>
+<edge source="rare" target="type"/>
+<edge source="rare" target="affect"/>
+<edge source="occur" target="skin"/>
+<edge source="occur" target="men"/>
+<edge source="occur" target="also"/>
+<edge source="skin" target="peni"/>
+<edge source="peni" target="within"/>
+<edge source="peni" target="last"/>
+<edge source="peni" target="need"/>
+<edge source="peni" target="made"/>
+<edge source="peni" target="condit"/>
+<edge source="peni" target="40"/>
+<edge source="peni" target="age"/>
+<edge source="peni" target="increas"/>
+<edge source="peni" target="phimosi"/>
+<edge source="peni" target="sign"/>
+<edge source="within" target="peni"/>
+<edge source="last" target="30"/>
+<edge source="30" target="year"/>
+<edge source="year" target="number"/>
+<edge source="year" target="age"/>
+<edge source="number" target="senil"/>
+<edge source="number" target="death"/>
+<edge source="case" target="increas"/>
+<edge source="increas" target="20"/>
+<edge source="increas" target="chanc"/>
+<edge source="increas" target="risk"/>
+<edge source="20" target="possibl"/>
+<edge source="possibl" target="due"/>
+<edge source="possibl" target="unlik"/>
+<edge source="due" target="chang"/>
+<edge source="chang" target="sexual"/>
+<edge source="sexual" target="practic"/>
+<edge source="practic" target="howev"/>
+<edge source="howev" target="improv"/>
+<edge source="improv" target="diagnosi"/>
+<edge source="diagnosi" target="stay"/>
+<edge source="stay" target="treatment"/>
+<edge source="treatment" target="led"/>
+<edge source="treatment" target="peni"/>
+<edge source="led" target="similar"/>
+<edge source="similar" target="reduct"/>
+<edge source="reduct" target="number"/>
+<edge source="death" target="result"/>
+<edge source="result" target="condit"/>
+<edge source="awar" target="abnorm"/>
+<edge source="abnorm" target="sign"/>
+<edge source="sign" target="senil"/>
+<edge source="sign" target="symptom"/>
+<edge source="includ" target="experi"/>
+<edge source="includ" target="cancer"/>
+<edge source="experi" target="symptom"/>
+<edge source="symptom" target="import"/>
+<edge source="symptom" target="occur"/>
+<edge source="symptom" target="senil"/>
+<edge source="symptom" target="check"/>
+<edge source="import" target="check"/>
+<edge source="check" target="of"/>
+<edge source="check" target="medic"/>
+<edge source="check" target="physic"/>
+<edge source="of" target="soon"/>
+<edge source="of" target="webster"/>
+<edge source="of" target="ask"/>
+<edge source="of" target="suspect"/>
+<edge source="soon" target="possibl"/>
+<edge source="unlik" target="caus"/>
+<edge source="caus" target="cancer"/>
+<edge source="caus" target="senil"/>
+<edge source="caus" target="genit"/>
+<edge source="need" target="investig"/>
+<edge source="investig" target="delay"/>
+<edge source="delay" target="diagnos"/>
+<edge source="diagnos" target="senil"/>
+<edge source="could" target="reduc"/>
+<edge source="reduc" target="chanc"/>
+<edge source="chanc" target="success"/>
+<edge source="chanc" target="get"/>
+<edge source="chanc" target="develop"/>
+<edge source="success" target="treatment"/>
+<edge source="made" target="mani"/>
+<edge source="mani" target="differ"/>
+<edge source="differ" target="type"/>
+<edge source="tissu" target="type"/>
+<edge source="depend" target="type"/>
+<edge source="cell" target="cancer"/>
+<edge source="cell" target="peni"/>
+<edge source="develop" target="common"/>
+<edge source="develop" target="senil"/>
+<edge source="develop" target="infect"/>
+<edge source="develop" target="type"/>
+<edge source="common" target="type"/>
+<edge source="research" target="of"/>
+<edge source="webster" target="inform"/>
+<edge source="inform" target="differ"/>
+<edge source="inform" target="risk"/>
+<edge source="known" target="certain"/>
+<edge source="certain" target="risk"/>
+<edge source="risk" target="factor"/>
+<edge source="risk" target="develop"/>
+<edge source="risk" target="get"/>
+<edge source="risk" target="caus"/>
+<edge source="factor" target="increas"/>
+<edge source="factor" target="cancer"/>
+<edge source="factor" target="associ"/>
+<edge source="get" target="men"/>
+<edge source="get" target="condit"/>
+<edge source="men" target="carri"/>
+<edge source="men" target="anyon"/>
+<edge source="carri" target="human"/>
+<edge source="human" target="papilloma"/>
+<edge source="papilloma" target="viru"/>
+<edge source="viru" target="hpv"/>
+<edge source="viru" target="caus"/>
+<edge source="hpv" target="increas"/>
+<edge source="genit" target="wart"/>
+<edge source="genit" target="specialist"/>
+<edge source="wart" target="age"/>
+<edge source="age" target="also"/>
+<edge source="age" target="commonli"/>
+<edge source="age" target="60"/>
+<edge source="also" target="risk"/>
+<edge source="also" target="examin"/>
+<edge source="also" target="check"/>
+<edge source="affect" target="men"/>
+<edge source="affect" target="peni"/>
+<edge source="affect" target="urinari"/>
+<edge source="anyon" target="peni"/>
+<edge source="40" target="year"/>
+<edge source="commonli" target="occur"/>
+<edge source="60" target="smoke"/>
+<edge source="smoke" target="signific"/>
+<edge source="signific" target="lifestyl"/>
+<edge source="lifestyl" target="factor"/>
+<edge source="associ" target="senil"/>
+<edge source="chemic" target="found"/>
+<edge source="found" target="cigarett"/>
+<edge source="cigarett" target="damag"/>
+<edge source="damag" target="cell"/>
+<edge source="phimosi" target="make"/>
+<edge source="make" target="foreseen"/>
+<edge source="foreseen" target="difficult"/>
+<edge source="difficult" target="retract"/>
+<edge source="retract" target="increas"/>
+<edge source="infect" target="balan"/>
+<edge source="infect" target="link"/>
+<edge source="balan" target="repeat"/>
+<edge source="repeat" target="infect"/>
+<edge source="link" target="higher"/>
+<edge source="higher" target="risk"/>
+<edge source="weaken" target="immun"/>
+<edge source="immun" target="system"/>
+<edge source="system" target="cancer"/>
+<edge source="system" target="genit"/>
+<edge source="ask" target="symptom"/>
+<edge source="examin" target="peni"/>
+<edge source="2015" target="nation"/>
+<edge source="2015" target="guidelin"/>
+<edge source="nation" target="institut"/>
+<edge source="institut" target="health"/>
+<edge source="health" target="are"/>
+<edge source="are" target="excel"/>
+<edge source="excel" target="nice"/>
+<edge source="nice" target="publish"/>
+<edge source="nice" target="2015"/>
+<edge source="publish" target="guidelin"/>
+<edge source="guidelin" target="help"/>
+<edge source="guidelin" target="suspect"/>
+<edge source="help" target="wa"/>
+<edge source="wa" target="recognis"/>
+<edge source="recognis" target="sign"/>
+<edge source="refer" target="peopl"/>
+<edge source="refer" target="test"/>
+<edge source="refer" target="specialist"/>
+<edge source="peopl" target="right"/>
+<edge source="right" target="test"/>
+<edge source="test" target="faster"/>
+<edge source="test" target="suspect"/>
+<edge source="faster" target="find"/>
+<edge source="find" target="refer"/>
+<edge source="suspect" target="senil"/>
+<edge source="suspect" target="cancer"/>
+<edge source="read" target="nice"/>
+<edge source="recognit" target="referr"/>
+<edge source="referr" target="of"/>
+<edge source="may" target="refer"/>
+<edge source="may" target="also"/>
+<edge source="specialist" target="usual"/>
+<edge source="specialist" target="ask"/>
+<edge source="usual" target="urologist"/>
+<edge source="urologist" target="doctor"/>
+<edge source="doctor" target="specialis"/>
+<edge source="specialis" target="condit"/>
+<edge source="urinari" target="system"/>
+<edge source="medic" target="histori"/>
+<edge source="histori" target="may"/>
+<edge source="physic" target="sign"/>
+</graph></graphml>

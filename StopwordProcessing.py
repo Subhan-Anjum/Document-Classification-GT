@@ -3,9 +3,10 @@ import docx
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import string
+import nltk
+from textblob import TextBlob
 
 # Ensure NLTK stopwords are downloaded
-import nltk
 
 
 # Function to remove stopwords and punctuation from text
@@ -14,6 +15,12 @@ def remove_stopwords_and_punctuation(text):
     word_tokens = word_tokenize(text)
     filtered_text = [word for word in word_tokens if word.lower() not in stop_words and word not in string.punctuation]
     return ' '.join(filtered_text)
+
+# Function to correct spellings using TextBlob
+def correct_spelling(text):
+    blob = TextBlob(text)
+    corrected_text = str(blob.correct())
+    return corrected_text
 
 # Function to process .docx files in a directory and save processed files into a new folder
 def process_files(input_folder, output_folder):
@@ -38,16 +45,19 @@ def process_files(input_folder, output_folder):
             # Remove stopwords and punctuation from the text
             processed_text = remove_stopwords_and_punctuation(text)
 
+            # Correct spellings
+            corrected_text = correct_spelling(processed_text)
+
             # Create a new document
             new_doc = docx.Document()
-            new_doc.add_paragraph(processed_text)
+            new_doc.add_paragraph(corrected_text)
 
             # Save the new document
             new_doc.save(output_path)
 
 # Specify input and output folders
-input_folder = 'Travel'  # Relative path from the current working directory
-output_folder = 'ProcessedTravel'  # Relative path from the current working directory
+input_folder = 'FashionBeauty'  # Relative path from the current working directory
+output_folder = 'CFashionBeauty'  # Relative path from the current working directory
 
 # Get the absolute paths
 current_directory = os.path.dirname(os.path.abspath(__file__))

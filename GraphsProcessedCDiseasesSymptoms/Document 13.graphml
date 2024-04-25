@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="lung"/>
+<node id="alway"/>
+<node id="pneumonia"/>
+<node id="swell"/>
+<node id="inflamm"/>
+<node id="tissu"/>
+<node id="one"/>
+<node id="usual"/>
+<node id="caus"/>
+<node id="bacteri"/>
+<node id="infect"/>
+<node id="end"/>
+<node id="breath"/>
+<node id="tube"/>
+<node id="cluster"/>
+<node id="tini"/>
+<node id="air"/>
+<node id="sac"/>
+<node id="becom"/>
+<node id="inflam"/>
+<node id="fill"/>
+<node id="fluid"/>
+<node id="symptom"/>
+<node id="develop"/>
+<node id="suddenli"/>
+<node id="24"/>
+<node id="48"/>
+<node id="hour"/>
+<node id="may"/>
+<node id="come"/>
+<node id="slowli"/>
+<node id="sever"/>
+<node id="day"/>
+<node id="common"/>
+<node id="includ"/>
+<node id="less"/>
+<node id="see"/>
+<node id="of"/>
+<node id="feel"/>
+<node id="unwel"/>
+<node id="typic"/>
+<node id="week"/>
+<node id="urgent"/>
+<node id="medic"/>
+<node id="attent"/>
+<node id="experienc"/>
+<node id="rapid"/>
+<node id="chest"/>
+<node id="pain"/>
+<node id="confus"/>
+<node id="affect"/>
+<node id="around"/>
+<node id="8"/>
+<node id="1000"/>
+<node id="adult"/>
+<node id="year"/>
+<node id="widespread"/>
+<node id="autumn"/>
+<node id="winter"/>
+<node id="peopl"/>
+<node id="age"/>
+<node id="seriou"/>
+<node id="certain"/>
+<node id="group"/>
+<node id="young"/>
+<node id="elderli"/>
+<node id="like"/>
+<node id="need"/>
+<node id="hospit"/>
+<node id="treatment"/>
+<node id="result"/>
+<node id="pneumococc"/>
+<node id="bacteria"/>
+<node id="call"/>
+<node id="streptococcu"/>
+<node id="ani"/>
+<node id="differ"/>
+<node id="type"/>
+<node id="haemophilu"/>
+<node id="influenza"/>
+<node id="staphylococcu"/>
+<node id="aureu"/>
+<node id="also"/>
+<node id="well"/>
+<node id="sinus"/>
+<node id="rare"/>
+<node id="hung"/>
+<node id="follow"/>
+<node id="increas"/>
+<node id="risk"/>
+<node id="abl"/>
+<node id="diagnos"/>
+<node id="ask"/>
+<node id="examin"/>
+<node id="test"/>
+<node id="case"/>
+<node id="difficult"/>
+<node id="share"/>
+<node id="mani"/>
+<node id="cold"/>
+<node id="bronchiti"/>
+<node id="asthma"/>
+<node id="help"/>
+<node id="make"/>
+<node id="diagnosi"/>
+<node id="take"/>
+<node id="temperatur"/>
+<node id="listen"/>
+<node id="back"/>
+<node id="stethoscop"/>
+<node id="check"/>
+<node id="crackl"/>
+<node id="rattl"/>
+<node id="sound"/>
+<node id="tap"/>
+<node id="produc"/>
+<node id="normal"/>
+<node id="healthi"/>
+<node id="mild"/>
+<node id="probabl"/>
+<node id="xray"/>
+<node id="sputum"/>
+<node id="mucu"/>
+<node id="blood"/>
+<node id="improv"/>
+<node id="within"/>
+<node id="start"/>
+<node id="treat"/>
+<node id="home"/>
+<node id="health"/>
+<node id="problem"/>
+<node id="respond"/>
+<node id="soon"/>
+<node id="recov"/>
+<node id="although"/>
+<node id="cough"/>
+<node id="last"/>
+<node id="time"/>
+<node id="pass"/>
+<node id="person"/>
+<node id="anoth"/>
+<node id="safe"/>
+<node id="other"/>
+<node id="famili"/>
+<node id="member"/>
+<node id="howev"/>
+<node id="weaken"/>
+<node id="immun"/>
+<node id="system"/>
+<node id="avoid"/>
+<node id="close"/>
+<node id="contact"/>
+<node id="get"/>
+<node id="better"/>
+<node id="atrisk"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="lung"/>
+<edge source="condit" target="common"/>
+<edge source="lung" target="alway"/>
+<edge source="lung" target="usual"/>
+<edge source="lung" target="cluster"/>
+<edge source="lung" target="fill"/>
+<edge source="lung" target="mild"/>
+<edge source="alway" target="pneumonia"/>
+<edge source="pneumonia" target="pneumonia"/>
+<edge source="pneumonia" target="swell"/>
+<edge source="pneumonia" target="tini"/>
+<edge source="pneumonia" target="develop"/>
+<edge source="pneumonia" target="includ"/>
+<edge source="pneumonia" target="week"/>
+<edge source="pneumonia" target="affect"/>
+<edge source="pneumonia" target="usual"/>
+<edge source="pneumonia" target="ani"/>
+<edge source="pneumonia" target="well"/>
+<edge source="pneumonia" target="type"/>
+<edge source="pneumonia" target="of"/>
+<edge source="pneumonia" target="ask"/>
+<edge source="pneumonia" target="difficult"/>
+<edge source="pneumonia" target="probabl"/>
+<edge source="pneumonia" target="start"/>
+<edge source="pneumonia" target="sever"/>
+<edge source="swell" target="inflamm"/>
+<edge source="inflamm" target="tissu"/>
+<edge source="tissu" target="one"/>
+<edge source="one" target="lung"/>
+<edge source="one" target="person"/>
+<edge source="usual" target="caus"/>
+<edge source="usual" target="result"/>
+<edge source="usual" target="treat"/>
+<edge source="usual" target="pass"/>
+<edge source="caus" target="bacteri"/>
+<edge source="caus" target="bacteria"/>
+<edge source="caus" target="pneumonia"/>
+<edge source="bacteri" target="infect"/>
+<edge source="bacteri" target="pneumonia"/>
+<edge source="infect" target="end"/>
+<edge source="infect" target="caus"/>
+<edge source="end" target="breath"/>
+<edge source="breath" target="tube"/>
+<edge source="breath" target="chest"/>
+<edge source="tube" target="lung"/>
+<edge source="cluster" target="tini"/>
+<edge source="tini" target="air"/>
+<edge source="tini" target="sac"/>
+<edge source="air" target="sac"/>
+<edge source="sac" target="pneumonia"/>
+<edge source="sac" target="becom"/>
+<edge source="becom" target="inflam"/>
+<edge source="inflam" target="fill"/>
+<edge source="fill" target="fluid"/>
+<edge source="fluid" target="symptom"/>
+<edge source="fluid" target="produc"/>
+<edge source="symptom" target="pneumonia"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="rapid"/>
+<edge source="symptom" target="examin"/>
+<edge source="symptom" target="condit"/>
+<edge source="symptom" target="improv"/>
+<edge source="develop" target="suddenli"/>
+<edge source="develop" target="pneumonia"/>
+<edge source="suddenli" target="24"/>
+<edge source="24" target="48"/>
+<edge source="48" target="hour"/>
+<edge source="hour" target="may"/>
+<edge source="hour" target="start"/>
+<edge source="may" target="come"/>
+<edge source="may" target="abl"/>
+<edge source="may" target="need"/>
+<edge source="may" target="ask"/>
+<edge source="may" target="also"/>
+<edge source="may" target="last"/>
+<edge source="come" target="slowli"/>
+<edge source="slowli" target="sever"/>
+<edge source="sever" target="day"/>
+<edge source="sever" target="symptom"/>
+<edge source="sever" target="may"/>
+<edge source="day" target="common"/>
+<edge source="common" target="symptom"/>
+<edge source="common" target="seriou"/>
+<edge source="common" target="cold"/>
+<edge source="includ" target="less"/>
+<edge source="includ" target="see"/>
+<edge source="includ" target="haemophilu"/>
+<edge source="includ" target="follow"/>
+<edge source="includ" target="famili"/>
+<edge source="less" target="common"/>
+<edge source="see" target="of"/>
+<edge source="of" target="feel"/>
+<edge source="of" target="pneumonia"/>
+<edge source="of" target="may"/>
+<edge source="feel" target="unwel"/>
+<edge source="unwel" target="typic"/>
+<edge source="typic" target="symptom"/>
+<edge source="week" target="urgent"/>
+<edge source="urgent" target="medic"/>
+<edge source="medic" target="attent"/>
+<edge source="attent" target="experienc"/>
+<edge source="experienc" target="sever"/>
+<edge source="rapid" target="breath"/>
+<edge source="chest" target="pain"/>
+<edge source="chest" target="test"/>
+<edge source="chest" target="back"/>
+<edge source="chest" target="tap"/>
+<edge source="chest" target="xray"/>
+<edge source="pain" target="confus"/>
+<edge source="confus" target="of"/>
+<edge source="affect" target="around"/>
+<edge source="affect" target="peopl"/>
+<edge source="around" target="8"/>
+<edge source="around" target="other"/>
+<edge source="8" target="1000"/>
+<edge source="1000" target="adult"/>
+<edge source="adult" target="year"/>
+<edge source="year" target="widespread"/>
+<edge source="widespread" target="autumn"/>
+<edge source="autumn" target="winter"/>
+<edge source="winter" target="pneumonia"/>
+<edge source="peopl" target="age"/>
+<edge source="peopl" target="young"/>
+<edge source="peopl" target="group"/>
+<edge source="peopl" target="weaken"/>
+<edge source="age" target="common"/>
+<edge source="seriou" target="certain"/>
+<edge source="certain" target="group"/>
+<edge source="group" target="peopl"/>
+<edge source="group" target="like"/>
+<edge source="group" target="increas"/>
+<edge source="group" target="pneumonia"/>
+<edge source="young" target="elderli"/>
+<edge source="elderli" target="peopl"/>
+<edge source="like" target="need"/>
+<edge source="need" target="hospit"/>
+<edge source="need" target="case"/>
+<edge source="need" target="chest"/>
+<edge source="need" target="treat"/>
+<edge source="hospit" target="treatment"/>
+<edge source="treatment" target="develop"/>
+<edge source="treatment" target="mild"/>
+<edge source="treatment" target="soon"/>
+<edge source="result" target="pneumococc"/>
+<edge source="pneumococc" target="infect"/>
+<edge source="bacteria" target="call"/>
+<edge source="bacteria" target="includ"/>
+<edge source="call" target="streptococcu"/>
+<edge source="streptococcu" target="pneumonia"/>
+<edge source="ani" target="differ"/>
+<edge source="differ" target="type"/>
+<edge source="differ" target="sound"/>
+<edge source="type" target="bacteria"/>
+<edge source="type" target="includ"/>
+<edge source="haemophilu" target="influenza"/>
+<edge source="influenza" target="staphylococcu"/>
+<edge source="staphylococcu" target="aureu"/>
+<edge source="aureu" target="also"/>
+<edge source="also" target="caus"/>
+<edge source="also" target="take"/>
+<edge source="also" target="listen"/>
+<edge source="well" target="sinus"/>
+<edge source="well" target="bacteri"/>
+<edge source="well" target="treatment"/>
+<edge source="sinus" target="rare"/>
+<edge source="rare" target="hung"/>
+<edge source="hung" target="well"/>
+<edge source="follow" target="group"/>
+<edge source="increas" target="risk"/>
+<edge source="risk" target="develop"/>
+<edge source="abl" target="diagnos"/>
+<edge source="diagnos" target="pneumonia"/>
+<edge source="diagnos" target="share"/>
+<edge source="ask" target="symptom"/>
+<edge source="ask" target="of"/>
+<edge source="examin" target="chest"/>
+<edge source="test" target="may"/>
+<edge source="test" target="sputum"/>
+<edge source="test" target="blood"/>
+<edge source="test" target="symptom"/>
+<edge source="case" target="pneumonia"/>
+<edge source="difficult" target="diagnos"/>
+<edge source="share" target="mani"/>
+<edge source="mani" target="symptom"/>
+<edge source="cold" target="bronchiti"/>
+<edge source="bronchiti" target="asthma"/>
+<edge source="asthma" target="help"/>
+<edge source="help" target="make"/>
+<edge source="make" target="diagnosi"/>
+<edge source="diagnosi" target="of"/>
+<edge source="take" target="temperatur"/>
+<edge source="temperatur" target="listen"/>
+<edge source="listen" target="chest"/>
+<edge source="back" target="stethoscop"/>
+<edge source="stethoscop" target="check"/>
+<edge source="check" target="crackl"/>
+<edge source="crackl" target="rattl"/>
+<edge source="rattl" target="sound"/>
+<edge source="sound" target="may"/>
+<edge source="sound" target="normal"/>
+<edge source="tap" target="lung"/>
+<edge source="produc" target="differ"/>
+<edge source="normal" target="healthi"/>
+<edge source="healthi" target="lung"/>
+<edge source="mild" target="pneumonia"/>
+<edge source="probabl" target="need"/>
+<edge source="xray" target="test"/>
+<edge source="sputum" target="mucu"/>
+<edge source="mucu" target="test"/>
+<edge source="blood" target="test"/>
+<edge source="improv" target="within"/>
+<edge source="within" target="48"/>
+<edge source="start" target="treatment"/>
+<edge source="start" target="get"/>
+<edge source="treat" target="home"/>
+<edge source="treat" target="hospit"/>
+<edge source="home" target="health"/>
+<edge source="health" target="problem"/>
+<edge source="problem" target="respond"/>
+<edge source="respond" target="well"/>
+<edge source="soon" target="recov"/>
+<edge source="recov" target="although"/>
+<edge source="although" target="cough"/>
+<edge source="cough" target="may"/>
+<edge source="last" target="time"/>
+<edge source="time" target="pneumonia"/>
+<edge source="pass" target="one"/>
+<edge source="person" target="anoth"/>
+<edge source="person" target="pneumonia"/>
+<edge source="anoth" target="safe"/>
+<edge source="safe" target="around"/>
+<edge source="other" target="includ"/>
+<edge source="famili" target="member"/>
+<edge source="member" target="howev"/>
+<edge source="howev" target="peopl"/>
+<edge source="weaken" target="immun"/>
+<edge source="immun" target="system"/>
+<edge source="system" target="avoid"/>
+<edge source="avoid" target="close"/>
+<edge source="close" target="contact"/>
+<edge source="contact" target="person"/>
+<edge source="get" target="better"/>
+<edge source="better" target="atrisk"/>
+<edge source="atrisk" target="group"/>
+</graph></graphml>

@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="cancer"/>
+<node id="type"/>
+<node id="adult"/>
+<node id="paget"/>
+<node id="diseas"/>
+<node id="nippl"/>
+<node id="also"/>
+<node id="known"/>
+<node id="breast"/>
+<node id="rare"/>
+<node id="term"/>
+<node id="use"/>
+<node id="distinguish"/>
+<node id="bone"/>
+<node id="occur"/>
+<node id="normal"/>
+<node id="cycl"/>
+<node id="growth"/>
+<node id="disrupt"/>
+<node id="lead"/>
+<node id="becom"/>
+<node id="weak"/>
+<node id="deform"/>
+<node id="similar"/>
+<node id="skin"/>
+<node id="part"/>
+<node id="bodi"/>
+<node id="rest"/>
+<node id="section"/>
+<node id="refer"/>
+<node id="usual"/>
+<node id="affect"/>
+<node id="one"/>
+<node id="produc"/>
+<node id="eczemalik"/>
+<node id="symptom"/>
+<node id="appear"/>
+<node id="itchi"/>
+<node id="red"/>
+<node id="rash"/>
+<node id="extend"/>
+<node id="darker"/>
+<node id="area"/>
+<node id="surround"/>
+<node id="areola"/>
+<node id="small"/>
+<node id="ulcer"/>
+<node id="dri"/>
+<node id="flay"/>
+<node id="patch"/>
+<node id="psoriasi"/>
+<node id="possibl"/>
+<node id="includ"/>
+<node id="experienc"/>
+<node id="burn"/>
+<node id="bleed"/>
+<node id="look"/>
+<node id="scali"/>
+<node id="extrem"/>
+<node id="unlik"/>
+<node id="still"/>
+<node id="check"/>
+<node id="doctor"/>
+<node id="sign"/>
+<node id="tissu"/>
+<node id="behind"/>
+<node id="away"/>
+<node id="either"/>
+<node id="amount"/>
+<node id="case"/>
+<node id="evid"/>
+<node id="chang"/>
+<node id="half"/>
+<node id="lump"/>
+<node id="found"/>
+<node id="major"/>
+<node id="peopl"/>
+<node id="invas"/>
+<node id="although"/>
+<node id="necessarili"/>
+<node id="mean"/>
+<node id="spread"/>
+<node id="noninvas"/>
+<node id="visit"/>
+<node id="of"/>
+<node id="notic"/>
+<node id="around"/>
+<node id="form"/>
+<node id="sooner"/>
+<node id="diagnos"/>
+<node id="better"/>
+<node id="outcom"/>
+<node id="like"/>
+<node id="speak"/>
+<node id="develop"/>
+<node id="import"/>
+<node id="head"/>
+<node id="treat"/>
+<node id="way"/>
+<node id="surgeri"/>
+<node id="first"/>
+<node id="line"/>
+<node id="treatment"/>
+<node id="involv"/>
+<node id="remov"/>
+<node id="may"/>
+<node id="follow"/>
+<node id="combin"/>
+<node id="detect"/>
+<node id="earli"/>
+<node id="stage"/>
+<node id="good"/>
+<node id="chanc"/>
+<node id="recoveri"/>
+<node id="edifi"/>
+<node id="certain"/>
+<node id="lifestyl"/>
+<node id="factor"/>
+<node id="reduc"/>
+<node id="alcohol"/>
+<node id="intak"/>
+<node id="regular"/>
+<node id="exercis"/>
+<node id="risk"/>
+<node id="howev"/>
+<node id="remain"/>
+<node id="controversi"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="cancer"/>
+<edge source="condit" target="paget"/>
+<edge source="cancer" target="cancer"/>
+<edge source="cancer" target="type"/>
+<edge source="cancer" target="term"/>
+<edge source="cancer" target="also"/>
+<edge source="cancer" target="tissu"/>
+<edge source="cancer" target="either"/>
+<edge source="cancer" target="although"/>
+<edge source="cancer" target="visit"/>
+<edge source="cancer" target="sooner"/>
+<edge source="cancer" target="import"/>
+<edge source="cancer" target="surgeri"/>
+<edge source="cancer" target="involv"/>
+<edge source="cancer" target="includ"/>
+<edge source="cancer" target="howev"/>
+<edge source="type" target="adult"/>
+<edge source="type" target="breast"/>
+<edge source="type" target="skin"/>
+<edge source="type" target="cancer"/>
+<edge source="adult" target="paget"/>
+<edge source="paget" target="diseas"/>
+<edge source="diseas" target="nippl"/>
+<edge source="diseas" target="breast"/>
+<edge source="diseas" target="bone"/>
+<edge source="diseas" target="refer"/>
+<edge source="diseas" target="usual"/>
+<edge source="diseas" target="still"/>
+<edge source="diseas" target="form"/>
+<edge source="diseas" target="treat"/>
+<edge source="diseas" target="detect"/>
+<edge source="nippl" target="paget"/>
+<edge source="nippl" target="also"/>
+<edge source="nippl" target="use"/>
+<edge source="nippl" target="breast"/>
+<edge source="nippl" target="produc"/>
+<edge source="nippl" target="extend"/>
+<edge source="nippl" target="look"/>
+<edge source="nippl" target="chang"/>
+<edge source="nippl" target="lump"/>
+<edge source="nippl" target="areola"/>
+<edge source="also" target="known"/>
+<edge source="also" target="occur"/>
+<edge source="also" target="appear"/>
+<edge source="known" target="paget"/>
+<edge source="breast" target="rare"/>
+<edge source="breast" target="cancer"/>
+<edge source="breast" target="paget"/>
+<edge source="breast" target="tissu"/>
+<edge source="breast" target="major"/>
+<edge source="breast" target="breast"/>
+<edge source="breast" target="lump"/>
+<edge source="rare" target="type"/>
+<edge source="term" target="paget"/>
+<edge source="use" target="distinguish"/>
+<edge source="use" target="term"/>
+<edge source="distinguish" target="condit"/>
+<edge source="bone" target="occur"/>
+<edge source="bone" target="growth"/>
+<edge source="bone" target="becom"/>
+<edge source="occur" target="normal"/>
+<edge source="occur" target="part"/>
+<edge source="normal" target="cycl"/>
+<edge source="normal" target="red"/>
+<edge source="cycl" target="bone"/>
+<edge source="growth" target="disrupt"/>
+<edge source="disrupt" target="lead"/>
+<edge source="lead" target="bone"/>
+<edge source="becom" target="weak"/>
+<edge source="weak" target="deform"/>
+<edge source="deform" target="similar"/>
+<edge source="similar" target="type"/>
+<edge source="similar" target="psoriasi"/>
+<edge source="skin" target="cancer"/>
+<edge source="skin" target="one"/>
+<edge source="skin" target="areola"/>
+<edge source="skin" target="similar"/>
+<edge source="skin" target="nippl"/>
+<edge source="skin" target="around"/>
+<edge source="part" target="bodi"/>
+<edge source="bodi" target="rest"/>
+<edge source="rest" target="section"/>
+<edge source="section" target="use"/>
+<edge source="refer" target="paget"/>
+<edge source="usual" target="affect"/>
+<edge source="usual" target="sign"/>
+<edge source="usual" target="first"/>
+<edge source="affect" target="skin"/>
+<edge source="one" target="nippl"/>
+<edge source="produc" target="eczemalik"/>
+<edge source="eczemalik" target="symptom"/>
+<edge source="symptom" target="appear"/>
+<edge source="symptom" target="includ"/>
+<edge source="appear" target="itchi"/>
+<edge source="appear" target="small"/>
+<edge source="itchi" target="red"/>
+<edge source="itchi" target="burn"/>
+<edge source="red" target="rash"/>
+<edge source="red" target="flay"/>
+<edge source="red" target="dri"/>
+<edge source="rash" target="nippl"/>
+<edge source="extend" target="darker"/>
+<edge source="darker" target="area"/>
+<edge source="area" target="surround"/>
+<edge source="area" target="skin"/>
+<edge source="surround" target="skin"/>
+<edge source="areola" target="also"/>
+<edge source="areola" target="darker"/>
+<edge source="areola" target="may"/>
+<edge source="small" target="ulcer"/>
+<edge source="small" target="amount"/>
+<edge source="ulcer" target="dri"/>
+<edge source="dri" target="red"/>
+<edge source="dri" target="scali"/>
+<edge source="flay" target="patch"/>
+<edge source="patch" target="skin"/>
+<edge source="psoriasi" target="possibl"/>
+<edge source="possibl" target="symptom"/>
+<edge source="includ" target="experienc"/>
+<edge source="includ" target="nippl"/>
+<edge source="includ" target="breast"/>
+<edge source="experienc" target="itchi"/>
+<edge source="burn" target="bleed"/>
+<edge source="bleed" target="nippl"/>
+<edge source="look" target="normal"/>
+<edge source="scali" target="extrem"/>
+<edge source="extrem" target="unlik"/>
+<edge source="unlik" target="paget"/>
+<edge source="unlik" target="form"/>
+<edge source="still" target="check"/>
+<edge source="check" target="doctor"/>
+<edge source="check" target="head"/>
+<edge source="doctor" target="paget"/>
+<edge source="sign" target="breast"/>
+<edge source="tissu" target="behind"/>
+<edge source="tissu" target="away"/>
+<edge source="tissu" target="includ"/>
+<edge source="behind" target="nippl"/>
+<edge source="away" target="nippl"/>
+<edge source="either" target="small"/>
+<edge source="amount" target="case"/>
+<edge source="case" target="evid"/>
+<edge source="case" target="paget"/>
+<edge source="evid" target="paget"/>
+<edge source="chang" target="half"/>
+<edge source="chang" target="skin"/>
+<edge source="half" target="case"/>
+<edge source="lump" target="found"/>
+<edge source="lump" target="invas"/>
+<edge source="lump" target="noninvas"/>
+<edge source="lump" target="breast"/>
+<edge source="lump" target="cancer"/>
+<edge source="found" target="breast"/>
+<edge source="major" target="peopl"/>
+<edge source="peopl" target="lump"/>
+<edge source="peopl" target="paget"/>
+<edge source="invas" target="breast"/>
+<edge source="although" target="necessarili"/>
+<edge source="necessarili" target="mean"/>
+<edge source="mean" target="spread"/>
+<edge source="spread" target="peopl"/>
+<edge source="noninvas" target="breast"/>
+<edge source="visit" target="of"/>
+<edge source="of" target="notic"/>
+<edge source="of" target="develop"/>
+<edge source="notic" target="chang"/>
+<edge source="around" target="nippl"/>
+<edge source="form" target="breast"/>
+<edge source="sooner" target="diagnos"/>
+<edge source="diagnos" target="better"/>
+<edge source="better" target="outcom"/>
+<edge source="outcom" target="like"/>
+<edge source="like" target="speak"/>
+<edge source="speak" target="of"/>
+<edge source="develop" target="lump"/>
+<edge source="develop" target="certain"/>
+<edge source="import" target="check"/>
+<edge source="head" target="paget"/>
+<edge source="treat" target="way"/>
+<edge source="treat" target="earli"/>
+<edge source="treat" target="edifi"/>
+<edge source="way" target="breast"/>
+<edge source="surgeri" target="usual"/>
+<edge source="first" target="line"/>
+<edge source="line" target="treatment"/>
+<edge source="treatment" target="unlik"/>
+<edge source="involv" target="remov"/>
+<edge source="remov" target="breast"/>
+<edge source="may" target="follow"/>
+<edge source="may" target="reduc"/>
+<edge source="follow" target="combin"/>
+<edge source="combin" target="paget"/>
+<edge source="detect" target="treat"/>
+<edge source="earli" target="stage"/>
+<edge source="stage" target="good"/>
+<edge source="good" target="chanc"/>
+<edge source="chanc" target="recoveri"/>
+<edge source="recoveri" target="head"/>
+<edge source="edifi" target="certain"/>
+<edge source="certain" target="lifestyl"/>
+<edge source="certain" target="type"/>
+<edge source="lifestyl" target="factor"/>
+<edge source="factor" target="reduc"/>
+<edge source="factor" target="remain"/>
+<edge source="reduc" target="alcohol"/>
+<edge source="reduc" target="risk"/>
+<edge source="alcohol" target="intak"/>
+<edge source="intak" target="regular"/>
+<edge source="regular" target="exercis"/>
+<edge source="exercis" target="may"/>
+<edge source="risk" target="develop"/>
+<edge source="howev" target="factor"/>
+<edge source="remain" target="controversi"/>
+</graph></graphml>

@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="mental"/>
+<node id="health"/>
+<node id="person"/>
+<node id="disord"/>
+<node id="individu"/>
+<node id="differ"/>
+<node id="significantli"/>
+<node id="averag"/>
+<node id="may"/>
+<node id="relat"/>
+<node id="chang"/>
+<node id="feel"/>
+<node id="distort"/>
+<node id="belief"/>
+<node id="peopl"/>
+<node id="lead"/>
+<node id="odd"/>
+<node id="behaviour"/>
+<node id="distress"/>
+<node id="upset"/>
+<node id="other"/>
+<node id="common"/>
+<node id="featur"/>
+<node id="includ"/>
+<node id="also"/>
+<node id="difficulti"/>
+<node id="manag"/>
+<node id="neg"/>
+<node id="without"/>
+<node id="selfharm"/>
+<node id="abus"/>
+<node id="drug"/>
+<node id="alcohol"/>
+<node id="take"/>
+<node id="overdos"/>
+<node id="rare"/>
+<node id="case"/>
+<node id="threaten"/>
+<node id="often"/>
+<node id="experi"/>
+<node id="problem"/>
+<node id="depress"/>
+<node id="substanc"/>
+<node id="disus"/>
+<node id="symptom"/>
+<node id="typic"/>
+<node id="get"/>
+<node id="wors"/>
+<node id="stress"/>
+<node id="usual"/>
+<node id="emerg"/>
+<node id="adolesc"/>
+<node id="continu"/>
+<node id="adulthood"/>
+<node id="mild"/>
+<node id="moder"/>
+<node id="sever"/>
+<node id="period"/>
+<node id="remiss"/>
+<node id="function"/>
+<node id="well"/>
+<node id="associ"/>
+<node id="genet"/>
+<node id="famili"/>
+<node id="factor"/>
+<node id="fear"/>
+<node id="childhood"/>
+<node id="like"/>
+<node id="neglect"/>
+<node id="ani"/>
+<node id="need"/>
+<node id="help"/>
+<node id="time"/>
+<node id="bereav"/>
+<node id="specialist"/>
+<node id="longer"/>
+<node id="type"/>
+<node id="paranoid"/>
+<node id="extrem"/>
+<node id="distrust"/>
+<node id="suspici"/>
+<node id="someon"/>
+<node id="schizoid"/>
+<node id="appear"/>
+<node id="cold"/>
+<node id="detach"/>
+<node id="avoid"/>
+<node id="make"/>
+<node id="close"/>
+<node id="social"/>
+<node id="contact"/>
+<node id="schizotyp"/>
+<node id="attach"/>
+<node id="undu"/>
+<node id="disguis"/>
+<node id="signific"/>
+<node id="everyday"/>
+<node id="event"/>
+<node id="exampl"/>
+<node id="think"/>
+<node id="newspap"/>
+<node id="headlin"/>
+<node id="secret"/>
+<node id="messag"/>
+<node id="antisoci"/>
+<node id="see"/>
+<node id="vulner"/>
+<node id="mean"/>
+<node id="intimid"/>
+<node id="bulli"/>
+<node id="remors"/>
+<node id="border"/>
+<node id="histrion"/>
+<node id="anxiou"/>
+<node id="ignor"/>
+<node id="result"/>
+<node id="overwhelm"/>
+<node id="urg"/>
+<node id="notic"/>
+<node id="centr"/>
+<node id="everyon"/>
+<node id="attent"/>
+<node id="sign"/>
+<node id="coexist"/>
+<node id="narcissist"/>
+<node id="swing"/>
+<node id="act"/>
+<node id="inflat"/>
+<node id="sens"/>
+<node id="import"/>
+<node id="show"/>
+<node id="intens"/>
+<node id="look"/>
+<node id="unlik"/>
+<node id="desir"/>
+<node id="relationship"/>
+<node id="howev"/>
+<node id="lack"/>
+<node id="confid"/>
+<node id="abil"/>
+<node id="form"/>
+<node id="depend"/>
+<node id="independ"/>
+<node id="excess"/>
+<node id="cling"/>
+<node id="obsess"/>
+<node id="convuls"/>
+<node id="come"/>
+<node id="across"/>
+<node id="control"/>
+<node id="freak"/>
+<node id="ocd"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="mental"/>
+<edge source="condit" target="individu"/>
+<edge source="condit" target="need"/>
+<edge source="mental" target="health"/>
+<edge source="health" target="person"/>
+<edge source="health" target="problem"/>
+<edge source="person" target="disord"/>
+<edge source="person" target="may"/>
+<edge source="person" target="feel"/>
+<edge source="person" target="paranoid"/>
+<edge source="person" target="schizotyp"/>
+<edge source="person" target="antisoci"/>
+<edge source="person" target="border"/>
+<edge source="person" target="histrion"/>
+<edge source="person" target="narcissist"/>
+<edge source="person" target="avoid"/>
+<edge source="person" target="depend"/>
+<edge source="person" target="obsess"/>
+<edge source="disord" target="person"/>
+<edge source="disord" target="condit"/>
+<edge source="disord" target="includ"/>
+<edge source="disord" target="often"/>
+<edge source="disord" target="common"/>
+<edge source="disord" target="may"/>
+<edge source="disord" target="extrem"/>
+<edge source="disord" target="like"/>
+<edge source="disord" target="see"/>
+<edge source="disord" target="anxiou"/>
+<edge source="disord" target="swing"/>
+<edge source="disord" target="unlik"/>
+<edge source="disord" target="desir"/>
+<edge source="disord" target="feel"/>
+<edge source="disord" target="differ"/>
+<edge source="disord" target="ocd"/>
+<edge source="individu" target="differ"/>
+<edge source="differ" target="significantli"/>
+<edge source="differ" target="type"/>
+<edge source="differ" target="obsess"/>
+<edge source="significantli" target="averag"/>
+<edge source="averag" target="person"/>
+<edge source="may" target="relat"/>
+<edge source="may" target="upset"/>
+<edge source="may" target="also"/>
+<edge source="may" target="includ"/>
+<edge source="may" target="mild"/>
+<edge source="may" target="period"/>
+<edge source="may" target="associ"/>
+<edge source="may" target="need"/>
+<edge source="may" target="appear"/>
+<edge source="may" target="intimid"/>
+<edge source="may" target="coexist"/>
+<edge source="may" target="act"/>
+<edge source="may" target="show"/>
+<edge source="may" target="come"/>
+<edge source="relat" target="chang"/>
+<edge source="chang" target="person"/>
+<edge source="feel" target="distort"/>
+<edge source="feel" target="without"/>
+<edge source="feel" target="overwhelm"/>
+<edge source="feel" target="independ"/>
+<edge source="distort" target="belief"/>
+<edge source="belief" target="peopl"/>
+<edge source="peopl" target="lead"/>
+<edge source="peopl" target="may"/>
+<edge source="peopl" target="peopl"/>
+<edge source="peopl" target="person"/>
+<edge source="peopl" target="mild"/>
+<edge source="peopl" target="sever"/>
+<edge source="peopl" target="vulner"/>
+<edge source="peopl" target="look"/>
+<edge source="peopl" target="schizoid"/>
+<edge source="lead" target="odd"/>
+<edge source="odd" target="behaviour"/>
+<edge source="behaviour" target="distress"/>
+<edge source="distress" target="may"/>
+<edge source="distress" target="fear"/>
+<edge source="upset" target="other"/>
+<edge source="other" target="common"/>
+<edge source="other" target="featur"/>
+<edge source="other" target="without"/>
+<edge source="other" target="howev"/>
+<edge source="other" target="look"/>
+<edge source="other" target="control"/>
+<edge source="common" target="featur"/>
+<edge source="common" target="mental"/>
+<edge source="common" target="ani"/>
+<edge source="featur" target="person"/>
+<edge source="featur" target="includ"/>
+<edge source="includ" target="peopl"/>
+<edge source="includ" target="abus"/>
+<edge source="includ" target="threaten"/>
+<edge source="includ" target="depress"/>
+<edge source="includ" target="someon"/>
+<edge source="includ" target="person"/>
+<edge source="includ" target="symptom"/>
+<edge source="also" target="difficulti"/>
+<edge source="also" target="avoid"/>
+<edge source="also" target="attach"/>
+<edge source="also" target="urg"/>
+<edge source="also" target="show"/>
+<edge source="difficulti" target="manag"/>
+<edge source="manag" target="neg"/>
+<edge source="neg" target="feel"/>
+<edge source="without" target="selfharm"/>
+<edge source="without" target="remors"/>
+<edge source="selfharm" target="includ"/>
+<edge source="abus" target="drug"/>
+<edge source="abus" target="common"/>
+<edge source="drug" target="alcohol"/>
+<edge source="alcohol" target="take"/>
+<edge source="take" target="overdos"/>
+<edge source="overdos" target="rare"/>
+<edge source="rare" target="case"/>
+<edge source="case" target="may"/>
+<edge source="threaten" target="peopl"/>
+<edge source="often" target="experi"/>
+<edge source="experi" target="mental"/>
+<edge source="experi" target="distress"/>
+<edge source="problem" target="includ"/>
+<edge source="problem" target="usual"/>
+<edge source="problem" target="may"/>
+<edge source="depress" target="substanc"/>
+<edge source="substanc" target="disus"/>
+<edge source="disus" target="symptom"/>
+<edge source="symptom" target="typic"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="sign"/>
+<edge source="typic" target="get"/>
+<edge source="get" target="wors"/>
+<edge source="wors" target="stress"/>
+<edge source="stress" target="person"/>
+<edge source="stress" target="bereav"/>
+<edge source="usual" target="emerg"/>
+<edge source="emerg" target="adolesc"/>
+<edge source="adolesc" target="continu"/>
+<edge source="continu" target="adulthood"/>
+<edge source="adulthood" target="may"/>
+<edge source="mild" target="moder"/>
+<edge source="mild" target="condit"/>
+<edge source="moder" target="sever"/>
+<edge source="sever" target="peopl"/>
+<edge source="sever" target="problem"/>
+<edge source="period" target="remiss"/>
+<edge source="remiss" target="function"/>
+<edge source="function" target="well"/>
+<edge source="well" target="person"/>
+<edge source="associ" target="genet"/>
+<edge source="genet" target="famili"/>
+<edge source="famili" target="factor"/>
+<edge source="factor" target="experi"/>
+<edge source="fear" target="childhood"/>
+<edge source="childhood" target="like"/>
+<edge source="like" target="neglect"/>
+<edge source="like" target="featur"/>
+<edge source="neglect" target="abus"/>
+<edge source="ani" target="peopl"/>
+<edge source="need" target="help"/>
+<edge source="need" target="specialist"/>
+<edge source="need" target="peopl"/>
+<edge source="need" target="other"/>
+<edge source="help" target="time"/>
+<edge source="help" target="longer"/>
+<edge source="time" target="stress"/>
+<edge source="bereav" target="peopl"/>
+<edge source="specialist" target="help"/>
+<edge source="longer" target="differ"/>
+<edge source="type" target="person"/>
+<edge source="paranoid" target="person"/>
+<edge source="extrem" target="distrust"/>
+<edge source="distrust" target="suspici"/>
+<edge source="suspici" target="featur"/>
+<edge source="someon" target="schizoid"/>
+<edge source="schizoid" target="person"/>
+<edge source="appear" target="cold"/>
+<edge source="cold" target="detach"/>
+<edge source="detach" target="may"/>
+<edge source="avoid" target="make"/>
+<edge source="avoid" target="person"/>
+<edge source="make" target="close"/>
+<edge source="close" target="social"/>
+<edge source="close" target="relationship"/>
+<edge source="social" target="contact"/>
+<edge source="contact" target="other"/>
+<edge source="schizotyp" target="person"/>
+<edge source="attach" target="undu"/>
+<edge source="undu" target="disguis"/>
+<edge source="disguis" target="signific"/>
+<edge source="signific" target="everyday"/>
+<edge source="everyday" target="event"/>
+<edge source="event" target="exampl"/>
+<edge source="exampl" target="think"/>
+<edge source="think" target="newspap"/>
+<edge source="newspap" target="headlin"/>
+<edge source="headlin" target="secret"/>
+<edge source="secret" target="messag"/>
+<edge source="messag" target="person"/>
+<edge source="antisoci" target="person"/>
+<edge source="see" target="peopl"/>
+<edge source="vulner" target="mean"/>
+<edge source="mean" target="may"/>
+<edge source="intimid" target="bulli"/>
+<edge source="bulli" target="other"/>
+<edge source="remors" target="symptom"/>
+<edge source="border" target="person"/>
+<edge source="border" target="narcissist"/>
+<edge source="histrion" target="person"/>
+<edge source="anxiou" target="ignor"/>
+<edge source="ignor" target="result"/>
+<edge source="result" target="feel"/>
+<edge source="overwhelm" target="urg"/>
+<edge source="urg" target="notic"/>
+<edge source="urg" target="centr"/>
+<edge source="notic" target="also"/>
+<edge source="centr" target="everyon"/>
+<edge source="everyon" target="attent"/>
+<edge source="attent" target="featur"/>
+<edge source="sign" target="may"/>
+<edge source="coexist" target="border"/>
+<edge source="narcissist" target="person"/>
+<edge source="swing" target="may"/>
+<edge source="act" target="inflat"/>
+<edge source="inflat" target="sens"/>
+<edge source="sens" target="import"/>
+<edge source="import" target="may"/>
+<edge source="show" target="intens"/>
+<edge source="show" target="excess"/>
+<edge source="intens" target="need"/>
+<edge source="look" target="symptom"/>
+<edge source="look" target="cling"/>
+<edge source="unlik" target="peopl"/>
+<edge source="desir" target="close"/>
+<edge source="relationship" target="other"/>
+<edge source="howev" target="lack"/>
+<edge source="lack" target="confid"/>
+<edge source="confid" target="abil"/>
+<edge source="abil" target="form"/>
+<edge source="form" target="person"/>
+<edge source="depend" target="person"/>
+<edge source="independ" target="may"/>
+<edge source="excess" target="need"/>
+<edge source="cling" target="featur"/>
+<edge source="obsess" target="convuls"/>
+<edge source="convuls" target="person"/>
+<edge source="convuls" target="disord"/>
+<edge source="come" target="across"/>
+<edge source="across" target="other"/>
+<edge source="control" target="freak"/>
+<edge source="freak" target="featur"/>
+</graph></graphml>

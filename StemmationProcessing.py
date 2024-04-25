@@ -1,24 +1,16 @@
 import os
 import docx
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
-import string
+import re
 
-# Ensure NLTK stopwords are downloaded
-import nltk
-
-
-# Initialize Porter Stemmer
-stemmer = PorterStemmer()
-
-# Function to remove stopwords, punctuation, and perform stemming
-def process_text(text):
-    stop_words = set(stopwords.words('english'))
-    word_tokens = word_tokenize(text)
-    filtered_text = [word for word in word_tokens if word.lower() not in stop_words and word not in string.punctuation]
-    stemmed_text = [stemmer.stem(word) for word in filtered_text]
-    return ' '.join(stemmed_text)
+# Function to remove punctuation marks from text
+def remove_punctuation(text):
+    # Define the pattern to match punctuation marks
+    punctuation_pattern = r'[^\w\s]'
+    
+    # Remove punctuation marks using regex
+    text_without_punctuation = re.sub(punctuation_pattern, '', text)
+    
+    return text_without_punctuation
 
 # Function to process .docx files in a directory and save processed files into a new folder
 def process_files(input_folder, output_folder):
@@ -28,31 +20,35 @@ def process_files(input_folder, output_folder):
 
     # Process each .docx file in the input folder
     for filename in os.listdir(input_folder):
-        if filename.endswith('.docx'):  
+        if filename.endswith('.docx') and not filename.startswith('~$'):  # Ignore temporary files
             input_path = os.path.join(input_folder, filename)
             output_path = os.path.join(output_folder, filename)
 
             # Open the .docx file
-            doc = docx.Document(input_path)
+            try:
+                doc = docx.Document(input_path)
 
-            # Extract text from the document
-            text = ""
-            for paragraph in doc.paragraphs:
-                text += paragraph.text + "\n"
+                # Extract text from the document
+                text = ""
+                for paragraph in doc.paragraphs:
+                    text += paragraph.text + "\n"
 
-            # Process the text (remove stopwords, punctuation, and perform stemming)
-            processed_text = process_text(text)
+                # Remove punctuation marks
+                processed_text = remove_punctuation(text)
 
-            # Create a new document
-            new_doc = docx.Document()
-            new_doc.add_paragraph(processed_text)
+                # Create a new document
+                new_doc = docx.Document()
+                new_doc.add_paragraph(processed_text)
 
-            # Save the new document
-            new_doc.save(output_path)
+                # Save the new document
+                new_doc.save(output_path)
+            except Exception as e:
+                print(f"Error processing file '{filename}': {e}")
+
 
 # Specify input and output folders
-input_folder = 'ProcessedFashionBeauty'  # Relative path from the current working directory
-output_folder = 'StemmationProcessedFashionBeauty'  # Relative path from the current working directory
+input_folder = 'CFashionBeauty'  # Relative path from the current working directory
+output_folder = 'ProcessedCFashionBeauty'  # Relative path from the current working directory
 
 # Get the absolute paths
 current_directory = os.path.dirname(os.path.abspath(__file__))

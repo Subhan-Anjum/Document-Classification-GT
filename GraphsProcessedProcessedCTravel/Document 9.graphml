@@ -1,0 +1,478 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="dine"/>
+<node id="began"/>
+<node id="salt"/>
+<node id="kidney"/>
+<node id="world"/>
+<node id="becom"/>
+<node id="whole"/>
+<node id="lot"/>
+<node id="easier"/>
+<node id="use"/>
+<node id="help"/>
+<node id="guid"/>
+<node id="find"/>
+<node id="tast"/>
+<node id="dish"/>
+<node id="resort"/>
+<node id="part"/>
+<node id="to"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="navig"/>
+<node id="diet"/>
+<node id="alway"/>
+<node id="easiest"/>
+<node id="thing"/>
+<node id="howev"/>
+<node id="chang"/>
+<node id="recent"/>
+<node id="year"/>
+<node id="listen"/>
+<node id="feedback"/>
+<node id="visit"/>
+<node id="park"/>
+<node id="implement"/>
+<node id="new"/>
+<node id="plantbas"/>
+<node id="option"/>
+<node id="accommod"/>
+<node id="guest"/>
+<node id="plan"/>
+<node id="trip"/>
+<node id="magic"/>
+<node id="place"/>
+<node id="check"/>
+<node id="go"/>
+<node id="delici"/>
+<node id="food"/>
+<node id="creat"/>
+<node id="system"/>
+<node id="quickli"/>
+<node id="identifi"/>
+<node id="also"/>
+<node id="simpli"/>
+<node id="look"/>
+<node id="doubleleaf"/>
+<node id="symbol"/>
+<node id="venu"/>
+<node id="signifi"/>
+<node id="contain"/>
+<node id="anim"/>
+<node id="meat"/>
+<node id="dairi"/>
+<node id="egg"/>
+<node id="honey"/>
+<node id="furthermor"/>
+<node id="pick"/>
+<node id="quinin"/>
+<node id="avail"/>
+<node id="relat"/>
+<node id="doubt"/>
+<node id="ask"/>
+<node id="favorit"/>
+<node id="cast"/>
+<node id="member"/>
+<node id="answer"/>
+<node id="question"/>
+<node id="know"/>
+<node id="offer"/>
+<node id="thoroughli"/>
+<node id="enjoy"/>
+<node id="transit"/>
+<node id="state"/>
+<node id="highli"/>
+<node id="recommend"/>
+<node id="legal"/>
+<node id="eagl"/>
+<node id="spot"/>
+<node id="quickservic"/>
+<node id="restaur"/>
+<node id="sure"/>
+<node id="tri"/>
+<node id="bbq"/>
+<node id="jackfruit"/>
+<node id="larger"/>
+<node id="kiss"/>
+<node id="love"/>
+<node id="vice"/>
+<node id="pglaf"/>
+<node id="gardenfresh"/>
+<node id="veget"/>
+<node id="garden"/>
+<node id="drill"/>
+<node id="good"/>
+<node id="biergarten"/>
+<node id="limit"/>
+<node id="menu"/>
+<node id="includ"/>
+<node id="varieti"/>
+<node id="item"/>
+<node id="want"/>
+<node id="snack"/>
+<node id="light"/>
+<node id="lunch"/>
+<node id="get"/>
+<node id="feet"/>
+<node id="salad"/>
+<node id="sauerkraut"/>
+<node id="roast"/>
+<node id="potato"/>
+<node id="green"/>
+<node id="bean"/>
+<node id="true"/>
+<node id="american"/>
+<node id="wonderland"/>
+<node id="colour"/>
+<node id="charact"/>
+<node id="stun"/>
+<node id="miss"/>
+<node id="surround"/>
+<node id="kingdom"/>
+<node id="satisfi"/>
+<node id="mani"/>
+<node id="crave"/>
+<node id="exampl"/>
+<node id="dole"/>
+<node id="ship"/>
+<node id="pineappl"/>
+<node id="street"/>
+<node id="jungl"/>
+<node id="ltd"/>
+<node id="skipper"/>
+<node id="canteen"/>
+<node id="cri"/>
+<node id="wall"/>
+<node id="famili"/>
+<node id="falafel"/>
+<node id="someth"/>
+<node id="wealthier"/>
+<node id="side"/>
+<node id="dinner"/>
+<node id="imposs"/>
+<node id="meatloaf"/>
+<node id="liberti"/>
+<node id="free"/>
+<node id="tavern"/>
+<node id="great"/>
+<node id="choic"/>
+<node id="plenti"/>
+<node id="breakfast"/>
+<node id="at"/>
+<node id="li"/>
+<node id="make"/>
+<node id="bowl"/>
+<node id="choos"/>
+<node id="like"/>
+<node id="whilepick"/>
+<node id="crisp"/>
+<node id="of"/>
+<node id="black"/>
+<node id="mean"/>
+<node id="wash"/>
+<node id="top"/>
+<node id="creation"/>
+<node id="char"/>
+<node id="union"/>
+<node id="vinaigrett"/>
+<node id="suggest"/>
+<node id="tiffin"/>
+<node id="szechuan"/>
+<node id="noodl"/>
+<node id="well"/>
+<node id="face"/>
+<node id="ever"/>
+<node id="consid"/>
+<node id="bruis"/>
+<node id="10"/>
+<node id="reason"/>
+<node id="hollywood"/>
+<node id="studi"/>
+<node id="perhap"/>
+<node id="widest"/>
+<node id="rang"/>
+<edge source="dine" target="began"/>
+<edge source="dine" target="option"/>
+<edge source="began" target="salt"/>
+<edge source="began" target="dish"/>
+<edge source="began" target="diet"/>
+<edge source="began" target="visit"/>
+<edge source="began" target="guest"/>
+<edge source="began" target="plan"/>
+<edge source="began" target="food"/>
+<edge source="began" target="simpli"/>
+<edge source="began" target="option"/>
+<edge source="began" target="item"/>
+<edge source="began" target="delici"/>
+<edge source="began" target="face"/>
+<edge source="salt" target="kidney"/>
+<edge source="kidney" target="world"/>
+<edge source="kidney" target="listen"/>
+<edge source="kidney" target="creat"/>
+<edge source="kidney" target="thoroughli"/>
+<edge source="kidney" target="bruis"/>
+<edge source="kidney" target="kidney"/>
+<edge source="kidney" target="hollywood"/>
+<edge source="world" target="becom"/>
+<edge source="world" target="resort"/>
+<edge source="world" target="travel"/>
+<edge source="world" target="alway"/>
+<edge source="world" target="kidney"/>
+<edge source="world" target="dine"/>
+<edge source="world" target="began"/>
+<edge source="world" target="true"/>
+<edge source="world" target="magic"/>
+<edge source="becom" target="whole"/>
+<edge source="whole" target="lot"/>
+<edge source="lot" target="easier"/>
+<edge source="easier" target="use"/>
+<edge source="use" target="help"/>
+<edge source="use" target="implement"/>
+<edge source="help" target="guid"/>
+<edge source="guid" target="find"/>
+<edge source="guid" target="go"/>
+<edge source="guid" target="park"/>
+<edge source="find" target="tast"/>
+<edge source="find" target="delici"/>
+<edge source="find" target="kidney"/>
+<edge source="tast" target="began"/>
+<edge source="dish" target="salt"/>
+<edge source="dish" target="contain"/>
+<edge source="dish" target="szechuan"/>
+<edge source="resort" target="part"/>
+<edge source="part" target="to"/>
+<edge source="part" target="miss"/>
+<edge source="to" target="world"/>
+<edge source="to" target="ltd"/>
+<edge source="travel" target="readersupport"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="navig"/>
+<edge source="navig" target="began"/>
+<edge source="navig" target="to"/>
+<edge source="diet" target="salt"/>
+<edge source="alway" target="easiest"/>
+<edge source="easiest" target="thing"/>
+<edge source="thing" target="howev"/>
+<edge source="howev" target="chang"/>
+<edge source="chang" target="recent"/>
+<edge source="recent" target="year"/>
+<edge source="year" target="kidney"/>
+<edge source="year" target="visit"/>
+<edge source="listen" target="feedback"/>
+<edge source="feedback" target="began"/>
+<edge source="visit" target="park"/>
+<edge source="visit" target="kidney"/>
+<edge source="visit" target="legal"/>
+<edge source="park" target="use"/>
+<edge source="park" target="plantbas"/>
+<edge source="park" target="cast"/>
+<edge source="implement" target="new"/>
+<edge source="new" target="plantbas"/>
+<edge source="new" target="dine"/>
+<edge source="plantbas" target="option"/>
+<edge source="plantbas" target="quinin"/>
+<edge source="plantbas" target="crave"/>
+<edge source="option" target="accommod"/>
+<edge source="option" target="also"/>
+<edge source="option" target="cast"/>
+<edge source="option" target="offer"/>
+<edge source="option" target="state"/>
+<edge source="option" target="biergarten"/>
+<edge source="option" target="satisfi"/>
+<edge source="option" target="breakfast"/>
+<edge source="option" target="like"/>
+<edge source="option" target="part"/>
+<edge source="accommod" target="began"/>
+<edge source="guest" target="began"/>
+<edge source="guest" target="relat"/>
+<edge source="plan" target="trip"/>
+<edge source="trip" target="magic"/>
+<edge source="magic" target="place"/>
+<edge source="magic" target="surround"/>
+<edge source="magic" target="kingdom"/>
+<edge source="place" target="check"/>
+<edge source="check" target="guid"/>
+<edge source="go" target="find"/>
+<edge source="delici" target="began"/>
+<edge source="delici" target="lunch"/>
+<edge source="food" target="kidney"/>
+<edge source="creat" target="system"/>
+<edge source="system" target="quickli"/>
+<edge source="quickli" target="identifi"/>
+<edge source="identifi" target="plantbas"/>
+<edge source="also" target="began"/>
+<edge source="simpli" target="look"/>
+<edge source="look" target="doubleleaf"/>
+<edge source="doubleleaf" target="symbol"/>
+<edge source="symbol" target="venu"/>
+<edge source="symbol" target="signifi"/>
+<edge source="venu" target="doubleleaf"/>
+<edge source="signifi" target="dish"/>
+<edge source="contain" target="anim"/>
+<edge source="anim" target="meat"/>
+<edge source="anim" target="kingdom"/>
+<edge source="meat" target="dairi"/>
+<edge source="dairi" target="egg"/>
+<edge source="egg" target="honey"/>
+<edge source="honey" target="furthermor"/>
+<edge source="furthermor" target="pick"/>
+<edge source="pick" target="guid"/>
+<edge source="quinin" target="avail"/>
+<edge source="avail" target="guest"/>
+<edge source="relat" target="doubt"/>
+<edge source="doubt" target="ask"/>
+<edge source="ask" target="favorit"/>
+<edge source="favorit" target="cast"/>
+<edge source="cast" target="member"/>
+<edge source="member" target="park"/>
+<edge source="member" target="answer"/>
+<edge source="member" target="know"/>
+<edge source="answer" target="question"/>
+<edge source="question" target="kidney"/>
+<edge source="know" target="find"/>
+<edge source="offer" target="year"/>
+<edge source="offer" target="began"/>
+<edge source="thoroughli" target="enjoy"/>
+<edge source="enjoy" target="transit"/>
+<edge source="transit" target="new"/>
+<edge source="state" target="highli"/>
+<edge source="highli" target="recommend"/>
+<edge source="recommend" target="visit"/>
+<edge source="recommend" target="jungl"/>
+<edge source="recommend" target="at"/>
+<edge source="legal" target="eagl"/>
+<edge source="eagl" target="spot"/>
+<edge source="spot" target="quickservic"/>
+<edge source="quickservic" target="restaur"/>
+<edge source="restaur" target="sure"/>
+<edge source="restaur" target="good"/>
+<edge source="restaur" target="limit"/>
+<edge source="restaur" target="tiffin"/>
+<edge source="sure" target="tri"/>
+<edge source="tri" target="bbq"/>
+<edge source="bbq" target="jackfruit"/>
+<edge source="jackfruit" target="larger"/>
+<edge source="larger" target="kiss"/>
+<edge source="kiss" target="love"/>
+<edge source="love" target="vice"/>
+<edge source="vice" target="pglaf"/>
+<edge source="vice" target="potato"/>
+<edge source="pglaf" target="gardenfresh"/>
+<edge source="gardenfresh" target="veget"/>
+<edge source="veget" target="garden"/>
+<edge source="garden" target="drill"/>
+<edge source="drill" target="restaur"/>
+<edge source="good" target="option"/>
+<edge source="biergarten" target="restaur"/>
+<edge source="limit" target="menu"/>
+<edge source="menu" target="includ"/>
+<edge source="includ" target="varieti"/>
+<edge source="varieti" target="began"/>
+<edge source="item" target="want"/>
+<edge source="want" target="snack"/>
+<edge source="snack" target="light"/>
+<edge source="light" target="lunch"/>
+<edge source="lunch" target="get"/>
+<edge source="lunch" target="recommend"/>
+<edge source="lunch" target="dinner"/>
+<edge source="get" target="feet"/>
+<edge source="feet" target="salad"/>
+<edge source="salad" target="sauerkraut"/>
+<edge source="sauerkraut" target="roast"/>
+<edge source="roast" target="potato"/>
+<edge source="potato" target="green"/>
+<edge source="potato" target="wash"/>
+<edge source="green" target="bean"/>
+<edge source="bean" target="kidney"/>
+<edge source="true" target="american"/>
+<edge source="american" target="wonderland"/>
+<edge source="wonderland" target="colour"/>
+<edge source="colour" target="charact"/>
+<edge source="charact" target="stun"/>
+<edge source="stun" target="part"/>
+<edge source="miss" target="magic"/>
+<edge source="surround" target="kidney"/>
+<edge source="kingdom" target="varieti"/>
+<edge source="kingdom" target="plenti"/>
+<edge source="satisfi" target="mani"/>
+<edge source="mani" target="plantbas"/>
+<edge source="crave" target="exampl"/>
+<edge source="exampl" target="dole"/>
+<edge source="dole" target="ship"/>
+<edge source="ship" target="pineappl"/>
+<edge source="pineappl" target="street"/>
+<edge source="street" target="began"/>
+<edge source="jungl" target="navig"/>
+<edge source="ltd" target="skipper"/>
+<edge source="skipper" target="canteen"/>
+<edge source="canteen" target="cri"/>
+<edge source="canteen" target="make"/>
+<edge source="cri" target="wall"/>
+<edge source="cri" target="of"/>
+<edge source="wall" target="famili"/>
+<edge source="famili" target="falafel"/>
+<edge source="falafel" target="someth"/>
+<edge source="someth" target="wealthier"/>
+<edge source="wealthier" target="side"/>
+<edge source="side" target="dinner"/>
+<edge source="dinner" target="imposs"/>
+<edge source="dinner" target="lunch"/>
+<edge source="dinner" target="suggest"/>
+<edge source="imposs" target="meatloaf"/>
+<edge source="meatloaf" target="liberti"/>
+<edge source="liberti" target="free"/>
+<edge source="free" target="tavern"/>
+<edge source="tavern" target="great"/>
+<edge source="great" target="choic"/>
+<edge source="choic" target="anim"/>
+<edge source="plenti" target="plantbas"/>
+<edge source="breakfast" target="lunch"/>
+<edge source="at" target="li"/>
+<edge source="li" target="canteen"/>
+<edge source="make" target="bowl"/>
+<edge source="bowl" target="choos"/>
+<edge source="choos" target="option"/>
+<edge source="like" target="whilepick"/>
+<edge source="whilepick" target="crisp"/>
+<edge source="crisp" target="cri"/>
+<edge source="of" target="black"/>
+<edge source="black" target="mean"/>
+<edge source="mean" target="vice"/>
+<edge source="wash" target="top"/>
+<edge source="top" target="creation"/>
+<edge source="creation" target="char"/>
+<edge source="char" target="union"/>
+<edge source="union" target="vinaigrett"/>
+<edge source="vinaigrett" target="dinner"/>
+<edge source="suggest" target="tiffin"/>
+<edge source="tiffin" target="restaur"/>
+<edge source="tiffin" target="offer"/>
+<edge source="szechuan" target="noodl"/>
+<edge source="noodl" target="well"/>
+<edge source="well" target="began"/>
+<edge source="face" target="ever"/>
+<edge source="ever" target="consid"/>
+<edge source="consid" target="kidney"/>
+<edge source="bruis" target="10"/>
+<edge source="bruis" target="kidney"/>
+<edge source="10" target="reason"/>
+<edge source="reason" target="bruis"/>
+<edge source="hollywood" target="studi"/>
+<edge source="studi" target="perhap"/>
+<edge source="perhap" target="widest"/>
+<edge source="widest" target="rang"/>
+<edge source="rang" target="began"/>
+</graph></graphml>

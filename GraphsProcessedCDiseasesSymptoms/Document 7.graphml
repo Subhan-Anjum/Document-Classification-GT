@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="some"/>
+<node id="ill"/>
+<node id="condit"/>
+<node id="sexual"/>
+<node id="reproduct"/>
+<node id="pelvic"/>
+<node id="inflammatori"/>
+<node id="diseas"/>
+<node id="british"/>
+<node id="sign"/>
+<node id="languag"/>
+<node id="bsl"/>
+<node id="简体中文"/>
+<node id="polski"/>
+<node id="română"/>
+<node id="slovenčina"/>
+<node id="pid"/>
+<node id="bacteri"/>
+<node id="infect"/>
+<node id="affect"/>
+<node id="femal"/>
+<node id="system"/>
+<node id="includ"/>
+<node id="womb"/>
+<node id="fallopian"/>
+<node id="tube"/>
+<node id="vari"/>
+<node id="often"/>
+<node id="caus"/>
+<node id="obviou"/>
+<node id="symptom"/>
+<node id="mild"/>
+<node id="make"/>
+<node id="difficult"/>
+<node id="diagnos"/>
+<node id="less"/>
+<node id="common"/>
+<node id="think"/>
+<node id="might"/>
+<node id="get"/>
+<node id="check"/>
+<node id="free"/>
+<node id="singl"/>
+<node id="test"/>
+<node id="doctor"/>
+<node id="nurs"/>
+<node id="discuss"/>
+<node id="intern"/>
+<node id="examin"/>
+<node id="pain"/>
+<node id="may"/>
+<node id="experi"/>
+<node id="discomfort"/>
+<node id="look"/>
+<node id="tender"/>
+<node id="region"/>
+<node id="abnorm"/>
+<node id="vagin"/>
+<node id="discharg"/>
+<node id="usual"/>
+<node id="take"/>
+<node id="swab"/>
+<node id="insid"/>
+<node id="vagina"/>
+<node id="croix"/>
+<node id="sent"/>
+<node id="lab"/>
+<node id="analysi"/>
+<node id="howev"/>
+<node id="reli"/>
+<node id="women"/>
+<node id="neg"/>
+<node id="result"/>
+<node id="ultrasound"/>
+<node id="scan"/>
+<node id="can"/>
+<node id="identifi"/>
+<node id="sever"/>
+<node id="show"/>
+<node id="possibl"/>
+<node id="normal"/>
+<node id="still"/>
+<node id="earli"/>
+<node id="stage"/>
+<node id="oral"/>
+<node id="antibiot"/>
+<node id="treat"/>
+<node id="probabl"/>
+<node id="given"/>
+<node id="least"/>
+<node id="2"/>
+<node id="week"/>
+<node id="case"/>
+<node id="admit"/>
+<node id="hospit"/>
+<node id="observ"/>
+<node id="treatment"/>
+<node id="inject"/>
+<node id="alway"/>
+<node id="see"/>
+<node id="sooner"/>
+<node id="better"/>
+<node id="sure"/>
+<node id="finish"/>
+<node id="entir"/>
+<node id="cours"/>
+<node id="partner"/>
+<node id="also"/>
+<node id="avoid"/>
+<node id="sex"/>
+<node id="complet"/>
+<node id="spread"/>
+<node id="organ"/>
+<node id="higher"/>
+<node id="ani"/>
+<node id="differ"/>
+<node id="type"/>
+<node id="bacteria"/>
+<node id="chlamydia"/>
+<node id="gonorrhoea"/>
+<node id="lead"/>
+<node id="unknown"/>
+<node id="harmless"/>
+<node id="found"/>
+<node id="sometim"/>
+<node id="past"/>
+<node id="left"/>
+<node id="untreat"/>
+<node id="seriou"/>
+<node id="best"/>
+<node id="way"/>
+<node id="reduc"/>
+<node id="risk"/>
+<node id="sti"/>
+<node id="practic"/>
+<node id="safer"/>
+<node id="mean"/>
+<node id="use"/>
+<node id="london"/>
+<node id="anal"/>
+<node id="sourc"/>
+<node id="scottish"/>
+<node id="govern"/>
+<node id="open"/>
+<node id="new"/>
+<node id="brother"/>
+<node id="window"/>
+<node id="last"/>
+<node id="updat"/>
+<node id="26"/>
+<node id="februari"/>
+<node id="2024"/>
+<node id="feedback"/>
+<node id="receiv"/>
+<node id="person"/>
+<node id="inform"/>
+<node id="eg"/>
+<node id="name"/>
+<node id="locat"/>
+<node id="health"/>
+<node id="2023"/>
+<node id="nh"/>
+<node id="24"/>
+<node id="ve1117852"/>
+<edge source="some" target="ill"/>
+<edge source="ill" target="condit"/>
+<edge source="condit" target="sexual"/>
+<edge source="condit" target="includ"/>
+<edge source="condit" target="british"/>
+<edge source="sexual" target="reproduct"/>
+<edge source="reproduct" target="pelvic"/>
+<edge source="reproduct" target="system"/>
+<edge source="reproduct" target="organ"/>
+<edge source="pelvic" target="inflammatori"/>
+<edge source="pelvic" target="region"/>
+<edge source="inflammatori" target="diseas"/>
+<edge source="diseas" target="british"/>
+<edge source="diseas" target="pid"/>
+<edge source="diseas" target="possibl"/>
+<edge source="british" target="sign"/>
+<edge source="sign" target="languag"/>
+<edge source="languag" target="bsl"/>
+<edge source="bsl" target="简体中文"/>
+<edge source="简体中文" target="polski"/>
+<edge source="polski" target="română"/>
+<edge source="română" target="slovenčina"/>
+<edge source="slovenčina" target="pelvic"/>
+<edge source="slovenčina" target="british"/>
+<edge source="slovenčina" target="2023"/>
+<edge source="pid" target="bacteri"/>
+<edge source="pid" target="often"/>
+<edge source="pid" target="get"/>
+<edge source="pid" target="doctor"/>
+<edge source="pid" target="women"/>
+<edge source="pid" target="neg"/>
+<edge source="pid" target="show"/>
+<edge source="pid" target="diagnos"/>
+<edge source="pid" target="probabl"/>
+<edge source="pid" target="sooner"/>
+<edge source="pid" target="caus"/>
+<edge source="pid" target="howev"/>
+<edge source="pid" target="unknown"/>
+<edge source="bacteri" target="infect"/>
+<edge source="infect" target="affect"/>
+<edge source="infect" target="spread"/>
+<edge source="infect" target="case"/>
+<edge source="infect" target="lead"/>
+<edge source="affect" target="femal"/>
+<edge source="femal" target="reproduct"/>
+<edge source="system" target="includ"/>
+<edge source="includ" target="womb"/>
+<edge source="includ" target="less"/>
+<edge source="includ" target="think"/>
+<edge source="includ" target="best"/>
+<edge source="includ" target="sourc"/>
+<edge source="includ" target="person"/>
+<edge source="womb" target="fallopian"/>
+<edge source="fallopian" target="tube"/>
+<edge source="tube" target="vari"/>
+<edge source="vari" target="pid"/>
+<edge source="often" target="caus"/>
+<edge source="caus" target="obviou"/>
+<edge source="caus" target="bacteri"/>
+<edge source="caus" target="pid"/>
+<edge source="caus" target="infect"/>
+<edge source="caus" target="seriou"/>
+<edge source="obviou" target="symptom"/>
+<edge source="symptom" target="symptom"/>
+<edge source="symptom" target="mild"/>
+<edge source="symptom" target="includ"/>
+<edge source="symptom" target="intern"/>
+<edge source="mild" target="make"/>
+<edge source="mild" target="diseas"/>
+<edge source="make" target="difficult"/>
+<edge source="make" target="sure"/>
+<edge source="difficult" target="diagnos"/>
+<edge source="diagnos" target="symptom"/>
+<edge source="diagnos" target="pid"/>
+<edge source="diagnos" target="earli"/>
+<edge source="less" target="common"/>
+<edge source="common" target="symptom"/>
+<edge source="think" target="might"/>
+<edge source="might" target="pid"/>
+<edge source="get" target="check"/>
+<edge source="get" target="past"/>
+<edge source="get" target="test"/>
+<edge source="check" target="free"/>
+<edge source="free" target="singl"/>
+<edge source="singl" target="test"/>
+<edge source="test" target="diagnos"/>
+<edge source="test" target="reli"/>
+<edge source="test" target="sti"/>
+<edge source="doctor" target="nurs"/>
+<edge source="doctor" target="examin"/>
+<edge source="doctor" target="usual"/>
+<edge source="nurs" target="discuss"/>
+<edge source="nurs" target="think"/>
+<edge source="discuss" target="symptom"/>
+<edge source="intern" target="examin"/>
+<edge source="examin" target="pain"/>
+<edge source="examin" target="look"/>
+<edge source="pain" target="may"/>
+<edge source="may" target="experi"/>
+<edge source="may" target="ultrasound"/>
+<edge source="may" target="admit"/>
+<edge source="may" target="result"/>
+<edge source="experi" target="discomfort"/>
+<edge source="discomfort" target="doctor"/>
+<edge source="look" target="tender"/>
+<edge source="tender" target="pelvic"/>
+<edge source="region" target="abnorm"/>
+<edge source="abnorm" target="vagin"/>
+<edge source="vagin" target="discharg"/>
+<edge source="vagin" target="anal"/>
+<edge source="discharg" target="doctor"/>
+<edge source="usual" target="take"/>
+<edge source="take" target="swab"/>
+<edge source="take" target="least"/>
+<edge source="take" target="antibiot"/>
+<edge source="swab" target="insid"/>
+<edge source="swab" target="test"/>
+<edge source="swab" target="result"/>
+<edge source="insid" target="vagina"/>
+<edge source="vagina" target="croix"/>
+<edge source="vagina" target="bacteria"/>
+<edge source="croix" target="sent"/>
+<edge source="croix" target="reproduct"/>
+<edge source="sent" target="lab"/>
+<edge source="lab" target="analysi"/>
+<edge source="analysi" target="howev"/>
+<edge source="howev" target="swab"/>
+<edge source="howev" target="case"/>
+<edge source="reli" target="diagnos"/>
+<edge source="women" target="pid"/>
+<edge source="neg" target="swab"/>
+<edge source="result" target="may"/>
+<edge source="result" target="chlamydia"/>
+<edge source="result" target="normal"/>
+<edge source="ultrasound" target="scan"/>
+<edge source="scan" target="can"/>
+<edge source="scan" target="still"/>
+<edge source="can" target="identifi"/>
+<edge source="identifi" target="sever"/>
+<edge source="sever" target="pid"/>
+<edge source="sever" target="case"/>
+<edge source="show" target="mild"/>
+<edge source="possibl" target="normal"/>
+<edge source="normal" target="scan"/>
+<edge source="normal" target="harmless"/>
+<edge source="still" target="pid"/>
+<edge source="earli" target="stage"/>
+<edge source="stage" target="oral"/>
+<edge source="oral" target="antibiot"/>
+<edge source="oral" target="sex"/>
+<edge source="antibiot" target="treat"/>
+<edge source="antibiot" target="inject"/>
+<edge source="antibiot" target="finish"/>
+<edge source="treat" target="pid"/>
+<edge source="treat" target="better"/>
+<edge source="treat" target="avoid"/>
+<edge source="probabl" target="given"/>
+<edge source="given" target="take"/>
+<edge source="given" target="treatment"/>
+<edge source="least" target="2"/>
+<edge source="2" target="week"/>
+<edge source="week" target="sever"/>
+<edge source="case" target="may"/>
+<edge source="case" target="pid"/>
+<edge source="case" target="result"/>
+<edge source="case" target="caus"/>
+<edge source="admit" target="hospit"/>
+<edge source="hospit" target="observ"/>
+<edge source="observ" target="treatment"/>
+<edge source="treatment" target="antibiot"/>
+<edge source="treatment" target="alway"/>
+<edge source="treatment" target="complet"/>
+<edge source="inject" target="alway"/>
+<edge source="alway" target="see"/>
+<edge source="alway" target="make"/>
+<edge source="see" target="doctor"/>
+<edge source="sooner" target="treat"/>
+<edge source="better" target="given"/>
+<edge source="sure" target="take"/>
+<edge source="finish" target="entir"/>
+<edge source="entir" target="cours"/>
+<edge source="cours" target="partner"/>
+<edge source="partner" target="also"/>
+<edge source="also" target="treat"/>
+<edge source="avoid" target="sex"/>
+<edge source="sex" target="treatment"/>
+<edge source="sex" target="mean"/>
+<edge source="sex" target="diagnos"/>
+<edge source="complet" target="case"/>
+<edge source="spread" target="vagina"/>
+<edge source="organ" target="higher"/>
+<edge source="organ" target="left"/>
+<edge source="higher" target="ani"/>
+<edge source="ani" target="differ"/>
+<edge source="differ" target="type"/>
+<edge source="type" target="bacteria"/>
+<edge source="bacteria" target="caus"/>
+<edge source="bacteria" target="found"/>
+<edge source="bacteria" target="sometim"/>
+<edge source="chlamydia" target="gonorrhoea"/>
+<edge source="gonorrhoea" target="infect"/>
+<edge source="lead" target="pid"/>
+<edge source="unknown" target="case"/>
+<edge source="harmless" target="bacteria"/>
+<edge source="found" target="vagina"/>
+<edge source="sometim" target="get"/>
+<edge source="past" target="croix"/>
+<edge source="left" target="untreat"/>
+<edge source="untreat" target="pid"/>
+<edge source="seriou" target="condit"/>
+<edge source="best" target="way"/>
+<edge source="way" target="reduc"/>
+<edge source="reduc" target="risk"/>
+<edge source="risk" target="sti"/>
+<edge source="sti" target="practic"/>
+<edge source="sti" target="includ"/>
+<edge source="practic" target="safer"/>
+<edge source="safer" target="sex"/>
+<edge source="mean" target="use"/>
+<edge source="use" target="london"/>
+<edge source="london" target="vagin"/>
+<edge source="anal" target="oral"/>
+<edge source="sourc" target="scottish"/>
+<edge source="scottish" target="govern"/>
+<edge source="govern" target="open"/>
+<edge source="open" target="new"/>
+<edge source="new" target="brother"/>
+<edge source="brother" target="window"/>
+<edge source="window" target="last"/>
+<edge source="last" target="updat"/>
+<edge source="updat" target="26"/>
+<edge source="26" target="februari"/>
+<edge source="februari" target="2024"/>
+<edge source="2024" target="feedback"/>
+<edge source="feedback" target="receiv"/>
+<edge source="receiv" target="includ"/>
+<edge source="person" target="inform"/>
+<edge source="person" target="health"/>
+<edge source="inform" target="eg"/>
+<edge source="eg" target="name"/>
+<edge source="name" target="locat"/>
+<edge source="locat" target="person"/>
+<edge source="health" target="condit"/>
+<edge source="2023" target="nh"/>
+<edge source="nh" target="24"/>
+<edge source="24" target="ve1117852"/>
+</graph></graphml>

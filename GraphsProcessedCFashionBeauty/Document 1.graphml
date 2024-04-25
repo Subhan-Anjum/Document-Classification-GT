@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="makeup"/>
+<node id="beauti"/>
+<node id="log"/>
+<node id="review"/>
+<node id="watch"/>
+<node id="nowto"/>
+<node id="blow"/>
+<node id="bloom"/>
+<node id="fresh"/>
+<node id="make"/>
+<node id="snatch"/>
+<node id="tip"/>
+<node id="friendli"/>
+<node id="neighborhood"/>
+<node id="adduct"/>
+<node id="april"/>
+<node id="th"/>
+<node id="2024"/>
+<node id="aren"/>
+<node id="6"/>
+<node id="comment"/>
+<node id="saw"/>
+<node id="zendaya"/>
+<node id="meme"/>
+<node id="instagram"/>
+<node id="day"/>
+<node id="dagnabbit"/>
+<node id="spoke"/>
+<node id="soul"/>
+<node id="99"/>
+<node id="sure"/>
+<node id="work"/>
+<node id="lewi"/>
+<node id="equival"/>
+<node id="photo"/>
+<node id="right"/>
+<node id="post"/>
+<node id="share"/>
+<node id="funni"/>
+<node id="thing"/>
+<node id="everyth"/>
+<node id="seem"/>
+<node id="okay"/>
+<node id="leav"/>
+<node id="bathroom"/>
+<node id="mirror"/>
+<node id="morn"/>
+<node id="hous"/>
+<node id="go"/>
+<node id="sometim"/>
+<node id="later"/>
+<node id="get"/>
+<node id="glimps"/>
+<node id="harsh"/>
+<node id="overhead"/>
+<node id="light"/>
+<node id="like"/>
+<node id="whoa"/>
+<node id="happen"/>
+<node id="lol"/>
+<node id="anywho"/>
+<node id="weather"/>
+<node id="crazi"/>
+<node id="week"/>
+<node id="long"/>
+<node id="forgot"/>
+<node id="true"/>
+<node id="spring"/>
+<node id="feel"/>
+<node id="appar"/>
+<node id="year"/>
+<node id="sinc"/>
+<node id="one"/>
+<node id="northern"/>
+<node id="california"/>
+<node id="jump"/>
+<node id="winter"/>
+<node id="warm"/>
+<node id="blink"/>
+<node id="eye"/>
+<node id="without"/>
+<node id="anyth"/>
+<node id="side"/>
+<node id="note"/>
+<node id="hello"/>
+<node id="global"/>
+<node id="past"/>
+<node id="though"/>
+<node id="remind"/>
+<node id="rememb"/>
+<node id="kid"/>
+<node id="swing"/>
+<node id="armi"/>
+<node id="70someth"/>
+<node id="temp"/>
+<node id="cold"/>
+<node id="wet"/>
+<node id="raini"/>
+<node id="shock"/>
+<node id="system"/>
+<node id="wardrob"/>
+<node id="wear"/>
+<node id="park"/>
+<node id="fleeci"/>
+<node id="sweeter"/>
+<node id="next"/>
+<node id="tshirt"/>
+<node id="a"/>
+<node id="know"/>
+<node id="lot"/>
+<node id="wa"/>
+<node id="love"/>
+<node id="see"/>
+<node id="come"/>
+<node id="back"/>
+<node id="life"/>
+<node id="alway"/>
+<node id="anoth"/>
+<node id="time"/>
+<node id="someth"/>
+<node id="idea"/>
+<node id="renew"/>
+<node id="invent"/>
+<node id="speak"/>
+<node id="ever"/>
+<node id="regard"/>
+<node id="listen"/>
+<node id="new"/>
+<node id="beyonc"/>
+<node id="album"/>
+<node id="cowboy"/>
+<node id="garter"/>
+<node id="nonstop"/>
+<node id="mass"/>
+<node id="togeth"/>
+<node id="differ"/>
+<node id="music"/>
+<node id="geniu"/>
+<node id="especi"/>
+<node id="harmoni"/>
+<node id="layer"/>
+<node id="vocal"/>
+<node id="favorit"/>
+<node id="song"/>
+<node id="far"/>
+<node id="blackbird"/>
+<node id="of"/>
+<node id="want"/>
+<node id="protector"/>
+<node id="give"/>
+<node id="chanc"/>
+<node id="think"/>
+<node id="might"/>
+<node id="wonder"/>
+<node id="saturday"/>
+<node id="peac"/>
+<node id="weekend"/>
+<node id="check"/>
+<node id="origin"/>
+<node id="publish"/>
+<node id="categori"/>
+<node id="run"/>
+<node id="say"/>
+<node id="504"/>
+<node id="pm"/>
+<node id="fluoresc"/>
+<node id="problem"/>
+<node id="look"/>
+<node id="good"/>
+<node id="standard"/>
+<node id="offic"/>
+<node id="best"/>
+<node id="could"/>
+<node id="buy"/>
+<node id="set"/>
+<node id="movi"/>
+<node id="star"/>
+<node id="key"/>
+<node id="highlight"/>
+<node id="face"/>
+<node id="benefici"/>
+<node id="way"/>
+<node id="marlen"/>
+<node id="mitrich"/>
+<node id="knew"/>
+<node id="film"/>
+<node id="740"/>
+<node id="yeah"/>
+<node id="actual"/>
+<node id="headach"/>
+<node id="bulb"/>
+<node id="remov"/>
+<node id="517"/>
+<edge source="makeup" target="beauti"/>
+<edge source="makeup" target="review"/>
+<edge source="beauti" target="log"/>
+<edge source="beauti" target="blow"/>
+<edge source="beauti" target="tip"/>
+<edge source="beauti" target="adduct"/>
+<edge source="log" target="makeup"/>
+<edge source="review" target="watch"/>
+<edge source="review" target="snatch"/>
+<edge source="watch" target="nowto"/>
+<edge source="nowto" target="makeup"/>
+<edge source="blow" target="bloom"/>
+<edge source="bloom" target="fresh"/>
+<edge source="bloom" target="someth"/>
+<edge source="fresh" target="make"/>
+<edge source="make" target="review"/>
+<edge source="snatch" target="beauti"/>
+<edge source="tip" target="friendli"/>
+<edge source="friendli" target="neighborhood"/>
+<edge source="neighborhood" target="beauti"/>
+<edge source="adduct" target="april"/>
+<edge source="adduct" target="aren"/>
+<edge source="april" target="th"/>
+<edge source="th" target="2024"/>
+<edge source="2024" target="aren"/>
+<edge source="2024" target="categori"/>
+<edge source="2024" target="504"/>
+<edge source="2024" target="740"/>
+<edge source="2024" target="517"/>
+<edge source="aren" target="6"/>
+<edge source="aren" target="check"/>
+<edge source="aren" target="say"/>
+<edge source="6" target="comment"/>
+<edge source="comment" target="saw"/>
+<edge source="saw" target="zendaya"/>
+<edge source="zendaya" target="meme"/>
+<edge source="meme" target="instagram"/>
+<edge source="instagram" target="day"/>
+<edge source="day" target="dagnabbit"/>
+<edge source="day" target="sometim"/>
+<edge source="day" target="though"/>
+<edge source="day" target="shock"/>
+<edge source="day" target="wear"/>
+<edge source="dagnabbit" target="spoke"/>
+<edge source="spoke" target="soul"/>
+<edge source="soul" target="99"/>
+<edge source="99" target="sure"/>
+<edge source="sure" target="work"/>
+<edge source="work" target="lewi"/>
+<edge source="work" target="like"/>
+<edge source="work" target="eye"/>
+<edge source="lewi" target="equival"/>
+<edge source="equival" target="photo"/>
+<edge source="photo" target="right"/>
+<edge source="right" target="post"/>
+<edge source="post" target="share"/>
+<edge source="share" target="funni"/>
+<edge source="funni" target="thing"/>
+<edge source="thing" target="everyth"/>
+<edge source="everyth" target="seem"/>
+<edge source="everyth" target="come"/>
+<edge source="everyth" target="light"/>
+<edge source="seem" target="okay"/>
+<edge source="okay" target="leav"/>
+<edge source="leav" target="bathroom"/>
+<edge source="leav" target="hous"/>
+<edge source="bathroom" target="mirror"/>
+<edge source="mirror" target="morn"/>
+<edge source="mirror" target="fluoresc"/>
+<edge source="morn" target="leav"/>
+<edge source="hous" target="go"/>
+<edge source="go" target="day"/>
+<edge source="go" target="chanc"/>
+<edge source="sometim" target="later"/>
+<edge source="later" target="get"/>
+<edge source="get" target="glimps"/>
+<edge source="get" target="key"/>
+<edge source="glimps" target="harsh"/>
+<edge source="harsh" target="overhead"/>
+<edge source="overhead" target="light"/>
+<edge source="overhead" target="fluoresc"/>
+<edge source="light" target="work"/>
+<edge source="light" target="problem"/>
+<edge source="light" target="best"/>
+<edge source="light" target="highlight"/>
+<edge source="light" target="film"/>
+<edge source="light" target="offic"/>
+<edge source="like" target="whoa"/>
+<edge source="like" target="appar"/>
+<edge source="like" target="kid"/>
+<edge source="like" target="spring"/>
+<edge source="like" target="wonder"/>
+<edge source="whoa" target="happen"/>
+<edge source="happen" target="lol"/>
+<edge source="happen" target="side"/>
+<edge source="lol" target="anywho"/>
+<edge source="anywho" target="weather"/>
+<edge source="weather" target="crazi"/>
+<edge source="weather" target="blink"/>
+<edge source="crazi" target="week"/>
+<edge source="week" target="long"/>
+<edge source="long" target="forgot"/>
+<edge source="forgot" target="true"/>
+<edge source="true" target="spring"/>
+<edge source="spring" target="feel"/>
+<edge source="spring" target="lot"/>
+<edge source="spring" target="cowboy"/>
+<edge source="feel" target="like"/>
+<edge source="appar" target="year"/>
+<edge source="year" target="sinc"/>
+<edge source="sinc" target="one"/>
+<edge source="one" target="northern"/>
+<edge source="one" target="day"/>
+<edge source="one" target="look"/>
+<edge source="northern" target="california"/>
+<edge source="california" target="jump"/>
+<edge source="jump" target="winter"/>
+<edge source="winter" target="warm"/>
+<edge source="warm" target="weather"/>
+<edge source="warm" target="past"/>
+<edge source="blink" target="eye"/>
+<edge source="eye" target="without"/>
+<edge source="eye" target="feel"/>
+<edge source="without" target="anyth"/>
+<edge source="anyth" target="happen"/>
+<edge source="side" target="note"/>
+<edge source="note" target="hello"/>
+<edge source="hello" target="global"/>
+<edge source="global" target="warm"/>
+<edge source="past" target="day"/>
+<edge source="though" target="remind"/>
+<edge source="remind" target="rememb"/>
+<edge source="remind" target="alway"/>
+<edge source="rememb" target="spring"/>
+<edge source="kid" target="swing"/>
+<edge source="swing" target="armi"/>
+<edge source="armi" target="70someth"/>
+<edge source="70someth" target="temp"/>
+<edge source="temp" target="cold"/>
+<edge source="cold" target="wet"/>
+<edge source="wet" target="raini"/>
+<edge source="raini" target="day"/>
+<edge source="shock" target="system"/>
+<edge source="system" target="wardrob"/>
+<edge source="wardrob" target="one"/>
+<edge source="wear" target="park"/>
+<edge source="park" target="fleeci"/>
+<edge source="fleeci" target="sweeter"/>
+<edge source="sweeter" target="next"/>
+<edge source="next" target="tshirt"/>
+<edge source="tshirt" target="a"/>
+<edge source="a" target="know"/>
+<edge source="know" target="like"/>
+<edge source="lot" target="wa"/>
+<edge source="wa" target="love"/>
+<edge source="love" target="see"/>
+<edge source="love" target="beyonc"/>
+<edge source="love" target="harmoni"/>
+<edge source="see" target="everyth"/>
+<edge source="come" target="back"/>
+<edge source="back" target="life"/>
+<edge source="life" target="remind"/>
+<edge source="alway" target="anoth"/>
+<edge source="anoth" target="time"/>
+<edge source="time" target="bloom"/>
+<edge source="someth" target="idea"/>
+<edge source="idea" target="renew"/>
+<edge source="renew" target="invent"/>
+<edge source="invent" target="speak"/>
+<edge source="invent" target="listen"/>
+<edge source="speak" target="ever"/>
+<edge source="ever" target="regard"/>
+<edge source="regard" target="invent"/>
+<edge source="listen" target="new"/>
+<edge source="new" target="beyonc"/>
+<edge source="new" target="music"/>
+<edge source="beyonc" target="album"/>
+<edge source="beyonc" target="mass"/>
+<edge source="album" target="cowboy"/>
+<edge source="cowboy" target="garter"/>
+<edge source="garter" target="nonstop"/>
+<edge source="garter" target="origin"/>
+<edge source="nonstop" target="love"/>
+<edge source="mass" target="togeth"/>
+<edge source="togeth" target="differ"/>
+<edge source="differ" target="music"/>
+<edge source="music" target="geniu"/>
+<edge source="music" target="give"/>
+<edge source="geniu" target="especi"/>
+<edge source="especi" target="love"/>
+<edge source="harmoni" target="layer"/>
+<edge source="layer" target="vocal"/>
+<edge source="vocal" target="favorit"/>
+<edge source="favorit" target="song"/>
+<edge source="song" target="far"/>
+<edge source="far" target="blackbird"/>
+<edge source="blackbird" target="of"/>
+<edge source="of" target="want"/>
+<edge source="of" target="say"/>
+<edge source="want" target="protector"/>
+<edge source="protector" target="listen"/>
+<edge source="give" target="go"/>
+<edge source="give" target="headach"/>
+<edge source="chanc" target="think"/>
+<edge source="think" target="might"/>
+<edge source="might" target="like"/>
+<edge source="wonder" target="saturday"/>
+<edge source="saturday" target="peac"/>
+<edge source="peac" target="weekend"/>
+<edge source="weekend" target="friendli"/>
+<edge source="check" target="work"/>
+<edge source="origin" target="publish"/>
+<edge source="publish" target="april"/>
+<edge source="categori" target="run"/>
+<edge source="run" target="of"/>
+<edge source="say" target="april"/>
+<edge source="say" target="marlen"/>
+<edge source="504" target="pm"/>
+<edge source="pm" target="overhead"/>
+<edge source="pm" target="yeah"/>
+<edge source="fluoresc" target="light"/>
+<edge source="fluoresc" target="set"/>
+<edge source="problem" target="one"/>
+<edge source="look" target="good"/>
+<edge source="good" target="standard"/>
+<edge source="standard" target="offic"/>
+<edge source="offic" target="light"/>
+<edge source="offic" target="actual"/>
+<edge source="best" target="could"/>
+<edge source="could" target="buy"/>
+<edge source="buy" target="mirror"/>
+<edge source="set" target="movi"/>
+<edge source="movi" target="star"/>
+<edge source="star" target="get"/>
+<edge source="key" target="light"/>
+<edge source="highlight" target="face"/>
+<edge source="face" target="benefici"/>
+<edge source="benefici" target="way"/>
+<edge source="way" target="say"/>
+<edge source="marlen" target="mitrich"/>
+<edge source="mitrich" target="knew"/>
+<edge source="knew" target="everyth"/>
+<edge source="film" target="aren"/>
+<edge source="740" target="pm"/>
+<edge source="yeah" target="overhead"/>
+<edge source="actual" target="give"/>
+<edge source="headach" target="bulb"/>
+<edge source="bulb" target="remov"/>
+<edge source="remov" target="of"/>
+<edge source="517" target="pm"/>
+</graph></graphml>

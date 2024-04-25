@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="discov"/>
+<node id="thing"/>
+<node id="alberobello"/>
+<node id="itali"/>
+<node id="hidden"/>
+<node id="gem"/>
+<node id="explor"/>
+<node id="truli"/>
+<node id="hous"/>
+<node id="narrow"/>
+<node id="street"/>
+<node id="fascin"/>
+<node id="histori"/>
+<node id="town"/>
+<node id="to"/>
+<node id="world"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="heard"/>
+<node id="some"/>
+<node id="milan"/>
+<node id="napl"/>
+<node id="magic"/>
+<node id="amalfi"/>
+<node id="coast"/>
+<node id="today"/>
+<node id="take"/>
+<node id="oneofakind"/>
+<node id="locat"/>
+<node id="heel"/>
+<node id="italian"/>
+<node id="boot"/>
+<node id="architectur"/>
+<node id="wonder"/>
+<node id="white"/>
+<node id="facad"/>
+<node id="past"/>
+<node id="act"/>
+<node id="wittyinterest"/>
+<node id="probabl"/>
+<node id="charm"/>
+<node id="tax"/>
+<node id="scar"/>
+<node id="ever"/>
+<node id="talk"/>
+<node id="later"/>
+<node id="southern"/>
+<node id="provinc"/>
+<node id="julia"/>
+<node id="brindisi"/>
+<node id="pari"/>
+<node id="border"/>
+<node id="europ"/>
+<node id="popular"/>
+<node id="countri"/>
+<node id="includ"/>
+<node id="austria"/>
+<node id="switzerland"/>
+<node id="slovenia"/>
+<node id="franc"/>
+<node id="an"/>
+<node id="dare"/>
+<node id="vatican"/>
+<node id="hesit"/>
+<node id="combin"/>
+<node id="across"/>
+<node id="attract"/>
+<node id="offici"/>
+<node id="currenc"/>
+<node id="neuro"/>
+<node id="languag"/>
+<node id="english"/>
+<node id="perfectli"/>
+<node id="fine"/>
+<node id="know"/>
+<node id="the"/>
+<node id="bell"/>
+<node id="essenti"/>
+<node id="use"/>
+<node id="frequent"/>
+<node id="also"/>
+<node id="access"/>
+<node id="beauti"/>
+<node id="adriat"/>
+<node id="tea"/>
+<node id="long"/>
+<node id="stori"/>
+<node id="short"/>
+<node id="say"/>
+<node id="alway"/>
+<node id="good"/>
+<node id="idea"/>
+<node id="enjoy"/>
+<node id="guid"/>
+<node id="make"/>
+<node id="sure"/>
+<node id="passport"/>
+<node id="readi"/>
+<node id="believ"/>
+<node id="would"/>
+<node id="exist"/>
+<node id="etern"/>
+<node id="human"/>
+<node id="need"/>
+<node id="avoid"/>
+<node id="main"/>
+<node id="tourist"/>
+<node id="iron"/>
+<node id="limeston"/>
+<node id="conic"/>
+<node id="roof"/>
+<node id="built"/>
+<node id="without"/>
+<node id="cement"/>
+<node id="plaster"/>
+<node id="stone"/>
+<node id="arrang"/>
+<node id="stabl"/>
+<node id="structur"/>
+<node id="drywal"/>
+<node id="techniqu"/>
+<node id="notic"/>
+<node id="variou"/>
+<node id="symbol"/>
+<node id="repres"/>
+<node id="religi"/>
+<node id="superstiti"/>
+<node id="luck"/>
+<node id="howev"/>
+<node id="crucial"/>
+<node id="aspect"/>
+<node id="could"/>
+<node id="easili"/>
+<node id="disassembl"/>
+<node id="reassembl"/>
+<node id="kingdom"/>
+<node id="collector"/>
+<node id="arriv"/>
+<node id="resid"/>
+<node id="place"/>
+<node id="left"/>
+<node id="construct"/>
+<node id="ye"/>
+<node id="realli"/>
+<node id="interest"/>
+<node id="mean"/>
+<node id="one"/>
+<node id="wittiest"/>
+<node id="fraud"/>
+<node id="book"/>
+<node id="singular"/>
+<node id="plural"/>
+<node id="addit"/>
+<node id="experi"/>
+<node id="abl"/>
+<node id="slept"/>
+<node id="true"/>
+<node id="trulli"/>
+<node id="rare"/>
+<node id="dwell"/>
+<node id="surviv"/>
+<node id="with"/>
+<node id="centuri"/>
+<node id="present"/>
+<node id="design"/>
+<node id="heritag"/>
+<node id="site"/>
+<node id="1909"/>
+<node id="illeg"/>
+<node id="build"/>
+<node id="demolish"/>
+<node id="repli"/>
+<node id="intervent"/>
+<node id="must"/>
+<node id="done"/>
+<node id="author"/>
+<node id="person"/>
+<node id="1996"/>
+<node id="name"/>
+<node id="unesco"/>
+<node id="uniqu"/>
+<node id="air"/>
+<node id="condit"/>
+<node id="thick"/>
+<node id="wall"/>
+<node id="keep"/>
+<node id="warm"/>
+<node id="winter"/>
+<node id="pleasantli"/>
+<node id="cool"/>
+<node id="summer"/>
+<node id="pretti"/>
+<node id="stay"/>
+<edge source="discov" target="thing"/>
+<edge source="thing" target="alberobello"/>
+<edge source="alberobello" target="itali"/>
+<edge source="alberobello" target="talk"/>
+<edge source="alberobello" target="southern"/>
+<edge source="alberobello" target="travel"/>
+<edge source="alberobello" target="would"/>
+<edge source="alberobello" target="main"/>
+<edge source="alberobello" target="realli"/>
+<edge source="alberobello" target="truli"/>
+<edge source="itali" target="hidden"/>
+<edge source="itali" target="provinc"/>
+<edge source="itali" target="border"/>
+<edge source="itali" target="also"/>
+<edge source="itali" target="alway"/>
+<edge source="itali" target="design"/>
+<edge source="hidden" target="gem"/>
+<edge source="gem" target="explor"/>
+<edge source="gem" target="architectur"/>
+<edge source="explor" target="truli"/>
+<edge source="truli" target="hous"/>
+<edge source="truli" target="limeston"/>
+<edge source="truli" target="italian"/>
+<edge source="truli" target="singular"/>
+<edge source="truli" target="plural"/>
+<edge source="truli" target="name"/>
+<edge source="hous" target="narrow"/>
+<edge source="hous" target="white"/>
+<edge source="hous" target="conic"/>
+<edge source="hous" target="could"/>
+<edge source="hous" target="ye"/>
+<edge source="narrow" target="street"/>
+<edge source="street" target="fascin"/>
+<edge source="street" target="wittyinterest"/>
+<edge source="fascin" target="histori"/>
+<edge source="histori" target="town"/>
+<edge source="histori" target="probabl"/>
+<edge source="histori" target="alberobello"/>
+<edge source="town" target="to"/>
+<edge source="to" target="world"/>
+<edge source="world" target="travel"/>
+<edge source="world" target="heritag"/>
+<edge source="travel" target="readersupport"/>
+<edge source="travel" target="guid"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="may" target="wonder"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="heard"/>
+<edge source="heard" target="some"/>
+<edge source="heard" target="alberobello"/>
+<edge source="heard" target="ye"/>
+<edge source="some" target="milan"/>
+<edge source="milan" target="napl"/>
+<edge source="napl" target="magic"/>
+<edge source="napl" target="tax"/>
+<edge source="magic" target="amalfi"/>
+<edge source="amalfi" target="coast"/>
+<edge source="coast" target="today"/>
+<edge source="today" target="take"/>
+<edge source="take" target="oneofakind"/>
+<edge source="take" target="alberobello"/>
+<edge source="oneofakind" target="locat"/>
+<edge source="locat" target="heel"/>
+<edge source="heel" target="italian"/>
+<edge source="italian" target="boot"/>
+<edge source="italian" target="julia"/>
+<edge source="italian" target="english"/>
+<edge source="italian" target="truli"/>
+<edge source="boot" target="take"/>
+<edge source="architectur" target="wonder"/>
+<edge source="wonder" target="truli"/>
+<edge source="wonder" target="repres"/>
+<edge source="wonder" target="trulli"/>
+<edge source="white" target="facad"/>
+<edge source="facad" target="past"/>
+<edge source="past" target="act"/>
+<edge source="act" target="narrow"/>
+<edge source="wittyinterest" target="histori"/>
+<edge source="probabl" target="charm"/>
+<edge source="charm" target="tax"/>
+<edge source="charm" target="experi"/>
+<edge source="tax" target="scar"/>
+<edge source="tax" target="alberobello"/>
+<edge source="tax" target="collector"/>
+<edge source="tax" target="fraud"/>
+<edge source="scar" target="ever"/>
+<edge source="ever" target="heard"/>
+<edge source="talk" target="later"/>
+<edge source="later" target="alberobello"/>
+<edge source="southern" target="itali"/>
+<edge source="provinc" target="julia"/>
+<edge source="julia" target="italian"/>
+<edge source="julia" target="brindisi"/>
+<edge source="brindisi" target="pari"/>
+<edge source="pari" target="itali"/>
+<edge source="border" target="europ"/>
+<edge source="border" target="attract"/>
+<edge source="europ" target="popular"/>
+<edge source="europ" target="say"/>
+<edge source="popular" target="countri"/>
+<edge source="countri" target="includ"/>
+<edge source="includ" target="austria"/>
+<edge source="austria" target="switzerland"/>
+<edge source="switzerland" target="slovenia"/>
+<edge source="slovenia" target="franc"/>
+<edge source="franc" target="an"/>
+<edge source="an" target="dare"/>
+<edge source="dare" target="vatican"/>
+<edge source="vatican" target="hesit"/>
+<edge source="hesit" target="combin"/>
+<edge source="combin" target="across"/>
+<edge source="across" target="border"/>
+<edge source="attract" target="offici"/>
+<edge source="attract" target="iron"/>
+<edge source="offici" target="currenc"/>
+<edge source="offici" target="languag"/>
+<edge source="currenc" target="neuro"/>
+<edge source="neuro" target="offici"/>
+<edge source="languag" target="italian"/>
+<edge source="english" target="perfectli"/>
+<edge source="perfectli" target="fine"/>
+<edge source="fine" target="know"/>
+<edge source="know" target="the"/>
+<edge source="the" target="bell"/>
+<edge source="bell" target="essenti"/>
+<edge source="essenti" target="use"/>
+<edge source="use" target="frequent"/>
+<edge source="use" target="cement"/>
+<edge source="use" target="drywal"/>
+<edge source="frequent" target="itali"/>
+<edge source="also" target="access"/>
+<edge source="also" target="uniqu"/>
+<edge source="access" target="beauti"/>
+<edge source="beauti" target="adriat"/>
+<edge source="adriat" target="tea"/>
+<edge source="tea" target="long"/>
+<edge source="long" target="stori"/>
+<edge source="stori" target="short"/>
+<edge source="short" target="europ"/>
+<edge source="say" target="itali"/>
+<edge source="say" target="slept"/>
+<edge source="alway" target="good"/>
+<edge source="good" target="idea"/>
+<edge source="good" target="luck"/>
+<edge source="idea" target="enjoy"/>
+<edge source="enjoy" target="alberobello"/>
+<edge source="guid" target="make"/>
+<edge source="make" target="sure"/>
+<edge source="sure" target="passport"/>
+<edge source="passport" target="readi"/>
+<edge source="readi" target="believ"/>
+<edge source="believ" target="alberobello"/>
+<edge source="would" target="exist"/>
+<edge source="would" target="construct"/>
+<edge source="exist" target="etern"/>
+<edge source="etern" target="human"/>
+<edge source="human" target="need"/>
+<edge source="need" target="avoid"/>
+<edge source="avoid" target="tax"/>
+<edge source="main" target="tourist"/>
+<edge source="tourist" target="attract"/>
+<edge source="iron" target="truli"/>
+<edge source="limeston" target="hous"/>
+<edge source="conic" target="roof"/>
+<edge source="roof" target="built"/>
+<edge source="roof" target="notic"/>
+<edge source="built" target="without"/>
+<edge source="without" target="use"/>
+<edge source="cement" target="plaster"/>
+<edge source="plaster" target="stone"/>
+<edge source="stone" target="arrang"/>
+<edge source="arrang" target="stabl"/>
+<edge source="stabl" target="structur"/>
+<edge source="structur" target="use"/>
+<edge source="drywal" target="techniqu"/>
+<edge source="techniqu" target="roof"/>
+<edge source="notic" target="variou"/>
+<edge source="variou" target="symbol"/>
+<edge source="symbol" target="may"/>
+<edge source="symbol" target="good"/>
+<edge source="repres" target="religi"/>
+<edge source="religi" target="superstiti"/>
+<edge source="superstiti" target="symbol"/>
+<edge source="luck" target="howev"/>
+<edge source="howev" target="crucial"/>
+<edge source="crucial" target="aspect"/>
+<edge source="aspect" target="truli"/>
+<edge source="could" target="easili"/>
+<edge source="easili" target="disassembl"/>
+<edge source="disassembl" target="reassembl"/>
+<edge source="disassembl" target="place"/>
+<edge source="reassembl" target="kingdom"/>
+<edge source="kingdom" target="napl"/>
+<edge source="collector" target="arriv"/>
+<edge source="arriv" target="resid"/>
+<edge source="resid" target="disassembl"/>
+<edge source="place" target="left"/>
+<edge source="place" target="stay"/>
+<edge source="left" target="would"/>
+<edge source="construct" target="truli"/>
+<edge source="construct" target="repli"/>
+<edge source="ye" target="histori"/>
+<edge source="ye" target="book"/>
+<edge source="realli" target="interest"/>
+<edge source="interest" target="mean"/>
+<edge source="mean" target="one"/>
+<edge source="one" target="wittiest"/>
+<edge source="wittiest" target="tax"/>
+<edge source="fraud" target="ever"/>
+<edge source="book" target="truli"/>
+<edge source="singular" target="truli"/>
+<edge source="plural" target="addit"/>
+<edge source="addit" target="charm"/>
+<edge source="experi" target="abl"/>
+<edge source="abl" target="say"/>
+<edge source="slept" target="true"/>
+<edge source="true" target="architectur"/>
+<edge source="trulli" target="rare"/>
+<edge source="trulli" target="warm"/>
+<edge source="rare" target="dwell"/>
+<edge source="dwell" target="surviv"/>
+<edge source="surviv" target="with"/>
+<edge source="with" target="centuri"/>
+<edge source="centuri" target="present"/>
+<edge source="present" target="itali"/>
+<edge source="design" target="heritag"/>
+<edge source="heritag" target="site"/>
+<edge source="site" target="1909"/>
+<edge source="site" target="also"/>
+<edge source="1909" target="illeg"/>
+<edge source="illeg" target="build"/>
+<edge source="build" target="demolish"/>
+<edge source="demolish" target="construct"/>
+<edge source="repli" target="intervent"/>
+<edge source="intervent" target="must"/>
+<edge source="must" target="done"/>
+<edge source="done" target="author"/>
+<edge source="author" target="person"/>
+<edge source="person" target="1996"/>
+<edge source="1996" target="alberobello"/>
+<edge source="name" target="unesco"/>
+<edge source="unesco" target="world"/>
+<edge source="uniqu" target="air"/>
+<edge source="uniqu" target="place"/>
+<edge source="air" target="condit"/>
+<edge source="condit" target="thick"/>
+<edge source="thick" target="wall"/>
+<edge source="wall" target="keep"/>
+<edge source="keep" target="trulli"/>
+<edge source="warm" target="winter"/>
+<edge source="winter" target="pleasantli"/>
+<edge source="pleasantli" target="cool"/>
+<edge source="cool" target="summer"/>
+<edge source="summer" target="pretti"/>
+<edge source="pretti" target="uniqu"/>
+<edge source="stay" target="travel"/>
+</graph></graphml>

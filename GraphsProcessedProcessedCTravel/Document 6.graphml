@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="kualoa"/>
+<node id="ranch"/>
+<node id="hawaii"/>
+<node id="ancient"/>
+<node id="hawaiian"/>
+<node id="sacr"/>
+<node id="site"/>
+<node id="4000acr"/>
+<node id="nation"/>
+<node id="histor"/>
+<node id="landmark"/>
+<node id="near"/>
+<node id="honolulu"/>
+<node id="jurass"/>
+<node id="dark"/>
+<node id="fill"/>
+<node id="to"/>
+<node id="world"/>
+<node id="travel"/>
+<node id="readersupport"/>
+<node id="may"/>
+<node id="earn"/>
+<node id="commiss"/>
+<node id="purchas"/>
+<node id="made"/>
+<node id="link"/>
+<node id="piec"/>
+<node id="spend"/>
+<node id="day"/>
+<node id="might"/>
+<node id="year"/>
+<node id="escap"/>
+<node id="skyscrap"/>
+<node id="concret"/>
+<node id="mention"/>
+<node id="sheer"/>
+<node id="densiti"/>
+<node id="peopl"/>
+<node id="roam"/>
+<node id="waikiki"/>
+<node id="fortun"/>
+<node id="island"/>
+<node id="ah"/>
+<node id="offer"/>
+<node id="plenti"/>
+<node id="spot"/>
+<node id="peac"/>
+<node id="seren"/>
+<node id="reign"/>
+<node id="cunningli"/>
+<node id="beauti"/>
+<node id="one"/>
+<node id="locat"/>
+<node id="less"/>
+<node id="hour"/>
+<node id="drive"/>
+<node id="rustl"/>
+<node id="bustl"/>
+<node id="citi"/>
+<node id="picturesqu"/>
+<node id="destin"/>
+<node id="inward"/>
+<node id="side"/>
+<node id="privat"/>
+<node id="natur"/>
+<node id="reserv"/>
+<node id="work"/>
+<node id="cattl"/>
+<node id="properti"/>
+<node id="list"/>
+<node id="regist"/>
+<node id="place"/>
+<node id="sinc"/>
+<node id="1970"/>
+<node id="mean"/>
+<node id="long"/>
+<node id="back"/>
+<node id="refer"/>
+<node id="deep"/>
+<node id="valley"/>
+<node id="soar"/>
+<node id="mountain"/>
+<node id="peak"/>
+<node id="with"/>
+<node id="centuri"/>
+<node id="1850"/>
+<node id="american"/>
+<node id="doctor"/>
+<node id="missionari"/>
+<node id="or"/>
+<node id="permit"/>
+<node id="mud"/>
+<node id="bought"/>
+<node id="622"/>
+<node id="acr"/>
+<node id="land"/>
+<node id="1300"/>
+<node id="also"/>
+<node id="mokoli"/>
+<node id="offshor"/>
+<node id="king"/>
+<node id="kamehameha"/>
+<node id="iii"/>
+<node id="first"/>
+<node id="person"/>
+<node id="translat"/>
+<node id="medic"/>
+<node id="journal"/>
+<node id="languag"/>
+<node id="serv"/>
+<node id="advis"/>
+<node id="gratitud"/>
+<node id="sold"/>
+<node id="subsequ"/>
+<node id="sever"/>
+<node id="thousand"/>
+<node id="ensu"/>
+<node id="brotherinlaw"/>
+<node id="samuel"/>
+<node id="milder"/>
+<node id="start"/>
+<node id="sugarcan"/>
+<node id="plantat"/>
+<node id="built"/>
+<node id="sugar"/>
+<node id="mill"/>
+<node id="rel"/>
+<node id="short"/>
+<node id="period"/>
+<node id="time"/>
+<node id="farm"/>
+<node id="end"/>
+<node id="close"/>
+<node id="due"/>
+<node id="low"/>
+<node id="rainfal"/>
+<node id="clash"/>
+<node id="forward"/>
+<node id="wwii"/>
+<node id="us"/>
+<node id="militari"/>
+<node id="occupi"/>
+<node id="use"/>
+<node id="garfield"/>
+<node id="most"/>
+<node id="war"/>
+<node id="return"/>
+<node id="organ"/>
+<node id="famili"/>
+<node id="owner"/>
+<node id="descend"/>
+<node id="remain"/>
+<node id="hand"/>
+<node id="seven"/>
+<node id="gener"/>
+<node id="continu"/>
+<node id="commit"/>
+<node id="preserv"/>
+<node id="cultur"/>
+<node id="signific"/>
+<node id="special"/>
+<node id="steward"/>
+<node id="enhanc"/>
+<node id="sceneri"/>
+<node id="develop"/>
+<node id="sustain"/>
+<node id="recreat"/>
+<node id="agricultur"/>
+<node id="aquacultur"/>
+<node id="enterpris"/>
+<node id="compat"/>
+<node id="environ"/>
+<node id="head"/>
+<node id="stay"/>
+<node id="editor"/>
+<node id="top"/>
+<node id="lick"/>
+<node id="endeavor"/>
+<node id="creat"/>
+<node id="number"/>
+<node id="public"/>
+<node id="explor"/>
+<node id="incred"/>
+<node id="appeal"/>
+<node id="everyon"/>
+<node id="adrenalin"/>
+<node id="jenni"/>
+<node id="film"/>
+<node id="puff"/>
+<node id="lover"/>
+<node id="cover"/>
+<node id="water"/>
+<node id="aficionado"/>
+<node id="recogn"/>
+<node id="part"/>
+<node id="known"/>
+<node id="hollywood"/>
+<node id="backlot"/>
+<node id="hundr"/>
+<node id="move"/>
+<node id="of"/>
+<node id="show"/>
+<node id="1950"/>
+<node id="soughtaft"/>
+<node id="breathtak"/>
+<node id="landscap"/>
+<node id="divers"/>
+<node id="terrain"/>
+<node id="tropic"/>
+<node id="forest"/>
+<node id="dramat"/>
+<edge source="kualoa" target="ranch"/>
+<edge source="kualoa" target="mean"/>
+<edge source="kualoa" target="1300"/>
+<edge source="kualoa" target="garfield"/>
+<edge source="ranch" target="hawaii"/>
+<edge source="ranch" target="picturesqu"/>
+<edge source="ranch" target="4000acr"/>
+<edge source="ranch" target="deep"/>
+<edge source="ranch" target="rel"/>
+<edge source="ranch" target="return"/>
+<edge source="ranch" target="creat"/>
+<edge source="ranch" target="land"/>
+<edge source="ranch" target="known"/>
+<edge source="hawaii" target="ancient"/>
+<edge source="hawaii" target="one"/>
+<edge source="hawaii" target="editor"/>
+<edge source="hawaii" target="backlot"/>
+<edge source="ancient" target="hawaiian"/>
+<edge source="hawaiian" target="sacr"/>
+<edge source="hawaiian" target="refer"/>
+<edge source="hawaiian" target="with"/>
+<edge source="hawaiian" target="languag"/>
+<edge source="sacr" target="site"/>
+<edge source="sacr" target="ancient"/>
+<edge source="site" target="4000acr"/>
+<edge source="site" target="kualoa"/>
+<edge source="4000acr" target="nation"/>
+<edge source="4000acr" target="properti"/>
+<edge source="nation" target="histor"/>
+<edge source="nation" target="regist"/>
+<edge source="histor" target="landmark"/>
+<edge source="histor" target="place"/>
+<edge source="histor" target="signific"/>
+<edge source="landmark" target="near"/>
+<edge source="near" target="honolulu"/>
+<edge source="honolulu" target="jurass"/>
+<edge source="honolulu" target="might"/>
+<edge source="jurass" target="dark"/>
+<edge source="dark" target="fill"/>
+<edge source="fill" target="to"/>
+<edge source="fill" target="sinc"/>
+<edge source="to" target="world"/>
+<edge source="world" target="travel"/>
+<edge source="travel" target="readersupport"/>
+<edge source="readersupport" target="may"/>
+<edge source="may" target="earn"/>
+<edge source="earn" target="commiss"/>
+<edge source="commiss" target="purchas"/>
+<edge source="purchas" target="made"/>
+<edge source="purchas" target="sever"/>
+<edge source="made" target="link"/>
+<edge source="link" target="piec"/>
+<edge source="piec" target="spend"/>
+<edge source="spend" target="day"/>
+<edge source="day" target="honolulu"/>
+<edge source="might" target="year"/>
+<edge source="might" target="recogn"/>
+<edge source="year" target="escap"/>
+<edge source="year" target="long"/>
+<edge source="escap" target="skyscrap"/>
+<edge source="skyscrap" target="concret"/>
+<edge source="concret" target="mention"/>
+<edge source="mention" target="sheer"/>
+<edge source="sheer" target="densiti"/>
+<edge source="densiti" target="peopl"/>
+<edge source="peopl" target="roam"/>
+<edge source="roam" target="waikiki"/>
+<edge source="waikiki" target="fortun"/>
+<edge source="fortun" target="island"/>
+<edge source="island" target="ah"/>
+<edge source="island" target="mokoli"/>
+<edge source="ah" target="offer"/>
+<edge source="ah" target="inward"/>
+<edge source="offer" target="plenti"/>
+<edge source="offer" target="appeal"/>
+<edge source="plenti" target="spot"/>
+<edge source="spot" target="peac"/>
+<edge source="peac" target="seren"/>
+<edge source="seren" target="reign"/>
+<edge source="reign" target="cunningli"/>
+<edge source="cunningli" target="beauti"/>
+<edge source="beauti" target="kualoa"/>
+<edge source="beauti" target="cultur"/>
+<edge source="one" target="locat"/>
+<edge source="one" target="advis"/>
+<edge source="locat" target="less"/>
+<edge source="locat" target="due"/>
+<edge source="less" target="hour"/>
+<edge source="hour" target="drive"/>
+<edge source="hour" target="public"/>
+<edge source="drive" target="rustl"/>
+<edge source="rustl" target="bustl"/>
+<edge source="bustl" target="citi"/>
+<edge source="citi" target="kualoa"/>
+<edge source="picturesqu" target="destin"/>
+<edge source="destin" target="ah"/>
+<edge source="destin" target="offer"/>
+<edge source="inward" target="side"/>
+<edge source="side" target="privat"/>
+<edge source="privat" target="natur"/>
+<edge source="natur" target="reserv"/>
+<edge source="natur" target="sceneri"/>
+<edge source="natur" target="lover"/>
+<edge source="reserv" target="work"/>
+<edge source="work" target="cattl"/>
+<edge source="work" target="king"/>
+<edge source="work" target="enhanc"/>
+<edge source="cattl" target="ranch"/>
+<edge source="properti" target="list"/>
+<edge source="list" target="nation"/>
+<edge source="regist" target="histor"/>
+<edge source="place" target="sinc"/>
+<edge source="place" target="steward"/>
+<edge source="sinc" target="1970"/>
+<edge source="sinc" target="remain"/>
+<edge source="sinc" target="1950"/>
+<edge source="1970" target="kualoa"/>
+<edge source="mean" target="long"/>
+<edge source="long" target="back"/>
+<edge source="long" target="brotherinlaw"/>
+<edge source="back" target="hawaiian"/>
+<edge source="refer" target="ranch"/>
+<edge source="deep" target="valley"/>
+<edge source="valley" target="soar"/>
+<edge source="soar" target="mountain"/>
+<edge source="mountain" target="peak"/>
+<edge source="mountain" target="sceneri"/>
+<edge source="peak" target="sacr"/>
+<edge source="with" target="with"/>
+<edge source="with" target="centuri"/>
+<edge source="centuri" target="1850"/>
+<edge source="1850" target="american"/>
+<edge source="american" target="doctor"/>
+<edge source="doctor" target="missionari"/>
+<edge source="doctor" target="subsequ"/>
+<edge source="missionari" target="or"/>
+<edge source="or" target="permit"/>
+<edge source="or" target="mud"/>
+<edge source="permit" target="mud"/>
+<edge source="mud" target="bought"/>
+<edge source="mud" target="first"/>
+<edge source="mud" target="start"/>
+<edge source="mud" target="sinc"/>
+<edge source="bought" target="622"/>
+<edge source="bought" target="island"/>
+<edge source="622" target="acr"/>
+<edge source="acr" target="land"/>
+<edge source="acr" target="ensu"/>
+<edge source="land" target="kualoa"/>
+<edge source="land" target="doctor"/>
+<edge source="land" target="use"/>
+<edge source="land" target="develop"/>
+<edge source="land" target="water"/>
+<edge source="1300" target="also"/>
+<edge source="also" target="bought"/>
+<edge source="mokoli" target="offshor"/>
+<edge source="offshor" target="king"/>
+<edge source="king" target="kamehameha"/>
+<edge source="king" target="serv"/>
+<edge source="king" target="sold"/>
+<edge source="kamehameha" target="iii"/>
+<edge source="iii" target="or"/>
+<edge source="first" target="person"/>
+<edge source="person" target="translat"/>
+<edge source="translat" target="medic"/>
+<edge source="medic" target="journal"/>
+<edge source="journal" target="hawaiian"/>
+<edge source="languag" target="king"/>
+<edge source="serv" target="one"/>
+<edge source="advis" target="gratitud"/>
+<edge source="gratitud" target="work"/>
+<edge source="sold" target="land"/>
+<edge source="subsequ" target="purchas"/>
+<edge source="sever" target="thousand"/>
+<edge source="thousand" target="acr"/>
+<edge source="ensu" target="year"/>
+<edge source="brotherinlaw" target="samuel"/>
+<edge source="samuel" target="milder"/>
+<edge source="milder" target="or"/>
+<edge source="start" target="sugarcan"/>
+<edge source="sugarcan" target="plantat"/>
+<edge source="plantat" target="built"/>
+<edge source="built" target="sugar"/>
+<edge source="sugar" target="mill"/>
+<edge source="mill" target="ranch"/>
+<edge source="mill" target="close"/>
+<edge source="rel" target="short"/>
+<edge source="short" target="period"/>
+<edge source="period" target="time"/>
+<edge source="time" target="farm"/>
+<edge source="farm" target="end"/>
+<edge source="end" target="mill"/>
+<edge source="close" target="due"/>
+<edge source="due" target="low"/>
+<edge source="due" target="breathtak"/>
+<edge source="low" target="rainfal"/>
+<edge source="rainfal" target="clash"/>
+<edge source="clash" target="forward"/>
+<edge source="forward" target="wwii"/>
+<edge source="wwii" target="us"/>
+<edge source="us" target="militari"/>
+<edge source="militari" target="occupi"/>
+<edge source="occupi" target="land"/>
+<edge source="use" target="site"/>
+<edge source="garfield" target="most"/>
+<edge source="most" target="war"/>
+<edge source="war" target="ranch"/>
+<edge source="return" target="organ"/>
+<edge source="organ" target="famili"/>
+<edge source="famili" target="owner"/>
+<edge source="famili" target="seven"/>
+<edge source="owner" target="descend"/>
+<edge source="descend" target="or"/>
+<edge source="remain" target="hand"/>
+<edge source="hand" target="famili"/>
+<edge source="seven" target="gener"/>
+<edge source="gener" target="continu"/>
+<edge source="continu" target="commit"/>
+<edge source="commit" target="preserv"/>
+<edge source="preserv" target="beauti"/>
+<edge source="cultur" target="histor"/>
+<edge source="signific" target="special"/>
+<edge source="special" target="place"/>
+<edge source="steward" target="work"/>
+<edge source="enhanc" target="natur"/>
+<edge source="sceneri" target="land"/>
+<edge source="develop" target="sustain"/>
+<edge source="sustain" target="recreat"/>
+<edge source="recreat" target="agricultur"/>
+<edge source="agricultur" target="aquacultur"/>
+<edge source="aquacultur" target="enterpris"/>
+<edge source="enterpris" target="compat"/>
+<edge source="compat" target="environ"/>
+<edge source="environ" target="head"/>
+<edge source="head" target="stay"/>
+<edge source="stay" target="hawaii"/>
+<edge source="editor" target="top"/>
+<edge source="top" target="lick"/>
+<edge source="lick" target="endeavor"/>
+<edge source="endeavor" target="ranch"/>
+<edge source="creat" target="number"/>
+<edge source="number" target="hour"/>
+<edge source="public" target="explor"/>
+<edge source="explor" target="incred"/>
+<edge source="incred" target="destin"/>
+<edge source="appeal" target="everyon"/>
+<edge source="everyon" target="adrenalin"/>
+<edge source="adrenalin" target="jenni"/>
+<edge source="jenni" target="film"/>
+<edge source="film" target="puff"/>
+<edge source="film" target="aficionado"/>
+<edge source="puff" target="natur"/>
+<edge source="lover" target="cover"/>
+<edge source="cover" target="ranch"/>
+<edge source="water" target="film"/>
+<edge source="aficionado" target="might"/>
+<edge source="recogn" target="part"/>
+<edge source="part" target="ranch"/>
+<edge source="known" target="hollywood"/>
+<edge source="hollywood" target="hawaii"/>
+<edge source="backlot" target="hundr"/>
+<edge source="hundr" target="move"/>
+<edge source="move" target="of"/>
+<edge source="of" target="show"/>
+<edge source="show" target="fill"/>
+<edge source="1950" target="soughtaft"/>
+<edge source="soughtaft" target="locat"/>
+<edge source="breathtak" target="landscap"/>
+<edge source="landscap" target="divers"/>
+<edge source="divers" target="terrain"/>
+<edge source="terrain" target="tropic"/>
+<edge source="tropic" target="forest"/>
+<edge source="forest" target="dramat"/>
+<edge source="dramat" target="mountain"/>
+</graph></graphml>

@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="makeup"/>
+<node id="beauti"/>
+<node id="log"/>
+<node id="review"/>
+<node id="watch"/>
+<node id="nowto"/>
+<node id="blow"/>
+<node id="bloom"/>
+<node id="fresh"/>
+<node id="make"/>
+<node id="snatch"/>
+<node id="tip"/>
+<node id="friendli"/>
+<node id="neighborhood"/>
+<node id="adduct"/>
+<node id="march"/>
+<node id="with"/>
+<node id="2024"/>
+<node id="aren"/>
+<node id="15"/>
+<node id="comment"/>
+<node id="day"/>
+<node id="la"/>
+<node id="use"/>
+<node id="diehard"/>
+<node id="sephora"/>
+<node id="gal"/>
+<node id="late"/>
+<node id="realli"/>
+<node id="feel"/>
+<node id="especi"/>
+<node id="go"/>
+<node id="store"/>
+<node id="gross"/>
+<node id="get"/>
+<node id="hair"/>
+<node id="skin"/>
+<node id="care"/>
+<node id="one"/>
+<node id="place"/>
+<node id="like"/>
+<node id="band"/>
+<node id="carri"/>
+<node id="better"/>
+<node id="fit"/>
+<node id="right"/>
+<node id="stage"/>
+<node id="journey"/>
+<node id="also"/>
+<node id="point"/>
+<node id="system"/>
+<node id="seem"/>
+<node id="give"/>
+<node id="bang"/>
+<node id="buck"/>
+<node id="case"/>
+<node id="time"/>
+<node id="deal"/>
+<node id="83"/>
+<node id="guard"/>
+<node id="serum"/>
+<node id="mere"/>
+<node id="597"/>
+<node id="major"/>
+<node id="shop"/>
+<node id="origin"/>
+<node id="publish"/>
+<node id="categori"/>
+<node id="run"/>
+<node id="rachel"/>
+<node id="say"/>
+<node id="758"/>
+<node id="combin"/>
+<node id="target"/>
+<node id="onlin"/>
+<node id="mani"/>
+<node id="good"/>
+<node id="gift"/>
+<node id="purchas"/>
+<node id="sale"/>
+<node id="top"/>
+<node id="346"/>
+<node id="pm"/>
+<node id="oh"/>
+<node id="take"/>
+<node id="advantag"/>
+<node id="windi"/>
+<node id="1042"/>
+<node id="reward"/>
+<node id="pale"/>
+<node id="comparison"/>
+<node id="ye"/>
+<node id="bandi"/>
+<node id="1107"/>
+<node id="usual"/>
+<node id="lawith"/>
+<node id="thing"/>
+<node id="program"/>
+<node id="free"/>
+<node id="way"/>
+<node id="love"/>
+<node id="varieti"/>
+<node id="agre"/>
+<node id="of"/>
+<node id="631"/>
+<node id="conveni"/>
+<node id="locat"/>
+<node id="cv"/>
+<node id="walgreen"/>
+<node id="new"/>
+<node id="town"/>
+<node id="compet"/>
+<node id="pretti"/>
+<node id="fierc"/>
+<node id="part"/>
+<node id="fascia"/>
+<node id="830"/>
+<node id="definit"/>
+<node id="although"/>
+<node id="made"/>
+<node id="realiz"/>
+<node id="afterward"/>
+<node id="come"/>
+<node id="20"/>
+<node id="10"/>
+<node id="cover"/>
+<node id="tax"/>
+<node id="mix"/>
+<node id="high"/>
+<node id="end"/>
+<node id="budget"/>
+<node id="product"/>
+<node id="penn"/>
+<node id="312"/>
+<edge source="makeup" target="beauti"/>
+<edge source="makeup" target="review"/>
+<edge source="beauti" target="log"/>
+<edge source="beauti" target="blow"/>
+<edge source="beauti" target="tip"/>
+<edge source="beauti" target="adduct"/>
+<edge source="beauti" target="journey"/>
+<edge source="beauti" target="deal"/>
+<edge source="beauti" target="shop"/>
+<edge source="log" target="makeup"/>
+<edge source="review" target="watch"/>
+<edge source="review" target="snatch"/>
+<edge source="watch" target="nowto"/>
+<edge source="nowto" target="makeup"/>
+<edge source="blow" target="bloom"/>
+<edge source="bloom" target="fresh"/>
+<edge source="fresh" target="make"/>
+<edge source="make" target="review"/>
+<edge source="make" target="one"/>
+<edge source="snatch" target="beauti"/>
+<edge source="tip" target="friendli"/>
+<edge source="friendli" target="neighborhood"/>
+<edge source="friendli" target="product"/>
+<edge source="neighborhood" target="beauti"/>
+<edge source="adduct" target="march"/>
+<edge source="adduct" target="aren"/>
+<edge source="march" target="with"/>
+<edge source="with" target="2024"/>
+<edge source="2024" target="aren"/>
+<edge source="2024" target="categori"/>
+<edge source="2024" target="758"/>
+<edge source="2024" target="346"/>
+<edge source="2024" target="1042"/>
+<edge source="2024" target="1107"/>
+<edge source="2024" target="631"/>
+<edge source="2024" target="830"/>
+<edge source="2024" target="312"/>
+<edge source="aren" target="15"/>
+<edge source="aren" target="major"/>
+<edge source="aren" target="say"/>
+<edge source="15" target="comment"/>
+<edge source="15" target="10"/>
+<edge source="comment" target="day"/>
+<edge source="day" target="la"/>
+<edge source="day" target="get"/>
+<edge source="day" target="windi"/>
+<edge source="la" target="use"/>
+<edge source="la" target="get"/>
+<edge source="la" target="point"/>
+<edge source="la" target="sephora"/>
+<edge source="la" target="mani"/>
+<edge source="la" target="gift"/>
+<edge source="la" target="reward"/>
+<edge source="la" target="aren"/>
+<edge source="la" target="of"/>
+<edge source="use" target="diehard"/>
+<edge source="use" target="la"/>
+<edge source="use" target="shop"/>
+<edge source="diehard" target="sephora"/>
+<edge source="sephora" target="gal"/>
+<edge source="sephora" target="target"/>
+<edge source="sephora" target="pale"/>
+<edge source="sephora" target="la"/>
+<edge source="sephora" target="also"/>
+<edge source="sephora" target="although"/>
+<edge source="sephora" target="realiz"/>
+<edge source="sephora" target="sale"/>
+<edge source="gal" target="late"/>
+<edge source="late" target="realli"/>
+<edge source="realli" target="feel"/>
+<edge source="realli" target="cover"/>
+<edge source="feel" target="especi"/>
+<edge source="feel" target="like"/>
+<edge source="especi" target="go"/>
+<edge source="especi" target="cv"/>
+<edge source="go" target="store"/>
+<edge source="store" target="gross"/>
+<edge source="store" target="conveni"/>
+<edge source="gross" target="la"/>
+<edge source="get" target="hair"/>
+<edge source="get" target="83"/>
+<edge source="get" target="good"/>
+<edge source="hair" target="skin"/>
+<edge source="skin" target="care"/>
+<edge source="care" target="make"/>
+<edge source="one" target="place"/>
+<edge source="one" target="day"/>
+<edge source="place" target="feel"/>
+<edge source="like" target="band"/>
+<edge source="like" target="la"/>
+<edge source="like" target="20"/>
+<edge source="band" target="carri"/>
+<edge source="band" target="la"/>
+<edge source="carri" target="better"/>
+<edge source="better" target="fit"/>
+<edge source="better" target="sephora"/>
+<edge source="better" target="mix"/>
+<edge source="fit" target="right"/>
+<edge source="right" target="stage"/>
+<edge source="stage" target="beauti"/>
+<edge source="journey" target="also"/>
+<edge source="also" target="like"/>
+<edge source="also" target="love"/>
+<edge source="also" target="store"/>
+<edge source="point" target="system"/>
+<edge source="point" target="time"/>
+<edge source="point" target="beauti"/>
+<edge source="system" target="seem"/>
+<edge source="seem" target="give"/>
+<edge source="seem" target="like"/>
+<edge source="give" target="bang"/>
+<edge source="bang" target="buck"/>
+<edge source="buck" target="case"/>
+<edge source="case" target="point"/>
+<edge source="time" target="use"/>
+<edge source="time" target="shop"/>
+<edge source="deal" target="day"/>
+<edge source="deal" target="part"/>
+<edge source="83" target="guard"/>
+<edge source="guard" target="serum"/>
+<edge source="serum" target="mere"/>
+<edge source="mere" target="597"/>
+<edge source="597" target="major"/>
+<edge source="major" target="beauti"/>
+<edge source="shop" target="friendli"/>
+<edge source="shop" target="origin"/>
+<edge source="shop" target="onlin"/>
+<edge source="shop" target="cv"/>
+<edge source="shop" target="la"/>
+<edge source="origin" target="publish"/>
+<edge source="publish" target="march"/>
+<edge source="categori" target="run"/>
+<edge source="run" target="rachel"/>
+<edge source="rachel" target="say"/>
+<edge source="say" target="march"/>
+<edge source="758" target="combin"/>
+<edge source="combin" target="la"/>
+<edge source="target" target="time"/>
+<edge source="onlin" target="la"/>
+<edge source="mani" target="good"/>
+<edge source="good" target="gift"/>
+<edge source="good" target="sale"/>
+<edge source="good" target="bandi"/>
+<edge source="good" target="deal"/>
+<edge source="gift" target="purchas"/>
+<edge source="gift" target="way"/>
+<edge source="purchas" target="good"/>
+<edge source="purchas" target="one"/>
+<edge source="purchas" target="sephora"/>
+<edge source="sale" target="top"/>
+<edge source="sale" target="come"/>
+<edge source="sale" target="realli"/>
+<edge source="top" target="aren"/>
+<edge source="346" target="pm"/>
+<edge source="pm" target="oh"/>
+<edge source="pm" target="ye"/>
+<edge source="pm" target="agre"/>
+<edge source="pm" target="la"/>
+<edge source="pm" target="definit"/>
+<edge source="oh" target="take"/>
+<edge source="take" target="advantag"/>
+<edge source="advantag" target="la"/>
+<edge source="windi" target="say"/>
+<edge source="1042" target="la"/>
+<edge source="reward" target="sephora"/>
+<edge source="reward" target="good"/>
+<edge source="reward" target="program"/>
+<edge source="reward" target="also"/>
+<edge source="pale" target="comparison"/>
+<edge source="comparison" target="aren"/>
+<edge source="ye" target="la"/>
+<edge source="bandi" target="say"/>
+<edge source="1107" target="usual"/>
+<edge source="usual" target="lawith"/>
+<edge source="lawith" target="thing"/>
+<edge source="thing" target="sephora"/>
+<edge source="program" target="free"/>
+<edge source="program" target="better"/>
+<edge source="free" target="gift"/>
+<edge source="way" target="better"/>
+<edge source="love" target="varieti"/>
+<edge source="varieti" target="band"/>
+<edge source="agre" target="varieti"/>
+<edge source="of" target="say"/>
+<edge source="631" target="pm"/>
+<edge source="conveni" target="locat"/>
+<edge source="locat" target="use"/>
+<edge source="cv" target="walgreen"/>
+<edge source="cv" target="new"/>
+<edge source="walgreen" target="especi"/>
+<edge source="new" target="town"/>
+<edge source="town" target="compet"/>
+<edge source="compet" target="pretti"/>
+<edge source="pretti" target="fierc"/>
+<edge source="fierc" target="get"/>
+<edge source="part" target="fascia"/>
+<edge source="fascia" target="say"/>
+<edge source="830" target="pm"/>
+<edge source="definit" target="shop"/>
+<edge source="although" target="made"/>
+<edge source="made" target="purchas"/>
+<edge source="realiz" target="afterward"/>
+<edge source="afterward" target="sale"/>
+<edge source="come" target="seem"/>
+<edge source="20" target="15"/>
+<edge source="10" target="sephora"/>
+<edge source="cover" target="tax"/>
+<edge source="tax" target="like"/>
+<edge source="mix" target="high"/>
+<edge source="high" target="end"/>
+<edge source="end" target="budget"/>
+<edge source="budget" target="friendli"/>
+<edge source="product" target="penn"/>
+<edge source="penn" target="say"/>
+</graph></graphml>
