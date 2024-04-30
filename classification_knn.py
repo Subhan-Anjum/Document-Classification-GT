@@ -1,36 +1,49 @@
-from itertools import combinations
-from collections import Counter
-import networkx as nx
-from preprocessing import document_graphs, create_graph
 import pandas as pd
+import networkx as nx
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+from collections import Counter
+import docx
+import tkinter as tk
+from tkinter import filedialog
+from nltk.stem import WordNetLemmatizer
 
-# Function to compute the maximal common subgraph (MCS) between two graphs
-
-def compute_mcs(G1, G2):
-    # Convert graphs to edge sets
-    edges1 = set(G1.edges())
-    edges2 = set(G2.edges())
-
-    # Compute the intersection of edges
-    common_edges = edges1.intersection(edges2)
-
-    # Create a new graph with common edges
-    mcs_graph = nx.Graph(list(common_edges))
-
-    return mcs_graph
+# Function to preprocess text by tokenization, removing stopwords, and stemming
 
 
-def compute_distance(G1, G2):
-    mcs_graph = compute_mcs(G1, G2)
-    return -len(mcs_graph.edges())
+
+def preprocess_text(text):
+    tokens = word_tokenize(text)
+    stop_words = set(stopwords.words('english'))
+    filtered_tokens = [
+        word for word in tokens if word.lower() not in stop_words]
+    
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(word) for word in filtered_tokens]
+    
+    return lemmatized_tokens
 
 
-def knn_classify(test_graph, k):
+# Function to create a directed graph from text data
+
+
+def create_graph_from_text_data(text):
+    terms = preprocess_text(text)
+    graph = nx.DiGraph()
+    for i in range(len(terms)-1):
+        graph.add_edge(terms[i], terms[i+1])
+    return graph
+
+# Function to classify a document using k-Nearest Neighbors (kNN) algorithm
+
+
+def classify_document(test_graph, k):
     distances = []
 
-    # Compute distance between test_graph and each training graph
+    # Compute distance between the test graph and each training graph
     for train_id, train_graph in document_graphs.items():
-        distance = compute_distance(test_graph, train_graph)
+        distance = compute_graph_distance(test_graph, train_graph)
         distances.append((train_id, distance))
 
     # Sort distances in ascending order
@@ -47,13 +60,62 @@ def knn_classify(test_graph, k):
 
     return majority_class
 
+# Function to compute distance between graphs based on their maximal common subgraph
 
-data = pd.read_csv('merged_file.csv', encoding='latin1')
-# data = pd.concat([data.iloc[12: 15], data.iloc[27:30], data.iloc[42: 44]])
-test_documents = [create_graph(str(data.iloc[12]['Content'])), create_graph(
-    str(data.iloc[44]['Content'])), create_graph(str(data.iloc[29]['Content']))]
 
-# Classify test documents using kNN
-for test_graph in test_documents:
-    predicted_category = knn_classify(test_graph, k=3)
-    print("Predicted category:", predicted_category)
+def compute_graph_distance(graph1, graph2):
+    mcs_graph = find_maximal_common_subgraph(graph1, graph2)
+    return -len(mcs_graph.edges())
+
+# Function to find the maximal common subgraph between two graphs
+
+
+def find_maximal_common_subgraph(graph1, graph2):
+    # Convert graphs to sets of edges
+    edges1 = set(graph1.edges())
+    edges2 = set(graph2.edges())
+
+    # Find common edges between the two graphs
+    common_edges = edges1.intersection(edges2)
+
+    # Create a new graph with the common edges
+    mcs_graph = nx.Graph(list(common_edges))
+
+    return mcs_graph
+
+# Function to read the text content from a Word document
+
+
+def read_word_document(file_path):
+    doc = docx.Document(file_path)
+    text = ""
+    for para in doc.paragraphs:
+        text += para.text + "\n"
+    return text.strip()
+
+
+# Load data
+data = pd.read_csv('output.csv', encoding='latin1')
+
+# Preprocess training data and create graphs
+content_column = 'Content'
+document_graphs = {}
+for index, row in data.iterrows():
+    content = row[content_column]
+    document_id = index
+    document_graphs[document_id] = create_graph_from_text_data(content)
+
+# Create GUI window
+root = tk.Tk()
+root.withdraw()  # Hide the main window
+
+# Prompt user to select a file
+file_path = filedialog.askopenfilename(title="Select a .docx file")
+
+# Read and preprocess the text content of the document
+text_content = read_word_document(file_path)
+test_graph = create_graph_from_text_data(text_content)
+
+# Classify the document using kNN
+predicted_category = classify_document(test_graph, k=3)
+print("Predicted Class:", predicted_category)

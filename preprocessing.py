@@ -1,14 +1,10 @@
 import pandas as pd
 import networkx as nx
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
-import nltk
 
-# Download NLTK resources
-nltk.download('punkt')
-nltk.download('stopwords')
+
 
 def preprocess_text(text):
     tokens = word_tokenize(text)
@@ -25,8 +21,7 @@ def create_graph(text):
         G.add_edge(terms[i], terms[i+1])
     return G
 
-data = pd.read_csv('merged_file.csv', encoding='latin1')
-data = pd.concat([data.iloc[0: 12], data.iloc[15:27], data.iloc[30:42]])
+data = pd.read_csv('output.csv', encoding='latin1')
 
 content_column = 0
 
